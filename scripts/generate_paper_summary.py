@@ -120,6 +120,10 @@ for idx, row in enumerate(rows_out, start=1):
     if code_avail == 'yes' and not row.get('stage_full_text_label'):
         heuristic_note += '; inferred: code_available_from_url'
     notes = '; '.join([part for part in [base_note, heuristic_note] if part])
+    try:
+        notes = notes.encode('ascii', 'ignore').decode()
+    except Exception:
+        pass
     final_rows.append({
         'Paper_ID': idx,
         'Ref_ID': ref,
