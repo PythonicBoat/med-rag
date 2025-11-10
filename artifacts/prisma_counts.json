@@ -1,0 +1,985 @@
+{
+  "records_by_source": {
+    "PubMed": 0,
+    "IEEE Xplore": 0,
+    "CrossRef": 100,
+    "Google Scholar": 0,
+    "Repositories": 50
+  },
+  "duplicates": {
+    "same_doi": [
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385333",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385333"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2017.7858158",
+        "members": [
+          "crossref:10.1109/iww-bci.2017.7858158"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1088/1741-2552/ac4430",
+        "members": [
+          "crossref:10.1088/1741-2552/ac4430"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061622",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061622"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2019.8737343",
+        "members": [
+          "crossref:10.1109/iww-bci.2019.8737343"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci57258.2023.10078681",
+        "members": [
+          "crossref:10.1109/bci57258.2023.10078681"
+        ]
+      },
+      {
+        "canonical": "crossref:10.32657/10356/166652",
+        "members": [
+          "crossref:10.32657/10356/166652"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385289",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385289"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061635",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061635"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061651",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061651"
+        ]
+      },
+      {
+        "canonical": "crossref:10.20944/preprints202206.0053.v1",
+        "members": [
+          "crossref:10.20944/preprints202206.0053.v1"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385368",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385368"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci60775.2024.10480446",
+        "members": [
+          "crossref:10.1109/bci60775.2024.10480446"
+        ]
+      },
+      {
+        "canonical": "crossref:10.48084/etasr.9945",
+        "members": [
+          "crossref:10.48084/etasr.9945"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2018.8311522",
+        "members": [
+          "crossref:10.1109/iww-bci.2018.8311522"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2018.8311517",
+        "members": [
+          "crossref:10.1109/iww-bci.2018.8311517"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci57258.2023.10078663",
+        "members": [
+          "crossref:10.1109/bci57258.2023.10078663"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci65088.2025.10931312",
+        "members": [
+          "crossref:10.1109/bci65088.2025.10931312"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci57258.2023.10078607",
+        "members": [
+          "crossref:10.1109/bci57258.2023.10078607"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061668",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061668"
+        ]
+      },
+      {
+        "canonical": "crossref:10.32604/iasc.2023.035905",
+        "members": [
+          "crossref:10.32604/iasc.2023.035905"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/smc.2019.8914623",
+        "members": [
+          "crossref:10.1109/smc.2019.8914623"
+        ]
+      },
+      {
+        "canonical": "crossref:10.7717/peerj-cs.2669/fig-13",
+        "members": [
+          "crossref:10.7717/peerj-cs.2669/fig-13"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061612",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061612"
+        ]
+      },
+      {
+        "canonical": "crossref:10.7717/peerj-cs.2669/fig-10",
+        "members": [
+          "crossref:10.7717/peerj-cs.2669/fig-10"
+        ]
+      },
+      {
+        "canonical": "crossref:10.53555/kuey.v29i4.10364",
+        "members": [
+          "crossref:10.53555/kuey.v29i4.10364"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385305",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385305"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385367",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385367"
+        ]
+      },
+      {
+        "canonical": "crossref:10.7717/peerj-cs.2669/fig-11",
+        "members": [
+          "crossref:10.7717/peerj-cs.2669/fig-11"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385293",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385293"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/ccip.2015.7100718",
+        "members": [
+          "crossref:10.1109/ccip.2015.7100718"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2013.6506621",
+        "members": [
+          "crossref:10.1109/iww-bci.2013.6506621"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1088/1741-2552/aaaf82",
+        "members": [
+          "crossref:10.1088/1741-2552/aaaf82"
+        ]
+      },
+      {
+        "canonical": "crossref:10.23883/ijrter.2017.3058.xdmno",
+        "members": [
+          "crossref:10.23883/ijrter.2017.3058.xdmno"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1143/jpsj.75.104801",
+        "members": [
+          "crossref:10.1143/jpsj.75.104801"
+        ]
+      },
+      {
+        "canonical": "crossref:10.5220/0013510700004619",
+        "members": [
+          "crossref:10.5220/0013510700004619"
+        ]
+      },
+      {
+        "canonical": "crossref:10.5772/55801",
+        "members": [
+          "crossref:10.5772/55801"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci53720.2022.9734935",
+        "members": [
+          "crossref:10.1109/bci53720.2022.9734935"
+        ]
+      },
+      {
+        "canonical": "crossref:10.46281/bjmsr.v9i3.2230",
+        "members": [
+          "crossref:10.46281/bjmsr.v9i3.2230"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385338",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385338"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/icnc.2010.5582892",
+        "members": [
+          "crossref:10.1109/icnc.2010.5582892"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1016/j.matpr.2020.09.619",
+        "members": [
+          "crossref:10.1016/j.matpr.2020.09.619"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1007/s00221-013-3699-6",
+        "members": [
+          "crossref:10.1007/s00221-013-3699-6"
+        ]
+      },
+      {
+        "canonical": "crossref:10.3390/brainsci9120347",
+        "members": [
+          "crossref:10.3390/brainsci9120347"
+        ]
+      },
+      {
+        "canonical": "crossref:10.5772/56146",
+        "members": [
+          "crossref:10.5772/56146"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/cvidl65390.2025.11085992",
+        "members": [
+          "crossref:10.1109/cvidl65390.2025.11085992"
+        ]
+      },
+      {
+        "canonical": "crossref:10.7717/peerj-cs.2669/fig-12",
+        "members": [
+          "crossref:10.7717/peerj-cs.2669/fig-12"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2018.8311492",
+        "members": [
+          "crossref:10.1109/iww-bci.2018.8311492"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1088/1741-2552/ab9842",
+        "members": [
+          "crossref:10.1088/1741-2552/ab9842"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci60775.2024.10480506",
+        "members": [
+          "crossref:10.1109/bci60775.2024.10480506"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2016.7457462",
+        "members": [
+          "crossref:10.1109/iww-bci.2016.7457462"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci65088.2025.10931755",
+        "members": [
+          "crossref:10.1109/bci65088.2025.10931755"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci65088.2025.10931379",
+        "members": [
+          "crossref:10.1109/bci65088.2025.10931379"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1007/s00521-025-11403-2",
+        "members": [
+          "crossref:10.1007/s00521-025-11403-2"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci53720.2022.9735124",
+        "members": [
+          "crossref:10.1109/bci53720.2022.9735124"
+        ]
+      },
+      {
+        "canonical": "crossref:10.21203/rs.3.rs-1599383/v1",
+        "members": [
+          "crossref:10.21203/rs.3.rs-1599383/v1"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/ie49459.2020.9155016",
+        "members": [
+          "crossref:10.1109/ie49459.2020.9155016"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci57258.2023.10078542",
+        "members": [
+          "crossref:10.1109/bci57258.2023.10078542"
+        ]
+      },
+      {
+        "canonical": "crossref:10.3390/s22062241",
+        "members": [
+          "crossref:10.3390/s22062241"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci57258.2023.10078589",
+        "members": [
+          "crossref:10.1109/bci57258.2023.10078589"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci53720.2022.9734940",
+        "members": [
+          "crossref:10.1109/bci53720.2022.9734940"
+        ]
+      },
+      {
+        "canonical": "crossref:10.21817/indjcse/2022/v13i6/221306085",
+        "members": [
+          "crossref:10.21817/indjcse/2022/v13i6/221306085"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/siu.2015.7130442",
+        "members": [
+          "crossref:10.1109/siu.2015.7130442"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1007/s00221-014-3860-x",
+        "members": [
+          "crossref:10.1007/s00221-014-3860-x"
+        ]
+      },
+      {
+        "canonical": "crossref:10.2139/ssrn.3274806",
+        "members": [
+          "crossref:10.2139/ssrn.3274806"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1016/s0013-4694(96)95689-8",
+        "members": [
+          "crossref:10.1016/s0013-4694(96)95689-8"
+        ]
+      },
+      {
+        "canonical": "crossref:10.3389/fpsyg.2023.1141801",
+        "members": [
+          "crossref:10.3389/fpsyg.2023.1141801"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1142/9781786349590_0004",
+        "members": [
+          "crossref:10.1142/9781786349590_0004"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385358",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385358"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2018.8311534",
+        "members": [
+          "crossref:10.1109/iww-bci.2018.8311534"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061644",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061644"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061637",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061637"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci57258.2023.10078628",
+        "members": [
+          "crossref:10.1109/bci57258.2023.10078628"
+        ]
+      },
+      {
+        "canonical": "crossref:10.5220/0013597000004664",
+        "members": [
+          "crossref:10.5220/0013597000004664"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1101/2024.12.11.627386",
+        "members": [
+          "crossref:10.1101/2024.12.11.627386"
+        ]
+      },
+      {
+        "canonical": "crossref:10.3390/s24103040",
+        "members": [
+          "crossref:10.3390/s24103040"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1142/9781786349590_0005",
+        "members": [
+          "crossref:10.1142/9781786349590_0005"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci65088.2025.10931335",
+        "members": [
+          "crossref:10.1109/bci65088.2025.10931335"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2016.7457445",
+        "members": [
+          "crossref:10.1109/iww-bci.2016.7457445"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385347",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385347"
+        ]
+      },
+      {
+        "canonical": "crossref:10.20944/preprints202310.1753.v1",
+        "members": [
+          "crossref:10.20944/preprints202310.1753.v1"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1002/aisy.202500393",
+        "members": [
+          "crossref:10.1002/aisy.202500393"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1002/2050-7038.13204/v1/review1",
+        "members": [
+          "crossref:10.1002/2050-7038.13204/v1/review1"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1002/2050-7038.13204/v1/review2",
+        "members": [
+          "crossref:10.1002/2050-7038.13204/v1/review2"
+        ]
+      },
+      {
+        "canonical": "crossref:10.5220/0013190900003911",
+        "members": [
+          "crossref:10.5220/0013190900003911"
+        ]
+      },
+      {
+        "canonical": "crossref:10.3390/cancers11121901",
+        "members": [
+          "crossref:10.3390/cancers11121901"
+        ]
+      },
+      {
+        "canonical": "crossref:10.2174/9789815305395125020043",
+        "members": [
+          "crossref:10.2174/9789815305395125020043"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1002/2050-7038.13204/v2/review1",
+        "members": [
+          "crossref:10.1002/2050-7038.13204/v2/review1"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bibm58861.2023.10385538",
+        "members": [
+          "crossref:10.1109/bibm58861.2023.10385538"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci51272.2021.9385353",
+        "members": [
+          "crossref:10.1109/bci51272.2021.9385353"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1142/9781786349590_0008",
+        "members": [
+          "crossref:10.1142/9781786349590_0008"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1142/9781786349590_0007",
+        "members": [
+          "crossref:10.1142/9781786349590_0007"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bibm58861.2023.10385687",
+        "members": [
+          "crossref:10.1109/bibm58861.2023.10385687"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci48061.2020.9061671",
+        "members": [
+          "crossref:10.1109/bci48061.2020.9061671"
+        ]
+      },
+      {
+        "canonical": "crossref:10.62050/fscp2024.462",
+        "members": [
+          "crossref:10.62050/fscp2024.462"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2013.6506633",
+        "members": [
+          "crossref:10.1109/iww-bci.2013.6506633"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1007/s00521-024-10633-0",
+        "members": [
+          "crossref:10.1007/s00521-024-10633-0"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/bci53720.2022.9734822",
+        "members": [
+          "crossref:10.1109/bci53720.2022.9734822"
+        ]
+      },
+      {
+        "canonical": "crossref:10.21203/rs.3.rs-6204645/v1",
+        "members": [
+          "crossref:10.21203/rs.3.rs-6204645/v1"
+        ]
+      },
+      {
+        "canonical": "crossref:10.1109/iww-bci.2019.8737309",
+        "members": [
+          "crossref:10.1109/iww-bci.2019.8737309"
+        ]
+      }
+    ],
+    "fuzzy_groups": [
+      {
+        "canonical": "github:260119347",
+        "members": [
+          "github:260119347",
+          "github:112804646",
+          "github:309157434",
+          "github:153808437",
+          "github:610714781"
+        ]
+      },
+      {
+        "canonical": "github:167753773",
+        "members": [
+          "github:167753773",
+          "github:20489534",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:283370758",
+        "members": [
+          "github:283370758",
+          "github:460690677"
+        ]
+      },
+      {
+        "canonical": "github:20489534",
+        "members": [
+          "github:20489534",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:273901260",
+        "members": [
+          "github:273901260",
+          "github:102040002"
+        ]
+      },
+      {
+        "canonical": "github:269774753",
+        "members": [
+          "github:269774753",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:208559036",
+        "members": [
+          "github:208559036",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:147510468",
+        "members": [
+          "github:147510468",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:128256444",
+        "members": [
+          "github:128256444",
+          "github:102040002"
+        ]
+      },
+      {
+        "canonical": "github:378100179",
+        "members": [
+          "github:378100179",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:102040002",
+        "members": [
+          "github:102040002",
+          "github:273223500",
+          "github:492143713"
+        ]
+      },
+      {
+        "canonical": "github:158693975",
+        "members": [
+          "github:158693975",
+          "github:151831981"
+        ]
+      },
+      {
+        "canonical": "github:273223500",
+        "members": [
+          "github:273223500",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:89793032",
+        "members": [
+          "github:89793032",
+          "github:460690677"
+        ]
+      },
+      {
+        "canonical": "github:257805163",
+        "members": [
+          "github:257805163",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:97613610",
+        "members": [
+          "github:97613610",
+          "github:328795662"
+        ]
+      },
+      {
+        "canonical": "github:328795662",
+        "members": [
+          "github:328795662",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:182146509",
+        "members": [
+          "github:182146509",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:208553156",
+        "members": [
+          "github:208553156",
+          "github:241780220"
+        ]
+      },
+      {
+        "canonical": "github:241780220",
+        "members": [
+          "github:241780220",
+          "github:634883952",
+          "github:460690677"
+        ]
+      }
+    ],
+    "human_review": [
+      {
+        "pair": [
+          "github:283370758",
+          "github:269774753"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:208559036"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Pre-trained-EEG-for-Deep-Learning"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:147510468"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Deep_learning_fMRI_EEG"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:378100179"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Epileptic-EEG-Classfication-Using-Deep-Learning"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:273223500"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "EEG-signal-classification-using-Deep-Learning"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:89793032"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Deep-Learning-Models"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:257805163"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Re-Deep-Convolution-Neural-Network-and-Autoencoders-Based-Unsupervised-Feature-Learning-of-EEG"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:182146509"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Deep-neural-network-Transfer-learning-EEG-MEG-"
+        ]
+      },
+      {
+        "pair": [
+          "github:283370758",
+          "github:208553156"
+        ],
+        "score": 0.8666666666666667,
+        "titles": [
+          "Deep-Learning-for-BCI",
+          "Deep-Learning-for-EEG-Based-Biometrics"
+        ]
+      },
+      {
+        "pair": [
+          "github:269774753",
+          "github:147510468"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals",
+          "Deep_learning_fMRI_EEG"
+        ]
+      },
+      {
+        "pair": [
+          "github:208559036",
+          "github:147510468"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Pre-trained-EEG-for-Deep-Learning",
+          "Deep_learning_fMRI_EEG"
+        ]
+      },
+      {
+        "pair": [
+          "github:147510468",
+          "github:378100179"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep_learning_fMRI_EEG",
+          "Epileptic-EEG-Classfication-Using-Deep-Learning"
+        ]
+      },
+      {
+        "pair": [
+          "github:147510468",
+          "github:273223500"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep_learning_fMRI_EEG",
+          "EEG-signal-classification-using-Deep-Learning"
+        ]
+      },
+      {
+        "pair": [
+          "github:147510468",
+          "github:257805163"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep_learning_fMRI_EEG",
+          "Re-Deep-Convolution-Neural-Network-and-Autoencoders-Based-Unsupervised-Feature-Learning-of-EEG"
+        ]
+      },
+      {
+        "pair": [
+          "github:147510468",
+          "github:182146509"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep_learning_fMRI_EEG",
+          "Deep-neural-network-Transfer-learning-EEG-MEG-"
+        ]
+      },
+      {
+        "pair": [
+          "github:147510468",
+          "github:208553156"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep_learning_fMRI_EEG",
+          "Deep-Learning-for-EEG-Based-Biometrics"
+        ]
+      },
+      {
+        "pair": [
+          "github:147510468",
+          "github:460690677"
+        ],
+        "score": 0.8717948717948718,
+        "titles": [
+          "Deep_learning_fMRI_EEG",
+          "Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI"
+        ]
+      },
+      {
+        "pair": [
+          "github:378100179",
+          "github:273223500"
+        ],
+        "score": 0.8695652173913043,
+        "titles": [
+          "Epileptic-EEG-Classfication-Using-Deep-Learning",
+          "EEG-signal-classification-using-Deep-Learning"
+        ]
+      },
+      {
+        "pair": [
+          "github:257805163",
+          "github:634883952"
+        ],
+        "score": 0.9019607843137254,
+        "titles": [
+          "Re-Deep-Convolution-Neural-Network-and-Autoencoders-Based-Unsupervised-Feature-Learning-of-EEG",
+          "SEED-EEG-Deep-neural-network"
+        ]
+      },
+      {
+        "pair": [
+          "github:182146509",
+          "github:634883952"
+        ],
+        "score": 0.9019607843137254,
+        "titles": [
+          "Deep-neural-network-Transfer-learning-EEG-MEG-",
+          "SEED-EEG-Deep-neural-network"
+        ]
+      }
+    ]
+  },
+  "total_identified": 150,
+  "de_dup_count": 150
+}

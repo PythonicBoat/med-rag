@@ -1,0 +1,23 @@
+Paper_ID,Ref_ID,Code_Available,GitHub_URL,Notes
+26,github:260119347,yes,https://github.com/SuperBruceJia/EEG-DL,Duplicate study
+27,github:247424389,yes,https://github.com/zhangks98/eeg-adapt,No performance metrics reported
+28,github:273901260,yes,https://github.com/basharbme/EEG_Classification_Deeplearning,Duplicate study
+29,github:269774753,yes,https://github.com/meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals,Duplicate study
+30,github:309157434,yes,https://github.com/hubertjb/dl-eeg-tutorial,Insufficient methodological detail
+31,github:305975134,yes,https://github.com/emadeldeen24/AttnSleep,Insufficient methodological detail
+32,github:208559036,yes,https://github.com/IoBT-VISTEC/Pre-trained-EEG-for-Deep-Learning,Duplicate study
+33,github:147510468,yes,https://github.com/nmningmei/Deep_learning_fMRI_EEG,Duplicate study
+34,github:339990611,yes,https://github.com/Abhishek-Iyer1/emotion-classifcation-eeg-seed-ensemble,No performance metrics reported
+35,github:610714781,yes,https://github.com/edw4rdyao/eeg_mi_dl,Insufficient methodological detail
+36,github:112556768,yes,https://github.com/TianGL/CNN-MI-BCI,No performance metrics reported
+37,github:128256444,yes,https://github.com/shariharan205/Motor-Imagery-Tasks-Classification-using-EEG-data,Duplicate study
+38,github:102040002,yes,https://github.com/tevisgehr/EEG-Classification,Duplicate study
+39,github:195250370,yes,https://github.com/dfreer15/DeepEEGDataAugmentation,Insufficient methodological detail
+40,github:322593295,yes,https://github.com/dll-ncai/eeg_pre-diagnostic_screening,Insufficient methodological detail
+41,github:273223500,yes,https://github.com/Rehan-A/EEG-signal-classification-using-Deep-Learning,Duplicate study
+42,github:89793032,yes,https://github.com/ahasanpour/Deep-Learning-Models,Duplicate study
+43,github:241780220,yes,https://github.com/james-sungjae-lee/Deep-EEG,Duplicate study
+44,github:493031977,yes,https://github.com/James-Mc1ntyre/DeepLearningProject,Insufficient methodological detail
+45,github:634883952,yes,https://github.com/patrickdmiller/SEED-EEG-Deep-neural-network,No performance metrics reported
+46,github:492143713,yes,https://github.com/YeZiyi1998/DL4EEG-Classification,Insufficient methodological detail
+47,github:250355203,yes,https://github.com/krishk97/ECE-C247-EEG-GAN,No performance metrics reported

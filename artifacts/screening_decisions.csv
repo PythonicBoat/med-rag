@@ -1,0 +1,2 @@
+Record_ID,Title,Authors,Year,Screening_Stage,Decision,Reviewer,Date,Reason
+# Title/abstract and full-text screening decisions log. Decision values: include/exclude/uncertain

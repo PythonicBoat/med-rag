@@ -15,8 +15,10 @@ def search(query, cfg, retmax=1000):
         'db': 'pubmed',
         'term': query,
         'retmax': retmax,
-        'api_key': API_KEY
     }
+    # only include API key if set (avoid passing 'None' which leads to HTTP 400)
+    if API_KEY:
+        params['api_key'] = API_KEY
     resp = requests.get(f"{BASE}/esearch.fcgi?{urlencode(params)}")
     resp.raise_for_status()
     from xml.etree import ElementTree as ET
@@ -29,8 +31,9 @@ def search(query, cfg, retmax=1000):
         'db': 'pubmed',
         'id': ','.join(ids[:retmax]),
         'retmode': 'xml',
-        'api_key': API_KEY
     }
+    if API_KEY:
+        fetch_params['api_key'] = API_KEY
     r2 = requests.get(f"{BASE}/efetch.fcgi?{urlencode(fetch_params)}")
     r2.raise_for_status()
     root2 = ET.fromstring(r2.text)
