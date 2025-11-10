@@ -30,5 +30,8 @@ def full_text_screen(record, cfg):
             return {'decision':'Exclude','stage':'full_text','exclusion_label':'Insufficient methodological detail','evidence_snippet':'No DL architecture mention in full text or abstract','confidence':0.8}
     metric_snip = find_snippet(text, METRIC_KEYWORDS)
     if not metric_snip:
+        # fall back to abstract when full-text extraction is unavailable
+        metric_snip = find_snippet(record.get('abstract'), METRIC_KEYWORDS)
+    if not metric_snip:
         return {'decision':'Exclude','stage':'full_text','exclusion_label':'No performance metrics reported','evidence_snippet':'No metrics found in full text','confidence':0.9}
     return {'decision':'Include','stage':'full_text','exclusion_label':None,'evidence_snippet':(dl_snip or metric_snip)[:400],'confidence':0.95}

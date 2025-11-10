@@ -5,6 +5,7 @@ def write_csv(records, path):
     rows = []
     for r in records:
         row = {
+            'Ref_ID': r.get('ref_id') or r.get('id'),
             'canonical_id': r.get('id'),
             'source': r.get('source'),
             'original_ids': ';'.join(r.get('member_ids', [r.get('id')])),
