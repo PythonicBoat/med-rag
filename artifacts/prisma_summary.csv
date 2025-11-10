@@ -1,0 +1,11 @@
+Stage,Count,Notes
+Records identified,1150,From database/repository searching
+Records after duplicates removed,1142,After deduplication
+Records screened,1142,Title/abstract screening
+Records excluded at screening,402,Excluded at title/abstract stage
+Full-text articles assessed,740,Full-text assessment
+Full-text articles excluded,544,"Sum of all exclusion reasons:
+- Insufficient methodological detail (505)
+- No performance metrics reported (23)
+- Duplicate study (16)"
+Studies included in review,196,Final included studies
