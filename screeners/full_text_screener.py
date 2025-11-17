@@ -3,6 +3,7 @@ import re
 
 DL_KEYWORDS = ['cnn','convolution','rnn','lstm','transformer','deep neural','deep network','neural network']
 METRIC_KEYWORDS = ['accuracy','f1','roc','auc','sensitivity','specificity','precision','recall','confusion matrix']
+MI_KEYWORDS = ['motor imagery','mi','imagined movement','left hand','right hand','foot','tongue','bci competition']
 
 
 def find_snippet(text, keywords, window=200):
@@ -24,6 +25,11 @@ def full_text_screen(record, cfg):
     if record.get('member_ids') and len(record.get('member_ids')) > 1:
         return {'decision':'Exclude','stage':'full_text','exclusion_label':'Duplicate study','evidence_snippet':'Duplicate group','confidence':0.99}
 
+    # Motor Imagery focus check
+    mi_snip = find_snippet(text, MI_KEYWORDS) or find_snippet(record.get('abstract'), MI_KEYWORDS)
+    if not mi_snip:
+        return {'decision':'Exclude','stage':'full_text','exclusion_label':'Not Motor Imagery focused','evidence_snippet':'No MI terms found in full text or abstract','confidence':0.9}
+
     dl_snip = find_snippet(text, DL_KEYWORDS)
     if not dl_snip:
         if not any(k in (record.get('abstract') or '').lower() for k in DL_KEYWORDS):
@@ -34,4 +40,4 @@ def full_text_screen(record, cfg):
         metric_snip = find_snippet(record.get('abstract'), METRIC_KEYWORDS)
     if not metric_snip:
         return {'decision':'Exclude','stage':'full_text','exclusion_label':'No performance metrics reported','evidence_snippet':'No metrics found in full text','confidence':0.9}
-    return {'decision':'Include','stage':'full_text','exclusion_label':None,'evidence_snippet':(dl_snip or metric_snip)[:400],'confidence':0.95}
+    return {'decision':'Include','stage':'full_text','exclusion_label':None,'evidence_snippet':(mi_snip or dl_snip or metric_snip)[:400],'confidence':0.95}

@@ -5,14 +5,11 @@ search:
   sources:
     - pubmed
     - ieee
-    - crossref
     - google_scholar
-    - github
-    - zenodo
   queries:
-    ieee: '(classification OR "classification" OR "classifier" OR accuracy OR f1 OR sensitivity OR specificity) AND ("EEG" OR "electroencephalography" OR "brain-computer interface" OR "BCI") AND ("deep learning" OR "neural network" OR "CNN" OR "RNN" OR "LSTM" OR "transformer")'
-    pubmed: '((classification[Title/Abstract] OR classifier[Title/Abstract] OR accuracy[Title/Abstract]) AND ("electroencephalography"[MeSH Terms] OR "EEG" OR "brain computer interface") AND ("2019"[Date - Publication] : "2024"[Date - Publication]))'
-    google_scholar: 'EEG classification "brain-computer interface" (CNN OR LSTM OR transformer OR classifier) 2019..2024'
+    ieee: '(motor imagery OR MI OR "imagined movement" OR "left hand" OR "right hand" OR foot OR tongue) AND (EEG OR electroencephalography OR "brain-computer interface" OR BCI) AND ("deep learning" OR "neural network" OR CNN OR RNN OR LSTM OR transformer) AND (classification OR accuracy OR f1 OR sensitivity OR specificity)'
+    pubmed: '(("motor imagery"[Title/Abstract] OR MI[Title/Abstract] OR "imagined movement"[Title/Abstract]) AND ("electroencephalography"[MeSH Terms] OR EEG OR "brain computer interface") AND ("deep learning" OR "neural network" OR CNN OR LSTM OR transformer OR classifier OR classification)) AND ("2019"[Date - Publication] : "2024"[Date - Publication])'
+    google_scholar: '"motor imagery" EEG BCI classification (CNN OR LSTM OR transformer OR "deep learning") 2019..2024'
   exclude_sources:
     - arxiv
 

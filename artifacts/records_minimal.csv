@@ -1,0 +1,1029 @@
+name,author,source
+Surfing beta burst waveforms to improve motor imagery-based BCI.,Sotirios Papadopoulos;Ludovic Darmet;Maciej J Szul;Marco Congedo;James J Bonaiuto;Jérémie Mattout,PubMed
+Domain-Incremental Learning Framework for Continual Motor Imagery EEG Classification Task.,Dan Li;Hye-Bin Shin;Kang Yin;Seong-Whan Lee,PubMed
+Exploring Schizophrenia Classification in fMRI Data: A Common Spatial Patterns(CSP) Approach for Enhanced Feature Extraction and Classification.,M Moein Esfahani;Robyn Miller;V D Calhoun,PubMed
+Time Window Optimization for Riemannian Geometry-based Motor Imagery EEG Classification.,Fanbo Zhuo;Bo Lv;Fengzhen Tang,PubMed
+Profiling a Raspberry Pi-Based Motor Imagery Classification to Facilitate At-Home BCI for Children with Disabilities.,Oluwagbenga Paul Idowu;Eli Kinney-Lang;Adam Gulamhusein;Brian Irvine;Adam Kirton;Hatem Abou-Zeid,PubMed
+EEG Pattern Comparison and Classification Performance of Motor Imagery Between Supernumerary and Inherent Limbs.,Zhuang Wang;Yuan Liu;Wenlai Wu;Shuaifei Huang;Xingwei An;Dong Ming,PubMed
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification.,Elissa Yanting Lim;Kang Yin;Hye-Bin Shin;Seong-Whan Lee,PubMed
+A Study on Changes in Estimation Accuracy for EEG Data During Calibration and Operation in MI-BCI.,Takuya Kanda;Takashi Isezaki;Kengo Okitsu,PubMed
+Enhanced BCI Performance using Diffusion Model for EEG Generation.,Yucun Zhong;Lin Yao;Yueming Wang,PubMed
+Channel- and Label-Flip Data Augmentation for Motor Imagery-Based Brain-Computer Interfaces.,Takayuki Hoshino;Suguru Kanoga;Atsushi Aoyama,PubMed
+Benchmarking motor imagery algorithms for pediatric users of brain-computer interfaces.,Brian Irvine;Hatem Abou-Zeid;Adam Kirton;Eli Kinney-Lang,PubMed
+Bi-hemisphere Interaction Convolutional Neural Network for Motor Imagery Classification.,Xiaohao Lin;Emadeldeen Eldele;Zhenghua Chen;Min Wu;Han Wei Ng;Cuntai Guan,PubMed
+Exploring Novel Practical Approach to Post-Stroke Upper-Limb Neurorehabilitation Based on Complex Motor Imagery Tasks.,Cristian D Guerrero-Mendez;H Rivera-Flor;Ana C Villa-Parra;Teodiano F Bastos-Filho,PubMed
+Evaluation of EEG and MEG responses during Fine Motor Imagery from the same limb.,Rui Jiang;Shuang Qiu;Yu Wang;Chuncheng Zhang;Huiguang He,PubMed
+Role of Scalp EEG Brain Connectivity in Motor Imagery Decoding for BCI Applications.,Fatemeh Delavari;Sabato Santaniello,PubMed
+EEG Acquisition and Motor Imagery Classification for Robotic Control.,Hamza Amrani;Daniela Micucci;Marco Nalin;Paolo Napoletano;Ilario Rizzi,PubMed
+Utilizing Motor-Imagery Brain-Computer Interfaces for the Assessment of Developmental Coordination Disorder in Children.,Kuan-Yi Lee;Kong-Yi Chang;Hao-Che Hsu;Yu-Ting Tseng;Chun-Shu Wei;Shih-Syun Lin;Chun-Hsiang Chuang,PubMed
+Bi-Stream Adaptation Network for Motor Imagery Decoding.,Zikai Wang;Ang Li;Zhenyu Wang;Ting Zhou;Tianheng Xu;Honglin Hu,PubMed
+Cross-subject EEG-based Motor Imagery Recognition for Patient's Rehabilitation.,Yalan Ye;Xinxin Mu;Tongjie Pan;Yuxiang Li;Lin Wei;Xiaoli Fan;Lan Wei,PubMed
+Electrical stimulation-based paradigm to enhance lower limb motor imagery: initial validation in stroke patients.,Zhuolan Gui;Yuan Liu;Shiyin Qiu;Yujian Zhang;Kailun Dong;Dong Ming,PubMed
+CEBRA Method: Decoding Brain Activity for Advanced Brain-Computer Interface Technology.,Jingcheng Yang;Frank Kulwa;Xuanwei Liu;Yiqing Lu;Yufa Fu;Guanglin Li;Yaping Huai;Xin Zhang;Yongcheng Li,PubMed
+FACT-Net: a Frequency Adapter CNN with Temporal-periodicity Inception for Fast and Accurate MI-EEG Decoding.,Sixiong Ke;Banghua Yang;Yiyang Qin;Fenqi Rong;Jiayang Zhang;Yanyan Zheng,PubMed
+A Wearable Brain-Computer Interface with Fewer EEG Channels for Online Motor Imagery Detection.,Zuguang Rao;Junbiao Zhu;Zilin Lu;Rui Zhang;Kendi Li;Zijing Guan;Yuanqing Li,PubMed
+[Three-dimensional convolutional neural network based on spatial-spectral feature pictures learning for decoding motor imagery electroencephalography signal].,Xuejian Wu;Yaqi Chu;Xingang Zhao;Yiwen Zhao,PubMed
+A combination of deep learning models and type-2 fuzzy for EEG motor imagery classification through spatiotemporal-frequency features.,Ensong Jiang;Tangsen Huang;Xiangdong Yin,PubMed
+Performance Improvement with Reduced Number of Channels in Motor Imagery BCI System.,Ali Özkahraman;Tamer Ölmez;Zümray Dokur,PubMed
+Enhancing Deep-Learning Classification for Remote Motor Imagery Rehabilitation Using Multi-Subject Transfer Learning in IoT Environment.,Joharah Khabti;Saad AlAhmadi;Adel Soudani,PubMed
+Unlocking Security for Comprehensive Electroencephalogram-Based User Authentication Systems.,Adnan Elahi Khan Khalil;Jesus Arturo Perez-Diaz;Jose Antonio Cantoral-Ceballos;Javier M Antelis,PubMed
+The Effect of Processing Techniques on the Classification Accuracy of Brain-Computer Interface Systems.,András Adolf;Csaba Márton Köllőd;Gergely Márton;Ward Fadel;István Ulbert,PubMed
+hvEEGNet: a novel deep learning model for high-fidelity EEG reconstruction.,Giulia Cisotto;Alberto Zancanaro;Italo F Zoppis;Sara L Manzoni,PubMed
+EEG channel and feature investigation in binary and multiple motor imagery task predictions.,Murside Degirmenci;Yilmaz Kemal Yuce;Matjaž Perc;Yalcin Isler,PubMed
+Adaptive deep feature representation learning for cross-subject EEG decoding.,Shuang Liang;Linzhe Li;Wei Zu;Wei Feng;Wenlong Hang,PubMed
+Motion Cognitive Decoding of Cross-Subject Motor Imagery Guided on Different Visual Stimulus Materials.,Tian-Jian Luo;Jing Li;Rui Li;Xiang Zhang;Shen-Rui Wu;Hua Peng,PubMed
+3D convolutional neural network based on spatial-spectral feature pictures learning for decoding motor imagery EEG signal.,Xiaoguang Li;Yaqi Chu;Xuejian Wu,PubMed
+An attention-based motor imagery brain-computer interface system for lower limb exoskeletons.,Xinzhi Ma;Weihai Chen;Zhongcai Pei;Jing Zhang,PubMed
+A novel dual-step transfer framework based on domain selection and feature alignment for motor imagery decoding.,Guanglian Bai;Jing Jin;Ren Xu;Xingyu Wang;Andrzej Cichocki,PubMed
+A bimodal deep learning network based on CNN for fine motor imagery.,Chenyao Wu;Yu Wang;Shuang Qiu;Huiguang He,PubMed
+STGAT-CS: spatio-temporal-graph attention network based channel selection for MI-based BCI.,Ming Meng;Bin Xu;Yuliang Ma;Yunyuan Gao;Zhizeng Luo,PubMed
+MSHANet: a multi-scale residual network with hybrid attention for motor imagery EEG decoding.,Mengfan Li;Jundi Li;Xiao Zheng;Jiahao Ge;Guizhi Xu,PubMed
+Coherence-based channel selection and Riemannian geometry features for magnetoencephalography decoding.,Chao Tang;Tianyi Gao;Gang Wang;Badong Chen,PubMed
+Time-frequency-space transformer EEG decoding for spinal cord injury.,Fangzhou Xu;Ming Liu;Xinyi Chen;Yihao Yan;Jinzhao Zhao;Yanbing Liu;Jiaqi Zhao;Shaopeng Pang;Sen Yin;Jiancai Leng;Yang Zhang,PubMed
+A motor imagery classification model based on hybrid brain-computer interface and multitask learning of electroencephalographic and electromyographic deep features.,Yingyu Cao;Shaowei Gao;Huixian Yu;Zhenxi Zhao;Dawei Zang;Chun Wang,PubMed
+EEG-based action anticipation in human-robot interaction: a comparative pilot study.,Rodrigo Vieira;Plinio Moreno;Athanasios Vourvopoulos,PubMed
+An Empirical Model-Based Algorithm for Removing Motion-Caused Artifacts in Motor Imagery EEG Data for Classification Using an Optimized CNN Model.,Rajesh Kannan Megalingam;Kariparambil Sudheesh Sankardas;Sakthiprasad Kuttankulangara Manoharan,PubMed
+MACNet: A Multidimensional Attention-Based Convolutional Neural Network for Lower-Limb Motor Imagery Classification.,Ling-Long Li;Guang-Zhong Cao;Yue-Peng Zhang;Wan-Chen Li;Fang Cui,PubMed
+Enhancing motor imagery EEG signal decoding through machine learning: A systematic review of recent progress.,Ibtehaaj Hameed;Danish M Khan;Syed Muneeb Ahmed;Syed Sabeeh Aftab;Hammad Fazal,PubMed
+A novel method of cognitive overload assessment based on a fusion feature selection using EEG signals.,Zhongrui Li;Li Tong;Ying Zeng;Yuanlong Gao;Diankun Gong;Kai Yang;Yidong Hu;Bin Yan,PubMed
+An adaptive session-incremental broad learning system for continuous motor imagery EEG classification.,Yufei Yang;Mingai Li;Linlin Wang,PubMed
+Classification of motor imagery EEG with ensemble RNCA model.,T Thenmozhi;R Helen;S Mythili,PubMed
+"FDCN-C: A deep learning model based on frequency enhancement, deformable convolution network, and crop module for electroencephalography motor imagery classification.",Hong-Jie Liang;Ling-Long Li;Guang-Zhong Cao,PubMed
+Boosted Harris Hawks Shuffled Shepherd Optimization Augmented Deep Learning based motor imagery classification for brain computer interface.,Fatmah Yousef Assiri;Mahmoud Ragab,PubMed
+A continuous pursuit dataset for online deep learning-based EEG brain-computer interface.,Dylan Forenzo;Hao Zhu;Bin He,PubMed
+Enhancing Motor Imagery Classification with Residual Graph Convolutional Networks and Multi-Feature Fusion.,Fangzhou Xu;Weiyou Shi;Chengyan Lv;Yuan Sun;Shuai Guo;Chao Feng;Yang Zhang;Tzyy-Ping Jung;Jiancai Leng,PubMed
+An effective classification approach for EEG-based motor imagery tasks combined with attention mechanisms.,Jixiang Li;Wuxiang Shi;Yurong Li,PubMed
+Functional connectivity of EEG motor rhythms after spinal cord injury.,Jiancai Leng;Xin Yu;Chongfeng Wang;Jinzhao Zhao;Jianqun Zhu;Xinyi Chen;Zhaoxin Zhu;Xiuquan Jiang;Jiaqi Zhao;Chao Feng;Qingbo Yang;Jianfei Li;Lin Jiang;Fangzhou Xu;Yang Zhang,PubMed
+Classification algorithm for motor imagery fusing CNN and attentional mechanisms based on functional near-infrared spectroscopy brain image.,Xingbin Shi;Baojiang Li;Wenlong Wang;Yuxin Qin;Haiyan Wang;Xichao Wang,PubMed
+A protocol for trustworthy EEG decoding with neural networks.,Davide Borra;Elisa Magosso;Mirco Ravanelli,PubMed
+Partial prior transfer learning based on self-attention CNN for EEG decoding in stroke patients.,Jun Ma;Wanlu Ma;Jingjing Zhang;Yongcong Li;Banghua Yang;Chunlei Shan,PubMed
+Tensor decomposition-based channel selection for motor imagery-based brain-computer interfaces.,Ziwei Huang;Qingguo Wei,PubMed
+A class alignment network based on self-attention for cross-subject EEG classification.,Sufan Ma;Dongxiao Zhang;Jiayi Wang;Jialiang Xie,PubMed
+Temporal attention fusion network with custom loss function for EEG-fNIRS classification.,Chayut Bunterngchit;Jiaxing Wang;Jianqiang Su;Yihan Wang;Shiqi Liu;Zeng-Guang Hou,PubMed
+Motor task-to-task transfer learning for motor imagery brain-computer interfaces.,Daeun Gwon;Minkyu Ahn,PubMed
+Influence of Temporal and Frequency Selective Patterns Combined with CSP Layers on Performance in Exoskeleton-Assisted Motor Imagery Tasks.,Cristian David Guerrero-Mendez;Cristian Felipe Blanco-Diaz;Hamilton Rivera-Flor;Pedro Henrique Fabriz-Ulhoa;Eduardo Antonio Fragoso-Dias;Rafhael Milanezi de Andrade;Denis Delisle-Rodriguez;Teodiano Freire Bastos-Filho,PubMed
+Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs.,Aigerim Keutayeva;Nail Fakhrutdinov;Berdakh Abibullaev,PubMed
+A 4-DOF Exosuit Using a Hybrid EEG-Based Control Approach for Upper-Limb Rehabilitation.,Zhichuan Tang;Zhixuan Cui;Hang Wang;Pengcheng Liu;Xuan Xu;Keshuai Yang,PubMed
+Thought-Controlled Computer Applications: A Brain-Computer Interface System for Severe Disability Support.,Kais Belwafi;Fakhreddine Ghaffari,PubMed
+A multiple session dataset of NIRS recordings from stroke patients controlling brain-computer interface.,Mikhail R Isaev;Olesya A Mokienko;Roman Kh Lyukmanov;Ekaterina S Ikonnikova;Anastasiia N Cherkasova;Natalia A Suponeva;Michael A Piradov;Pavel D Bobrov,PubMed
+Enhancing ERD Activation and Functional Connectivity via the Sixth-Finger Motor Imagery in Stroke Patients.,Zhuang Wang;Yuan Liu;Shuaifei Huang;Huimin Huang;Wenlai Wu;Yuyang Wang;Xingwei An;Dong Ming,PubMed
+Integrating Electroencephalography Source Localization and Residual Convolutional Neural Network for Advanced Stroke Rehabilitation.,Sina Makhdoomi Kaviri;Ramana Vinjamuri,PubMed
+Attention Induced Dual Convolutional-Capsule Network (AIDC-CN): A deep learning framework for motor imagery classification.,Ritesh Sur Chowdhury;Shirsha Bose;Sayantani Ghosh;Amit Konar,PubMed
+A brief survey on human activity recognition using motor imagery of EEG signals.,Seema Pankaj Mahalungkar;Rahul Shrivastava;Sanjeevkumar Angadi,PubMed
+Transforming Motor Imagery Analysis: A Novel EEG Classification Framework Using AtSiftNet Method.,Haiqin Xu;Waseem Haider;Muhammad Zulkifal Aziz;Youchao Sun;Xiaojun Yu,PubMed
+An SCA-based classifier for motor imagery EEG classification.,Zhihui Li;Ming Meng,PubMed
+Joint hybrid recursive feature elimination based channel selection and ResGCN for cross session MI recognition.,Duan Li;Keyun Li;Yongquan Xia;Jianhua Dong;Ronglei Lu,PubMed
+E-SAT: An extreme learning machine based self attention approach for decoding motor imagery EEG in subject-speciﬁc tasks.,Muhammad Ahmed Ahmed Abbasi;Hafza Faiza Abbasi;Xiaojun Yu;Muhammad Zulkifal Aziz;Nicole Tye June Yih Yih;Zeming Fan,PubMed
+Optimizing Real-Time MI-BCI Performance in Post-Stroke Patients: Impact of Time Window Duration on Classification Accuracy and Responsiveness.,Aleksandar Miladinović;Agostino Accardo;Joanna Jarmolowska;Uros Marusic;Miloš Ajčević,PubMed
+Enhancing EEG-Based MI-BCIs with Class-Specific and Subject-Specific Features Detected by Neural Manifold Analysis.,Mirco Frosolone;Roberto Prevete;Lorenzo Ognibeni;Salvatore Giugliano;Andrea Apicella;Giovanni Pezzulo;Francesco Donnarumma,PubMed
+Efficient Multi-View Graph Convolutional Network with Self-Attention for Multi-Class Motor Imagery Decoding.,Xiyue Tan;Dan Wang;Meng Xu;Jiaming Chen;Shuhan Wu,PubMed
+Phase-Amplitude Coupling in Theta and Beta Bands: A Potential Electrophysiological Marker for Obstructive Sleep Apnea.,Chan Zhang;Yanhui Wang;Mengjie Li;Pengpeng Niu;Shuo Li;Zhuopeng Hu;Changhe Shi;Yusheng Li,PubMed
+EEG-based sensorimotor neurofeedback for motor neurorehabilitation in children and adults: A scoping review.,Elena Cioffi;Anna Hutber;Rob Molloy;Sarah Murden;Aaron Yurkewich;Adam Kirton;Jean-Pierre Lin;Hortensia Gimeno;Verity M McClelland,PubMed
+Improving inter-session performance via relevant session-transfer for multi-session motor imagery classification.,Dong-Jin Sung;Keun-Tae Kim;Ji-Hyeok Jeong;Laehyun Kim;Song Joo Lee;Hyungmin Kim;Seung-Jong Kim,PubMed
+Joint multi-feature extraction and transfer learning in motor imagery brain computer interface.,Miao Cai;Jie Hong,PubMed
+Neural signatures of motor imagery for a supernumerary thumb in VR: an EEG analysis.,Haneen Alsuradi;Joseph Hong;Alireza Sarmadi;Robert Volcic;Hanan Salam;S Farokh Atashzar;Farshad Khorrami;Mohamad Eid,PubMed
+Cortical ROI Importance Improves MI Decoding From EEG Using Fused Light Neural Network.,Linlin Wang;Mingai Li;Dongqin Xu;Yufei Yang,PubMed
+A Comprehensive Review of Hardware Acceleration Techniques and Convolutional Neural Networks for EEG Signals.,Yu Xie;Stefan Oniga,PubMed
+A zero precision loss framework for EEG channel selection: enhancing efficiency and maintaining interpretability.,Lu Wang;Junkongshuai Wang;Haolong Su;Xueze Zhang;Lihua Zhang;Xiaoyang Kang,PubMed
+Acquisition and processing of Motor Imagery and Motor Execution Dataset (MIMED) for six movement activities.,I Made Agus Wirawan;Dechrit Maneetham;I Gede Mahendra Darmawiguna;Arnon Niyomphol;Pakornkiat Sawetmethikul;Padma Nyoman Crisnapati;Yamin Thwe;Ni Nyoman Mestri Agustini,PubMed
+Federated Motor Imagery Classification for Privacy-Preserving Brain-Computer Interfaces.,Tianwang Jia;Lubin Meng;Siyang Li;Jiajing Liu;Dongrui Wu,PubMed
+Improved motor imagery training for subject's self-modulation in EEG-based brain-computer interface.,Yilu Xu;Lilin Jie;Wenjuan Jian;Wenlong Yi;Hua Yin;Yingqiong Peng,PubMed
+I see artifacts: ICA-based EEG artifact removal does not improve deep network decoding across three BCI tasks.,Taeho Kang;Yiyu Chen;Christian Wallraven,PubMed
+Automatic Feature Selection for Sensorimotor Rhythms Brain-Computer Interface Fusing Expert and Data-Driven Knowledge.,Mushfika Sultana;Serafeim Perdikis,PubMed
+Simultaneous EEG-fNIRS Data Classification Through Selective Channel Representation and Spectrogram Imaging.,Chayut Bunterngchit;Jiaxing Wang;Zeng-Guang Hou,PubMed
+Improving classification performance of motor imagery BCI through EEG data augmentation with conditional generative adversarial networks.,Sanghyun Choo;Hoonseok Park;Jae-Yoon Jung;Kevin Flores;Chang S Nam,PubMed
+Decoding Multi-Class Motor Imagery From Unilateral Limbs Using EEG Signals.,Fenqi Rong;Banghua Yang;Cuntai Guan,PubMed
+EEG Characteristic Comparison of Motor Imagery Between Supernumerary and Inherent Limb: Sixth-Finger MI Enhances the ERD Pattern and Classification Performance.,Zhuang Wang;Yuan Liu;Shuaifei Huang;Shiyin Qiu;Yujian Zhang;Huimin Huang;Xingwei An;Dong Ming,PubMed
+CTNet: a convolutional transformer network for EEG-based motor imagery classification.,Wei Zhao;Xiaolu Jiang;Baocan Zhang;Shixiao Xiao;Sujun Weng,PubMed
+Motor Imagery Recognition Based on GMM-JCSFE Model.,Chuncheng Liao;Shiyu Zhao;Jiacai Zhang,PubMed
+EEG-Based Feature Classification Combining 3D-Convolutional Neural Networks with Generative Adversarial Networks for Motor Imagery.,Chengcheng Fan;Banghua Yang;Xiaoou Li;Shouwei Gao;Peng Zan,PubMed
+Independent Vector Analysis for Feature Extraction in Motor Imagery Classification.,Caroline Pires Alavez Moraes;Lucas Heck Dos Santos;Denis Gustavo Fantinato;Aline Neves;Tülay Adali,PubMed
+A Method for the Spatial Interpolation of EEG Signals Based on the Bidirectional Long Short-Term Memory Network.,Wenlong Hu;Bowen Ji;Kunpeng Gao,PubMed
+A Strong and Simple Deep Learning Baseline for BCI Motor Imagery Decoding.,Yassine El Ouahidi;Vincent Gripon;Bastien Pasdeloup;Ghaith Bouallegue;Nicolas Farrugia;Giulia Lioi,PubMed
+EEG Motor Imagery Classification: Tangent Space with Gate-Generated Weight Classifier.,Sara Omari;Adil Omari;Fares Abu-Dakka;Mohamed Abderrahim,PubMed
+MSVTNet: Multi-Scale Vision Transformer Neural Network for EEG-Based Motor Imagery Decoding.,Ke Liu;Tao Yang;Zhuliang Yu;Weibo Yi;Hong Yu;Guoyin Wang;Wei Wu,PubMed
+Developing a tablet-based brain-computer interface and robotic prototype for upper limb rehabilitation.,Kishor Lakshminarayanan;Vadivelan Ramu;Rakshit Shah;Md Samiul Haque Sunny;Deepa Madathil;Brahim Brahmi;Inga Wang;Raouf Fareh;Mohammad Habibur Rahman,PubMed
+Exploring Feature Selection and Classification Techniques to Improve the Performance of an Electroencephalography-Based Motor Imagery Brain-Computer Interface System.,Md Humaun Kabir;Nadim Ibne Akhtar;Nishat Tasnim;Abu Saleh Musa Miah;Hyoun-Sup Lee;Si-Woong Jang;Jungpil Shin,PubMed
+Design Decisions for Wearable EEG to Detect Motor Imagery Movements.,Ana Carretero;Alvaro Araujo,PubMed
+Wasserstein generative adversarial network with gradient penalty and convolutional neural network based motor imagery EEG classification.,Hui Xiong;Jiahe Li;Jinzhen Liu;Jinlong Song;Yuqing Han,PubMed
+Human-robot interaction in motor imagery: A system based on the STFCN for unilateral upper limb rehabilitation assistance.,Hui Tian,PubMed
+Deep learning networks based decision fusion model of EEG and fNIRS for classification of cognitive tasks.,Md Hasin Raihan Rabbani;Sheikh Md Rabiul Islam,PubMed
+A delayed matching task-based study on action sequence of motor imagery.,Mengfan Li;Enming Qi;Guizhi Xu;Jing Jin;Qi Zhao;Miaomiao Guo;Wenzhe Liao,PubMed
+EEG-VTTCNet: A loss joint training model based on the vision transformer and the temporal convolution network for EEG-based motor imagery classification.,Xingbin Shi;Baojiang Li;Wenlong Wang;Yuxin Qin;Haiyan Wang;Xichao Wang,PubMed
+Multiband Convolutional Riemannian Network With Band-Wise Riemannian Triplet Loss for Motor Imagery Classification.,Jinhyo Shin;Wonzoo Chung,PubMed
+Benchmarking brain-computer interface algorithms: Riemannian approaches vs convolutional neural networks.,Manuel Eder;Jiachen Xu;Moritz Grosse-Wentrup,PubMed
+Design of a brain-machine interface for reducing false activations of a lower-limb exoskeleton based on error related potential.,P Soriano-Segura;M Ortiz;E Iáñez;J M Azorín,PubMed
+Harnessing Few-Shot Learning for EEG signal classification: a survey of state-of-the-art techniques and future directions.,Chirag Ahuja;Divyashikha Sethia,PubMed
+Deep Neural Network-Based Empirical Mode Decomposition for Motor Imagery EEG Classification.,Hyunsoo Yu;Suwhan Baek;Jiwoon Lee;Illsoo Sohn;Bosun Hwang;Cheolsoo Park,PubMed
+Toward calibration-free motor imagery brain-computer interfaces: a VGG-based convolutional neural network and WGAN approach.,A G Habashi;Ahmed M Azab;Seif Eldawlatly;Gamal M Aly,PubMed
+An Adaptive Hybrid Brain-Computer Interface for Hand Function Rehabilitation of Stroke Patients.,Jianqiang Su;Jiaxing Wang;Weiqun Wang;Yihan Wang;Chayut Bunterngchit;Pu Zhang;Zeng-Guang Hou,PubMed
+Unsupervised and semi-supervised domain adaptation networks considering both global knowledge and prototype-based local class information for Motor Imagery Classification.,Dongxue Zhang;Huiying Li;Jingmeng Xie,PubMed
+Suppression of negative transfer in motor imagery brain-computer interface based on mutual information and Pearson correlation coefficient.,Fenfang Zhu;Jicheng Cai;Hao Zheng;Zilin Liang;Yue Zhang,PubMed
+A high-performance general computer cursor control scheme based on a hybrid BCI combining motor imagery and eye-tracking.,Jiakai Zhang;Yuqi Zhang;Xinlong Zhang;Boyang Xu;Huanqing Zhao;Tinghui Sun;Ju Wang;Shaojie Lu;Xiaoyan Shen,PubMed
+EEG-based motor imagery channel selection and classification using hybrid optimization and two-tier deep learning.,Annu Kumari;Damodar Reddy Edla;R Ravinder Reddy;Srikanth Jannu;Ankit Vidyarthi;Ahmed Alkhayyat;Mirtha Silvana Garat de Marin,PubMed
+Characterization and classification of kinesthetic motor imagery levels.,D Martinez-Peon;N V Garcia-Hernandez;F G Benavides-Bravo;V Parra-Vega,PubMed
+Encoding temporal information in deep convolution neural network.,Avinash Kumar Singh;Luigi Bianchi,PubMed
+SignEEG v1.0: Multimodal Dataset with Electroencephalography and Hand-written Signature for Biometric Systems.,Ashish Ranjan Mishra;Rakesh Kumar;Vibha Gupta;Sameer Prabhu;Richa Upadhyay;Prakash Chandra Chhipa;Sumit Rakesh;Hamam Mokayed;Debashis Das Chakladar;Kanjar De;Marcus Liwicki;Foteini Simistira Liwicki;Rajkumar Saini,PubMed
+A novel temporal-frequency combination pattern optimization approach based on information fusion for motor imagery BCIs.,Chenyang Lü;Ting Wang;Xugang Xi;Maofeng Wang;Jian Wang;Anton Zhilenko;Lihua Li,PubMed
+STaRNet: A spatio-temporal and Riemannian network for high-performance motor imagery decoding.,Xingfu Wang;Wenjie Yang;Wenxia Qi;Yu Wang;Xiaojun Ma;Wei Wang,PubMed
+Leveraging temporal dependency for cross-subject-MI BCIs by contrastive learning and self-attention.,Hao Sun;Yi Ding;Jianzhu Bao;Ke Qin;Chengxuan Tong;Jing Jin;Cuntai Guan,PubMed
+Motor Imagery EEG Signal Classification Using Distinctive Feature Fusion with Adaptive Structural LASSO.,Weihai Huang;Xinyue Liu;Weize Yang;Yihua Li;Qiyan Sun;Xiangzeng Kong,PubMed
+Band power feature part-based convolutional neural network with African vulture optimization fostered channel selection for EEG classification.,Vairaprakash Selvaraj;Manjunathan Alagarsamy;Kavitha Datchanamoorthy;Geethalakshmi Manickam,PubMed
+Neurophysiologically Meaningful Motor Imagery EEG Simulation With Applications to Data Augmentation.,Catalina M Galvan;Ruben D Spies;Diego H Milone;Victoria Peterson,PubMed
+An end-to-end multi-task motor imagery EEG classification neural network based on dynamic fusion of spectral-temporal features.,Shidong Lian;Zheng Li,PubMed
+A cross-dataset adaptive domain selection transfer learning framework for motor imagery-based brain-computer interfaces.,Jing Jin;Guanglian Bai;Ren Xu;Ke Qin;Hao Sun;Xingyu Wang;Andrzej Cichocki,PubMed
+Seizure onset zone (SOZ) identification using effective brain connectivity of epileptogenic networks.,Sai Sanjay Balaji;Keshab K Parhi,PubMed
+An optimized EEGNet decoder for decoding motor image of four class fingers flexion.,Yongkang Rao;Le Zhang;Ruijun Jing;Jiabing Huo;Kunxian Yan;Jian He;Xiaojuan Hou;Jiliang Mu;Wenping Geng;Haoran Cui;Zeyu Hao;Xiang Zan;Jiuhong Ma;Xiujian Chou,PubMed
+Riemannian transfer learning based on log-Euclidean metric for EEG classification.,Fanbo Zhuo;Xiaocheng Zhang;Fengzhen Tang;Yaobo Yu;Lianqing Liu,PubMed
+Exploring the frontier: Transformer-based models in EEG signal analysis for brain-computer interfaces.,Maximilian Achim Pfeffer;Steve Sai Ho Ling;Johnny Kwok Wai Wong,PubMed
+Time-Frequency-Space EEG Decoding Model Based on Dense Graph Convolutional Network for Stroke.,Jiancai Leng;Han Li;Weiyou Shi;Licai Gao;Chengyan Lv;Chen Wang;Fangzhou Xu;Yang Zhang;Tzyy-Ping Jung,PubMed
+An EEG channel selection method for motor imagery based on Fisher score and local optimization.,Yangjie Luo;Wei Mu;Lu Wang;Junkongshuai Wang;Pengchao Wang;Zhongxue Gan;Lihua Zhang;Xiaoyang Kang,PubMed
+Large-Scale Cortical Network Analysis and Classification of MI-BCI Tasks Based on Bayesian Nonnegative Matrix Factorization.,Shiqi Yu;Bin Mao;Yuanhang Zhou;Yunhong Liu;Chanlin Yi;Fali Li;Dezhong Yao;Peng Xu;X San Liang;Tao Zhang,PubMed
+A diagonal masking self-attention-based multi-scale network for motor imagery classification.,Kaijun Yang;Jihong Wang;Liantao Yang;Lifeng Bian;Zijiang Luo;Chen Yang,PubMed
+Identifying optimal channels and features for multi-participant motor imagery experiments across a participant's multi-day multi-class EEG data.,Esra Kaya;Ismail Saritas,PubMed
+Classification of Motor Imagery Tasks Derived from Unilateral Upper Limb based on a Weight-optimized Learning Model.,Qing Cai;Chuan Liu;Anqi Chen,PubMed
+A novel feature extraction method PSS-CSP for binary motor imagery - based brain-computer interfaces.,Ao Chen;Dayang Sun;Xin Gao;Dingguo Zhang,PubMed
+Multi-scale self-attention approach for analysing motor imagery signals in brain-computer interfaces.,Mohammed Wasim Bhatt;Sparsh Sharma,PubMed
+Optimal Channel Selection of Multiclass Motor Imagery Classification Based on Fusion Convolutional Neural Network with Attention Blocks.,Joharah Khabti;Saad AlAhmadi;Adel Soudani,PubMed
+Motor Imagery Classification Using Effective Channel Selection of Multichannel EEG.,Abdullah Al Shiam;Kazi Mahmudul Hassan;Md Rabiul Islam;Ahmed M M Almassri;Hiroaki Wagatsuma;Md Khademul Islam Molla,PubMed
+Efficient Feature Learning Model of Motor Imagery EEG Signals with L1-Norm and Weighted Fusion.,Xiangzeng Kong;Cailin Wu;Shimiao Chen;Tao Wu;Junfeng Han,PubMed
+Optimizing motor imagery BCI models with hard trials removal and model refinement.,Vishnupriya R;MachiReddy Ramasubba Reddy,PubMed
+Multi-source deep domain adaptation ensemble framework for cross-dataset motor imagery EEG transfer learning.,Minmin Miao;Zhong Yang;Zhenzhen Sheng;Baoguo Xu;Wenbin Zhang;Xinmin Cheng,PubMed
+Robust discrimination of multiple naturalistic same-hand movements from MEG signals with convolutional neural networks.,Ivan Zubarev;Mila Nurminen;Lauri Parkkonen,PubMed
+Authentication with a one-dimensional CNN model using EEG-based brain-computer interface.,Ahmed Yassine Ferdi;Abdelkader Ghazli,PubMed
+Self-supervised motor imagery EEG recognition model based on 1-D MTCNN-LSTM network.,Hu Cunlin;Ye Ye;Xie Nenggang,PubMed
+Multiclass motor imagery classification with Riemannian geometry and temporal-spectral selection.,Zhaohui Li;Xiaohui Tan;Xinyu Li;Liyong Yin,PubMed
+Assessing robustness to adversarial attacks in attention-based networks: Case of EEG-based motor imagery classification.,Nour El Houda Sayah Ben Aissa;Ahmed Korichi;Abderrahmane Lakas;Chaker Abdelaziz Kerrache;Carlos T Calafate,PubMed
+Classification of motor imagery using chaotic entropy based on sub-band EEG source localization.,Jicheng Bi;Yunyuan Gao;Zheng Peng;Yuliang Ma,PubMed
+EMPT: a sparsity Transformer for EEG-based motor imagery recognition.,Ming Liu;Yanbing Liu;Weiyou Shi;Yitai Lou;Yuan Sun;Qi Meng;Dezheng Wang;Fangzhou Xu;Yang Zhang;Lei Zhang;Jiancai Leng,PubMed
+EEG motor imagery decoding: a framework for comparative analysis with channel attention mechanisms.,Martin Wimpff;Leonardo Gizzi;Jan Zerfowski;Bin Yang,PubMed
+A feature enhanced EEG compression model using asymmetric encoding-decoding network,Xiangcun Wang;Jiacai Zhang;Xia Wu,PubMed
+Channel reflection: Knowledge-driven data augmentation for EEG-based brain-computer interfaces.,Ziwei Wang;Siyang Li;Jingwei Luo;Jiajing Liu;Dongrui Wu,PubMed
+EEG source imaging of hand movement-related areas: an evaluation of the reconstruction and classification accuracy with optimized channels.,Andres Soler;Eduardo Giraldo;Marta Molinas,PubMed
+Attention-based convolutional neural network with multi-modal temporal information fusion for motor imagery EEG decoding.,Xinzhi Ma;Weihai Chen;Zhongcai Pei;Yue Zhang;Jianer Chen,PubMed
+A two-stage transformer based network for motor imagery classification.,Priyanshu Chaudhary;Nischay Dhankhar;Amit Singhal;K P S Rana,PubMed
+Recruiting neural field theory for data augmentation in a motor imagery brain-computer interface.,Daniel Polyakov;Peter A Robinson;Eli J Muller;Oren Shriki,PubMed
+Continuous tracking using deep learning-based decoding for noninvasive brain-computer interface.,Dylan Forenzo;Hao Zhu;Jenn Shanahan;Jaehyun Lim;Bin He,PubMed
+[A review on electroencephalogram based channel selection].,Xiangzhe Li;Dan Wang;Baiwen Zhang;Chaojie Fan;Jiaming Chen;Meng Xu;Yuanfang Chen,PubMed
+Multi-Task Heterogeneous Ensemble Learning-Based Cross-Subject EEG Classification Under Stroke Patients.,Minji Lee;Hyeong-Yeong Park;Wanjoo Park;Keun-Tae Kim;Yun-Hee Kim;Ji-Hoon Jeong,PubMed
+Enhancing Brain-Computer Interface Performance by Incorporating Brain-to-Brain Coupling.,Tianyu Jia;Jingyao Sun;Ciarán McGeady;Linhong Ji;Chong Li,PubMed
+A Data Augmentation Method for Motor Imagery EEG Signals Based on DCGAN-GP Network.,Xiuli Du;Xiaohui Ding;Meiling Xi;Yana Lv;Shaoming Qiu;Qingli Liu,PubMed
+Alignment-Based Adversarial Training (ABAT) for Improving the Robustness and Accuracy of EEG-Based BCIs.,Xiaoqing Chen;Ziwei Wang;Dongrui Wu,PubMed
+Resting state EEG assisted imagined vowel phonemes recognition by native and non-native speakers using brain connectivity measures.,Ruchi Juyal;Hariharan Muthusamy;Niraj Kumar;Ashutosh Tiwari,PubMed
+A single-joint multi-task motor imagery EEG signal recognition method based on Empirical Wavelet and Multi-Kernel Extreme Learning Machine.,Shan Guan;Longkun Cong;Fuwang Wang;Tingrui Dong,PubMed
+Graph neural network based on brain inspired forward-forward mechanism for motor imagery classification in brain-computer interfaces.,Qiwei Xue;Yuntao Song;Huapeng Wu;Yong Cheng;Hongtao Pan,PubMed
+Multimodal brain-controlled system for rehabilitation training: Combining asynchronous online brain-computer interface and exoskeleton.,Lei Liu;Jian Li;Rui Ouyang;Danya Zhou;Cunhang Fan;Wen Liang;Fan Li;Zhao Lv;Xiaopei Wu,PubMed
+Model and Data Dual-Driven Double-Point Observation Network for Ultra-Short MI EEG Classification.,Xu Niu;Na Lu;Ruofan Yan;Huan Luo,PubMed
+Classification of BCI-EEG Based on the Augmented Covariance Matrix.,Igor Carrara;Theodore Papadopoulo,PubMed
+A brain functional network feature extraction method based on directed transfer function and graph theory for MI-BCI decoding tasks.,Pengfei Ma;Chaoyi Dong;Ruijing Lin;Huanzi Liu;Dongyang Lei;Xiaoyan Chen;Huan Liu,PubMed
+Increasing accessibility to a large brain-computer interface dataset: Curation of physionet EEG motor movement/imagery dataset for decoding and classification.,Zaid Shuqfa;Abderrahmane Lakas;Abdelkader Nasreddine Belkacem,PubMed
+Brain-machine interface based on deep learning to control asynchronously a lower-limb robotic exoskeleton: a case-of-study.,Laura Ferrero;Paula Soriano-Segura;Jacobo Navarro;Oscar Jones;Mario Ortiz;Eduardo Iáñez;José M Azorín;José L Contreras-Vidal,PubMed
+Self-supervised contrastive learning for EEG-based cross-subject motor imagery recognition.,Wenjie Li;Haoyu Li;Xinlin Sun;Huicong Kang;Shan An;Guoxin Wang;Zhongke Gao,PubMed
+Artifact removal and motor imagery classification in EEG using advanced algorithms and modified DNN.,Srinath Akuthota;RajKumar K;Janapati Ravichander,PubMed
+Multi-scale spatiotemporal attention network for neuron based motor imagery EEG classification.,Venkata Chunduri;Yassine Aoudni;Samiullah Khan;Abdul Aziz;Ali Rizwan;Nabamita Deb;Ismail Keshta;Mukesh Soni,PubMed
+Combining detrended cross-correlation analysis with Riemannian geometry-based classification for improved brain-computer interface performance.,Frigyes Samuel Racz;Satyam Kumar;Zalan Kaposzta;Hussein Alawieh;Deland Hu Liu;Ruofan Liu;Akos Czoch;Peter Mukli;José Del R Millán,PubMed
+EISATC-Fusion: Inception Self-Attention Temporal Convolutional Network Fusion for Motor Imagery EEG Decoding.,Guangjin Liang;Dianguo Cao;Jinqiang Wang;Zhongcai Zhang;Yuqiang Wu,PubMed
+Optimizing motion imagery classification with limited channels using the common spatial pattern-based integrated algorithm.,Shishi Chen;Xugang Xi;Ting Wang;Hangcheng Li;Maofeng Wang;Lihua Li;Zhong Lü,PubMed
+Classification of Motor Imagery EEG signals using high resolution time-frequency representations and convolutional neural network.,V Srimadumathi;M Ramasubba Reddy,PubMed
+Exploring EEG-based motor imagery decoding: a dual approach using spatial features and spectro-spatial Deep Learning model IFNet.,Javier V Juan;Rubén Martínez;Eduardo Iáñez;Mario Ortiz;Jesús Tornero;José M Azorín,PubMed
+Individual-finger motor imagery classification: a data-driven approach with Shapley-informed augmentation.,Haneen Alsuradi;Arshiya Khattak;Ali Fakhry;Mohamad Eid,PubMed
+Adaptive Time-Frequency Segment Optimization for Motor Imagery Classification.,Junjie Huang;Guorui Li;Qian Zhang;Qingmin Yu;Ting Li,PubMed
+EEG rhythm separation and time-frequency analysis of fast multivariate empirical mode decomposition for motor imagery BCI.,Yang Jiao;Qian Zheng;Dan Qiao;Xun Lang;Lei Xie;Yi Pan,PubMed
+A robust multi-branch multi-attention-mechanism EEGNet for motor imagery BCI decoding.,Haodong Deng;Mengfan Li;Jundi Li;Miaomiao Guo;Guizhi Xu,PubMed
+Direct lingam and visibility graphs for analyzing brain connectivity in BCI.,Hoda Majdi;Mahdi Azarnoosh;Majid Ghoshuni;Vahid Reza Sabzevari,PubMed
+Adaptive filter of frequency bands based coordinate attention network for EEG-based motor imagery classification.,Xiaoli Zhang;Yongxionga Wang;Yiheng Tang;Zhe Wang,PubMed
+Optimized FFNN with multichannel CSP-ICA framework of EEG signal for BCI.,E Ramkumar;M Paulraj,PubMed
+EEG-based brain-computer interface methods with the aim of rehabilitating advanced stage ALS patients.,Alireza Pirasteh;Manouchehr Shamseini Ghiyasvand;Majid Pouladian,PubMed
+Temporal and spatial variability of dynamic microstate brain network in disorders of consciousness.,Yaqian Li;Junfeng Gao;Ying Yang;Yutong Zhuang;Qianruo Kang;Xiang Li;Min Tian;Haoan Lv;Jianghong He,PubMed
+Classification Algorithm for fNIRS-based Brain Signals Using Convolutional Neural Network with Spatiotemporal Feature Extraction Mechanism.,Yuxin Qin;Baojiang Li;Wenlong Wang;Xingbin Shi;Cheng Peng;Yifan Lu,PubMed
+Personalized motor imagery prediction model based on individual difference of ERP.,Haodong Deng;Mengfan Li;Haoxin Zuo;Huihui Zhou;Enming Qi;Xue Wu;Guizhi Xu,PubMed
+Bidirectional feature pyramid attention-based temporal convolutional network model for motor imagery electroencephalogram classification.,Xinghe Xie;Liyan Chen;Shujia Qin;Fusheng Zha;Xinggang Fan,PubMed
+Channel Selection for Stereo- Electroencephalography (SEEG)-Based Invasive Brain-Computer Interfaces Using Deep Learning Methods.,Xiaolong Wu;Guangye Li;Xin Gao;Benjamin Metcalfe;Dingguo Zhang,PubMed
+Three-stage transfer learning for motor imagery EEG recognition.,Junhao Li;Qingshan She;Ming Meng;Shengzhi Du;Yingchun Zhang,PubMed
+How Integration of a Brain-Machine Interface and Obstacle Detection System Can Improve Wheelchair Control via Movement Imagery.,Tomasz Kocejko;Nikodem Matuszkiewicz;Piotr Durawa;Aleksander Madajczak;Jakub Kwiatkowski,PubMed
+Semi-supervised multi-source transfer learning for cross-subject EEG motor imagery classification.,Fan Zhang;Hanliang Wu;Yuxin Guo,PubMed
+Unraveling motor imagery brain patterns using explainable artificial intelligence based on Shapley values.,Sergio Pérez-Velasco;Diego Marcos-Martínez;Eduardo Santamaría-Vázquez;Víctor Martínez-Cagigal;Selene Moreno-Calderón;Roberto Hornero,PubMed
+Multilayer network-based channel selection for motor imagery brain-computer interface.,Shaoting Yan;Yuxia Hu;Rui Zhang;Daowei Qi;Yubo Hu;Dezhong Yao;Li Shi;Lipeng Zhang,PubMed
+Subject-Independent Deep Architecture for EEG-Based Motor Imagery Classification.,Shadi Sartipi;Mujdat Cetin,PubMed
+A study on the combination of functional connection features and Riemannian manifold in EEG emotion recognition.,Minchao Wu;Rui Ouyang;Chang Zhou;Zitong Sun;Fan Li;Ping Li,PubMed
+Revealing brain connectivity: graph embeddings for EEG representation learning and comparative analysis of structural and functional connectivity.,Abdullah Almohammadi;Yu-Kai Wang,PubMed
+Integrating EEG and Machine Learning to Analyze Brain Changes during the Rehabilitation of Broca's Aphasia.,Vanesa Močilnik;Veronika Rutar Gorišek;Jakob Sajovic;Janja Pretnar Oblak;Gorazd Drevenšek;Peter Rogelj,PubMed
+Motor Imagery Classification for Asynchronous EEG-Based Brain-Computer Interfaces.,Huanyu Wu;Siyang Li;Dongrui Wu,PubMed
+Classification of EEG Signals Based on Sparrow Search Algorithm-Deep Belief Network for Brain-Computer Interface.,Shuai Wang;Zhiguo Luo;Shaokai Zhao;Qilong Zhang;Guangrong Liu;Dongyue Wu;Erwei Yin;Chao Chen,PubMed
+Toward Domain-Free Transformer for Generalized EEG Pre-Training.,Sung-Jin Kim;Dae-Hyeok Lee;Heon-Gyu Kwak;Seong-Whan Lee,PubMed
+Graph Neural Network-Based EEG Classification: A Survey.,Dominik Klepl;Min Wu;Fei He,PubMed
+Enhancing motor imagery detection efficacy using multisensory virtual reality priming.,Reza Amini Gougeh;Tiago H Falk,PubMed
+Aggregating intrinsic information to enhance BCI performance through federated learning.,Rui Liu;Yuanyuan Chen;Anran Li;Yi Ding;Han Yu;Cuntai Guan,PubMed
+Transfer learning with data alignment and optimal transport for EEG based motor imagery classification.,Chao Chu;Lei Zhu;Aiai Huang;Ping Xu;Nanjiao Ying;Jianhai Zhang,PubMed
+Subject-independent meta-learning framework towards optimal training of EEG-based classifiers.,Han Wei Ng;Cuntai Guan,PubMed
+M-FANet: Multi-Feature Attention Convolutional Neural Network for Motor Imagery Decoding.,Yiyang Qin;Banghua Yang;Sixiong Ke;Peng Liu;Fenqi Rong;Xinxing Xia,PubMed
+A time segment adaptive optimization method based on separability criterion and correlation analysis for motor imagery BCIs.,Lei Zhu;Mengxuan Xu;Jieping Zhu;Aiai Huang;Jianhai Zhang,PubMed
+Improved motor imagery classification using adaptive spatial filters based on particle swarm optimization algorithm.,Xiong Xiong;Ying Wang;Tianyuan Song;Jinguo Huang;Guixia Kang,PubMed
+An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification.,Xianheng Wang;Veronica Liesaputra;Zhaobin Liu;Yi Wang;Zhiyi Huang,PubMed
+Boosting lower-limb motor imagery performance through an ensemble method for gait rehabilitation.,Jing Zhang;Dong Liu;Weihai Chen;Zhongcai Pei;Jianhua Wang,PubMed
+Multiclass classification of motor imagery tasks based on multi-branch convolutional neural network and temporal convolutional network model.,Shiqi Yu;Zedong Wang;Fei Wang;Kai Chen;Dezhong Yao;Peng Xu;Yong Zhang;Hesong Wang;Tao Zhang,PubMed
+Beta bursts question the ruling power for brain-computer interfaces.,Sotirios Papadopoulos;Maciej J Szul;Marco Congedo;James J Bonaiuto;Jérémie Mattout,PubMed
+EEG-BCI-based motor imagery classification using double attention convolutional network.,V Sireesha;V V Satyanarayana Tallapragada;M Naresh;G V Pradeep Kumar,PubMed
+TSPNet: a time-spatial parallel network for classification of EEG-based multiclass upper limb motor imagery BCI.,Jingfeng Bi;Ming Chu;Gang Wang;Xiaoshan Gao,PubMed
+Effect of the period of EEG signals on the decoding of motor information.,Renling Zou;Liang Zhao;Shuang He;Xiaobo Zhou;Xuezhi Yin,PubMed
+The effects of positions on deviant processing in mostly incompatible blocks in the flanker task.,Kota Suzuki,PubMed
+Multi-domain feature joint optimization based on multi-view learning for improving the EEG decoding.,Bin Shi;Zan Yue;Shuai Yin;Junyang Zhao;Jing Wang,PubMed
+"Decoding speech information from EEG data with 4-, 7- and 11-month-old infants: Using convolutional neural network, mutual information-based and backward linear models.",Mahmoud Keshavarzi;Áine Ní Choisdealbha;Adam Attaheri;Sinead Rocha;Perrine Brusini;Samuel Gibbon;Panagiotis Boutris;Natasha Mead;Helen Olawole-Scott;Henna Ahmed;Sheila Flanagan;Kanad Mandke;Usha Goswami,PubMed
+A multi-band centroid contrastive reconstruction fusion network for motor imagery electroencephalogram signal decoding.,Jiacan Xu;Donglin Li;Peng Zhou;Chunsheng Li;Zinan Wang;Shenghao Tong,PubMed
+Pseudo-online framework for BCI evaluation: a MOABB perspective using various MI and SSVEP datasets.,Igor Carrara;Theodore Papadopoulo,PubMed
+Frequency Domain Channel-Wise Attack to CNN Classifiers in Motor Imagery Brain-Computer Interfaces.,Xiuyu Huang;Kup-Sze Choi;Shuang Liang;Yuanpeng Zhang;Yingkui Zhang;Simon Poon;Witold Pedrycz,PubMed
+Transferring a deep learning model from healthy subjects to stroke patients in a motor imagery brain-computer interface.,Aarthy Nagarajan;Neethu Robinson;Kai Keng Ang;Karen Sui Geok Chua;Effie Chew;Cuntai Guan,PubMed
+ADFCNN: Attention-Based Dual-Scale Fusion Convolutional Neural Network for Motor Imagery Brain-Computer Interface.,Wei Tao;Ze Wang;Chi Man Wong;Ziyu Jia;Chang Li;Xun Chen;C L Philip Chen;Feng Wan,PubMed
+Dual selections based knowledge transfer learning for cross-subject motor imagery EEG classification.,Tian-Jian Luo,PubMed
+"Selecting a sleep tracker from EEG-based, iteratively improved, low-cost multisensor, and actigraphy-only devices.",Ju Lynn Ong;Hosein Aghayan Golkashani;Shohreh Ghorbani;Kian F Wong;Nicholas I Y N Chee;Adrian R Willoughby;Michael W L Chee,PubMed
+Transfer Learning with CNN Models for Brain-Machine Interfaces to command lower-limb exoskeletons: A Solution for Limited Data,L Ferrero;V Quiles;P Soriano-Segura;M Ortiz;E Ianez;J L Contreras-Vidal;J M Azorin,PubMed
+Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance.,Ce Ju;Reinmar Josef Kobler;Cuntai Guan,PubMed
+Exploring the Effects of Offline Paradigms and Feature Extraction Techniques on Performance of Motor Imagery Brain-Computer Interface: Longitudinal Pilot Study.,E Fenton;J F Dick;A Hayes;R Castles;J C Mizelle;S Kim,PubMed
+Impact of the baseline temporal selection on the ERD/ERS analysis for Motor Imagery-based BCI.,Sebastien Rimbert;David Trocellier;Fabien Lotte,PubMed
+A Phase-based EEG Epoch Selection Method for Decoding Bi-directional Hand Movement Imagination in Stroke Patients.,Sagila Gangadharan K;A P Vinod;R Subasree,PubMed
+An Evaluation of Hybrid Deep Learning Models for Classifying Multiple Lower Limb Actions.,Zilu Wang;Ian Daly;Junhua Li,PubMed
+A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals.,Nadia Mammone;Cosimo Ieracitano;Rossella Spataro;Christoph Guger;Woosang Cho;Francesco Carlo Morabito,PubMed
+A design and implementation of multi-character classification scheme based on motor imagery EEG signals.,Hongguang Pan;Yibo Zhang;Li Li;Xuebin Qin,PubMed
+Fractal Dimension as a discriminative feature for high accuracy classification in motor imagery EEG-based brain-computer interface.,Sadaf Moaveninejad;Valentina D'Onofrio;Franca Tecchio;Francesco Ferracuti;Sabrina Iarlori;Andrea Monteriù;Camillo Porcaro,PubMed
+Signature methods for brain-computer interfaces.,Xiaoqi Xu;Darrick Lee;Nicolas Drougard;Raphaëlle N Roy,PubMed
+Cauchy non-convex sparse feature selection method for the high-dimensional small-sample problem in motor imagery EEG decoding.,Shaorong Zhang;Qihui Wang;Benxin Zhang;Zhen Liang;Li Zhang;Linling Li;Gan Huang;Zhiguo Zhang;Bao Feng;Tianyou Yu,PubMed
+Recognition of motor intentions from EEGs of the same upper limb by signal traceability and Riemannian geometry features.,Meng Zhang;Jinfeng Huang;Shoudong Ni,PubMed
+Variance characteristic preserving common spatial pattern for motor imagery BCI.,Wei Liang;Jing Jin;Ren Xu;Xingyu Wang;Andrzej Cichocki,PubMed
+Noise-Factorized Disentangled Representation Learning for Generalizable Motor Imagery EEG Classification.,Jinpei Han;Xiao Gu;Guang-Zhong Yang;Benny Lo,PubMed
+Perspective of Signal Processing-Based on Brain-Computer Interfaces Using Machine Learning Methods.,Ruyue He,PubMed
+BrainGridNet: A two-branch depthwise CNN for decoding EEG-based multi-class motor imagery.,Xingfu Wang;Yu Wang;Wenxia Qi;Delin Kong;Wei Wang,PubMed
+Self-Supervised EEG Representation Learning with Contrastive Predictive Coding for Post-Stroke Patients.,Fangzhou Xu;Yihao Yan;Jianqun Zhu;Xinyi Chen;Licai Gao;Yanbing Liu;Weiyou Shi;Yitai Lou;Wei Wang;Jiancai Leng;Yang Zhang,PubMed
+Research on MI EEG signal classification algorithm using multi-model fusion strategy coupling.,Wu Quanyu;Ding Sheng;Tao Weige;Pan Lingjiao;Liu Xiaojie,PubMed
+ConTraNet: A hybrid network for improving the classification of EEG and EMG signals with limited training data.,Omair Ali;Muhammad Saif-Ur-Rehman;Tobias Glasmachers;Ioannis Iossifidis;Christian Klaes,PubMed
+Cortical activation and BCI performance during brief tactile imagery: A comparative study with motor imagery.,Puja Sengupta;Kishor Lakshminarayanan,PubMed
+Explainable cross-task adaptive transfer learning for motor imagery EEG classification.,Minmin Miao;Zhong Yang;Hong Zeng;Wenbin Zhang;Baoguo Xu;Wenjun Hu,PubMed
+Efficient Multiple Channels EEG Signal Classification Based on Hierarchical Extreme Learning Machine.,Songyang Lyu;Ray C C Cheung,PubMed
+A Combined Virtual Electrode-Based ESA and CNN Method for MI-EEG Signal Feature Extraction and Classification.,Xiangmin Lun;Yifei Zhang;Mengyang Zhu;Yongheng Lian;Yimin Hou,PubMed
+ETCNet: An EEG-based motor imagery classification model combining efficient channel attention and temporal convolutional network.,Yuxin Qin;Baojiang Li;Wenlong Wang;Xingbin Shi;Haiyan Wang;Xichao Wang,PubMed
+IMH-Net: a convolutional neural network for end-to-end EEG motor imagery classification.,Menghao Liu;Tingting Li;Xu Zhang;Yang Yang;Zhiyong Zhou;Tianhao Fu,PubMed
+Hybrid optimization assisted channel selection of EEG for deep learning model-based classification of motor imagery task.,K Venu;P Natesan,PubMed
+Spatio-Temporal Explanation of 3D-EEGNet for Motor Imagery EEG Classification Using Permutation and Saliency.,Donghyun Park;Hoonseok Park;Sangyeon Kim;Sanghyun Choo;Sangwon Lee;Chang S Nam;Jae-Yoon Jung,PubMed
+EEG decoding for datasets with heterogenous electrode configurations using transfer learning graph neural networks.,Jinpei Han;Xiaoxi Wei;A Aldo Faisal,PubMed
+Riemannian geometric and ensemble learning for decoding cross-session motor imagery electroencephalography signals.,Lincong Pan;Kun Wang;Lichao Xu;Xinwei Sun;Weibo Yi;Minpeng Xu;Dong Ming,PubMed
+A learnable EEG channel selection method for MI-BCI using efficient channel attention.,Lina Tong;Yihui Qian;Liang Peng;Chen Wang;Zeng-Guang Hou,PubMed
+Deep temporal networks for EEG-based motor imagery recognition.,Neha Sharma;Avinash Upadhyay;Manoj Sharma;Amit Singhal,PubMed
+An Upper-Limb Rehabilitation Exoskeleton System Controlled by MI Recognition Model With Deep Emphasized Informative Features in a VR Scene.,Zhichuan Tang;Hang Wang;Zhixuan Cui;Xiaoneng Jin;Lekai Zhang;Yuxin Peng;Baixi Xing,PubMed
+Enhanced Motor Imagery Decoding by Calibration Model-Assisted With Tactile ERD.,Yucun Zhong;Lin Yao;Yueming Wang,PubMed
+Effects of visual-electrotactile stimulation feedback on brain functional connectivity during motor imagery practice.,Chatrin Phunruangsakao;David Achanccaray;Saugat Bhattacharyya;Shin-Ichi Izumi;Mitsuhiro Hayashibe,PubMed
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding.,Hongyi Zhi;Zhuliang Yu;Tianyou Yu;Zhenghui Gu;Jian Yang,PubMed
+TDLNet: Transfer Data Learning Network for Cross-Subject Classification Based on Multiclass Upper Limb Motor Imagery EEG.,Jingfeng Bi;Ming Chu,PubMed
+Front-End Replication Dynamic Window (FRDW) for Online Motor Imagery Classification.,Xinru Chen;Jiayu An;Huanyu Wu;Siyang Li;Bin Liu;Dongrui Wu,PubMed
+3D Convolution neural network with multiscale spatial and temporal cues for motor imagery EEG classification.,Xiuling Liu;Kaidong Wang;Fengshuang Liu;Wei Zhao;Jing Liu,PubMed
+Cross-dataset transfer learning for motor imagery signal classification via multi-task learning and pre-training.,Yuting Xie;Kun Wang;Jiayuan Meng;Jin Yue;Lin Meng;Weibo Yi;Tzyy-Ping Jung;Minpeng Xu;Dong Ming,PubMed
+Enhancing Cross-Subject Motor Imagery Classification in EEG-Based Brain-Computer Interfaces by Using Multi-Branch CNN.,Radia Rayan Chowdhury;Yar Muhammad;Usman Adeel,PubMed
+Decoding Algorithm of Motor Imagery Electroencephalogram Signal Based on CLRNet Network Model.,Chaozhu Zhang;Hongxing Chu;Mingyuan Ma,PubMed
+Motor imagery classification using sparse representations: an exploratory study.,José Antonio Alves de Menezes;Juliana Carneiro Gomes;Vitor de Carvalho Hazin;Júlio César Sousa Dantas;Marcelo Cairrão Araújo Rodrigues;Wellington Pinheiro Dos Santos,PubMed
+Cortical Contributions to Imagined Power Grip Task: An EEG-Triggered TMS Study.,Houmin Wang;Huixian Zheng;Yu Yang;Kenneth N K Fong;Jinyi Long,PubMed
+EEG-FMCNN: A fusion multi-branch 1D convolutional neural network for EEG-based motor imagery classification.,Wenlong Wang;Baojiang Li;Haiyan Wang;Xichao Wang;Yuxin Qin;Xingbin Shi;Shuxin Liu,PubMed
+MILimbEEG: A dataset of EEG signals related to upper and lower limb execution of motor and motor imagery tasks.,Víctor Asanza;Leandro L Lorente-Leyva;Diego H Peluffo-Ordóñez;Daniel Montoya;Kleber Gonzalez,PubMed
+Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective From the Time-Frequency Analysis.,Ce Ju;Cuntai Guan,PubMed
+A New Compound-Limbs Paradigm: Integrating Upper-Limb Swing Improves Lower-Limb Stepping Intention Decoding From EEG.,Rui Ma;Yi-Feng Chen;Yi-Chuan Jiang;Mingming Zhang,PubMed
+Decoding the EEG patterns induced by sequential finger movement for brain-computer interfaces.,Chang Liu;Jia You;Kun Wang;Shanshan Zhang;Yining Huang;Minpeng Xu;Dong Ming,PubMed
+Temporal-frequency-phase feature classification using 3D-convolutional neural networks for motor imagery and movement.,Chengcheng Fan;Banghua Yang;Xiaoou Li;Peng Zan,PubMed
+Functional Connectivity and Feature Fusion Enhance Multiclass Motor-Imagery Brain-Computer Interface Performance.,Ilaria Siviero;Gloria Menegaz;Silvia Francesca Storti,PubMed
+An Explainable EEG-Based Human Activity Recognition Model Using Machine-Learning Approach and LIME.,Iqram Hussain;Rafsan Jany;Richard Boyer;Akm Azad;Salem A Alyami;Se Jin Park;Md Mehedi Hasan;Md Azam Hossain,PubMed
+Brain-Computer Interface: The HOL-SSA Decomposition and Two-Phase Classification on the HGD EEG Data.,Mary Judith Antony;Baghavathi Priya Sankaralingam;Shakir Khan;Abrar Almjally;Nouf Abdullah Almujally;Rakesh Kumar Mahendran,PubMed
+Feature learning framework based on EEG graph self-attention networks for motor imagery BCI systems.,Hao Sun;Jing Jin;Ian Daly;Yitao Huang;Xueqing Zhao;Xingyu Wang;Andrzej Cichocki,PubMed
+SincMSNet: a Sinc filter convolutional neural network for EEG motor imagery classification.,Ke Liu;Mingzhao Yang;Xin Xing;Zhuliang Yu;Wei Wu,PubMed
+Towards a better identification of ictal semiology patterns in insular epilepsies: A stereo-EEG study.,Cristina Filipescu;Elisabeth Landré;Baris Turak;Bertrand Devaux;Francine Chassoux,PubMed
+A novel framework for classification of two-class motor imagery EEG signals using logistic regression classification algorithm.,Rabia Avais Khan;Nasir Rashid;Muhammad Shahzaib;Umar Farooq Malik;Arshia Arif;Javaid Iqbal;Mubasher Saleem;Umar Shahbaz Khan;Mohsin Tiwana,PubMed
+BrainWave-Scattering Net: a lightweight network for EEG-based motor imagery recognition.,Konstantinos Barmpas;Yannis Panagakis;Dimitrios A Adamos;Nikolaos Laskaris;Stefanos Zafeiriou,PubMed
+Online semi-supervised learning for motor imagery EEG classification.,Li Zhang;Changsheng Li;Run Zhang;Qiang Sun,PubMed
+Toward personalized circuit-based closed-loop brain-interventions in psychiatry: using symptom provocation to extract EEG-markers of brain circuit activity.,Brigitte Zrenner;Christoph Zrenner;Nicholas Balderston;Daniel M Blumberger;Stefan Kloiber;Judith M Laposa;Reza Tadayonnejad;Alisson Paulino Trevizol;Gwyneth Zai;Jamie D Feusner,PubMed
+Local and global convolutional transformer-based motor imagery EEG classification.,Jiayang Zhang;Kang Li;Banghua Yang;Xiaofei Han,PubMed
+MI-DAGSC: A domain adaptation approach incorporating comprehensive information from MI-EEG signals.,Dongxue Zhang;Huiying Li;Jingmeng Xie;Dajun Li,PubMed
+NeuXus open-source tool for real-time artifact reduction in simultaneous EEG-fMRI.,Gustavo Caetano;Inês Esteves;Athanasios Vourvopoulos;Mathis Fleury;Patrícia Figueiredo,PubMed
+Brief Visual Deprivation Effects on Brain Oscillations During Kinesthetic and Visual-motor Imagery.,Dariusz Zapała;Paweł Augustynowicz;Mikhail Tokovarov;Paulina Iwanowicz;Paulina Droździel,PubMed
+Improved EEG-based emotion recognition through information enhancement in connectivity feature map.,M A H Akhand;Mahfuza Akter Maria;Md Abdus Samad Kamal;Kazuyuki Murase,PubMed
+Self-attention-based convolutional neural network and time-frequency common spatial pattern for enhanced motor imagery classification.,Rui Zhang;Guoyang Liu;Yiming Wen;Weidong Zhou,PubMed
+Development of hybrid feature learner model integrating FDOSM for golden subject identification in motor imagery.,Z T Al-Qaysi;A S Albahri;M A Ahmed;Saleh Mahdi Mohammed,PubMed
+Hierarchical Transformer for Motor Imagery-Based Brain Computer Interface.,Permana Deny;Saewon Cheon;Hayoung Son;Kae Won Choi,PubMed
+EEG-CDILNet: a lightweight and accurate CNN network using circular dilated convolution for motor imagery classification.,Tie Liang;Xionghui Yu;Xiaoguang Liu;Hongrui Wang;Xiuling Liu;Bin Dong,PubMed
+T-TIME: Test-Time Information Maximization Ensemble for Plug-and-Play BCIs.,Siyang Li;Ziwei Wang;Hanbin Luo;Lieyun Ding;Dongrui Wu,PubMed
+MI-based BCI with accurate real-time three-class classification processing and light control application.,Jiakai Zhang;Boyang Xu;Xiongjie Lou;Yan Wu;Xiaoyan Shen,PubMed
+A novel method for modeling effective connections between brain regions based on EEG signals and graph neural networks for motor imagery detection.,Mahya Nikouei;Fardin Abdali-Mohammadi,PubMed
+Domain-Generalized EEG Classification With Category-Oriented Feature Decorrelation and Cross-View Consistency Learning.,Shuang Liang;Changsheng Xuan;Wenlong Hang;Baiying Lei;Jun Wang;Jing Qin;Kup-Sze Choi;Yu Zhang,PubMed
+Improving single-hand open/close motor imagery classification by error-related potentials correction.,Yanghao Lei;Dong Wang;Weizhen Wang;Hao Qu;Jing Wang;Bin Shi,PubMed
+Classification Algorithm for Electroencephalogram-based Motor Imagery Using Hybrid Neural Network with Spatio-temporal Convolution and Multi-head Attention Mechanism.,Xingbin Shi;Baojiang Li;Wenlong Wang;Yuxin Qin;Haiyan Wang;Xichao Wang,PubMed
+Subject-Independent EEG Classification of Motor Imagery Based on Dual-Branch Feature Fusion.,Yanqing Dong;Xin Wen;Fang Gao;Chengxin Gao;Ruochen Cao;Jie Xiang;Rui Cao,PubMed
+Sparse Bayesian Learning for End-to-End EEG Decoding.,Wenlong Wang;Feifei Qi;David Paul Wipf;Chang Cai;Tianyou Yu;Yuanqing Li;Yu Zhang;Zhuliang Yu;Wei Wu,PubMed
+Study of MI-BCI classification method based on the Riemannian transform of personalized EEG spatiotemporal features.,Xiaotong Ding;Lei Yang;Congsheng Li,PubMed
+A shallow mirror transformer for subject-independent motor imagery BCI.,Jing Luo;Yaojie Wang;Shuxiang Xia;Na Lu;Xiaoyong Ren;Zhenghao Shi;Xinhong Hei,PubMed
+A Temporal Dependency Learning CNN With Attention Mechanism for MI-EEG Decoding.,Xinzhi Ma;Weihai Chen;Zhongcai Pei;Jingmeng Liu;Bin Huang;Jianer Chen,PubMed
+A Novel Algorithmic Structure of EEG Channel Attention Combined With Swin Transformer for Motor Patterns Classification.,Han Wang;Lei Cao;Chenxi Huang;Jie Jia;Yilin Dong;Chunjiang Fan;Victor Hugo C de Albuquerque,PubMed
+Differentiating brain states via multi-clip random fragment strategy-based interactive bidirectional recurrent neural network.,Shu Zhang;Enze Shi;Lin Wu;Ruoyang Wang;Sigang Yu;Zhengliang Liu;Shaochen Xu;Tianming Liu;Shijie Zhao,PubMed
+Granger Causal Inference Based on Dual Laplacian Distribution and Its Application to MI-BCI Classification.,Peiyang Li;Xiaohui Gao;Cunbo Li;Chanlin Yi;Weijie Huang;Yajing Si;Fali Li;Zehong Cao;Yin Tian;Peng Xu,PubMed
+Paving the Way for Motor Imagery-Based Tele-Rehabilitation through a Fully Wearable BCI System.,Pasquale Arpaia;Damien Coyle;Antonio Esposito;Angela Natalizio;Marco Parvis;Marisa Pesola;Ersilia Vallefuoco,PubMed
+A deep domain adaptation framework with correlation alignment for EEG-based motor imagery classification.,Xiao-Cong Zhong;Qisong Wang;Dan Liu;Jing-Xiao Liao;Runze Yang;Sanhe Duan;Guohua Ding;Jinwei Sun,PubMed
+Classification of Motor Imagery Based on Multi-Scale Feature Extraction and the Channel-Temporal Attention Module.,Runze Wu;Jing Jin;Ian Daly;Xingyu Wang;Andrzej Cichocki,PubMed
+Correlation-Filter-Based Channel and Feature Selection Framework for Hybrid EEG-fNIRS BCI Applications.,Muhammad Umair Ali;Amad Zafar;Karam Dad Kallu;Haris Masood;Malik Muhammad Naeem Mannan;Malik Muhammad Ibrahim;Sangil Kim;Muhammad Attique Khan,PubMed
+Overlapping filter bank convolutional neural network for multisubject multicategory motor imagery brain-computer interface.,Jing Luo;Jundong Li;Qi Mao;Zhenghao Shi;Haiqin Liu;Xiaoyong Ren;Xinhong Hei,PubMed
+Motor intent recognition of multi-feature fusion EEG signals by UMAP algorithm.,Yushan Du;Jiaxin Sui;Shiwei Wang;Rongrong Fu;Chengcheng Jia,PubMed
+Multi-Band CNN With Band-Dependent Kernels and Amalgamated Cross Entropy Loss for Motor Imagery Classification.,Jinhyo Shin;Wonzoo Chung,PubMed
+Enhanced lower-limb motor imagery by kinesthetic illusion.,Weizhen Wang;Bin Shi;Dong Wang;Jing Wang;Gang Liu,PubMed
+MSATNet: multi-scale adaptive transformer network for motor imagery classification.,Lingyan Hu;Weijie Hong;Lingyu Liu,PubMed
+[Multi-scale feature extraction and classification of motor imagery electroencephalography based on time series data enhancement].,Hongli Li;Haoyu Liu;Hongyu Chen;Ronghua Zhang,PubMed
+Dual Attention Relation Network With Fine-Tuning for Few-Shot EEG Motor Imagery Classification.,Sion An;Soopil Kim;Philip Chikontwe;Sang Hyun Park,PubMed
+Enhanced motor imagery of digits within the same hand via vibrotactile stimulation.,Vadivelan Ramu;Kishor Lakshminarayanan,PubMed
+A case for hybrid BCIs: combining optical and electrical modalities improves accuracy.,Rand Kasim Almajidy;Soheil Mottaghi;Asmaa A Ajwad;Yacine Boudria;Kunal Mankodiya;Walter Besio;Ulrich G Hofmann,PubMed
+The effects of layer-wise relevance propagation-based feature selection for EEG classification: a comparative study on multiple datasets.,Hyeonyeong Nam;Jun-Mo Kim;WooHyeok Choi;Soyeon Bak;Tae-Eui Kam,PubMed
+MI-CAT: A transformer-based domain adaptation network for motor imagery classification.,Dongxue Zhang;Huiying Li;Jingmeng Xie,PubMed
+Subject-independent EEG classification based on a hybrid neural network.,Hao Zhang;Hongfei Ji;Jian Yu;Jie Li;Lingjing Jin;Lingyu Liu;Zhongfei Bai;Chen Ye,PubMed
+MBGA-Net: A multi-branch graph adaptive network for individualized motor imagery EEG classification.,Weifeng Ma;Chuanlai Wang;Xiaoyong Sun;Xuefen Lin;Lei Niu;Yuchen Wang,PubMed
+Dynamic pruning group equivariant network for motor imagery EEG recognition.,Xianlun Tang;Wei Zhang;Huiming Wang;Tianzhu Wang;Cong Tan;Mi Zou;Zihui Xu,PubMed
+EEG motor imagery classification using deep learning approaches in naïve BCI users.,Cristian D Guerrero-Mendez;Cristian F Blanco-Diaz;Andres F Ruiz-Olaya;Alberto López-Delis;Sebastian Jaramillo-Isaza;Rafhael Milanezi Andrade;Alberto Ferreira De Souza;Denis Delisle-Rodriguez;Anselmo Frizera-Neto;Teodiano F Bastos-Filho,PubMed
+Enhancing Motor Imagery Performance by Antiphasic 10 Hz Transcranial Alternating Current Stimulation.,Lei Zhang;Long Chen;Zhongpeng Wang;Xiuyun Liu;Dong Ming,PubMed
+Motor Imagery Classification Based on EEG Sensing with Visual and Vibrotactile Guidance.,Luka Batistić;Diego Sušanj;Domagoj Pinčić;Sandi Ljubic,PubMed
+Decoding Multi-Class Motor Imagery and Motor Execution Tasks Using Riemannian Geometry Algorithms on Large EEG Datasets.,Zaid Shuqfa;Abdelkader Nasreddine Belkacem;Abderrahmane Lakas,PubMed
+LMDA-Net:A lightweight multi-dimensional attention network for general EEG-based brain-computer interfaces and interpretability.,Zhengqing Miao;Meirong Zhao;Xin Zhang;Dong Ming,PubMed
+Incorporating EEG and fNIRS Patterns to Evaluate Cortical Excitability and MI-BCI Performance During Motor Training.,Zhongpeng Wang;Lu Yang;Yijie Zhou;Long Chen;Bin Gu;Shuang Liu;Minpeng Xu;Feng He;Dong Ming,PubMed
+Epileptic seizures detection and the analysis of optimal seizure prediction horizon based on frequency and phase analysis.,Ximiao Jiang;Xiaotong Liu;Youjun Liu;Qingyun Wang;Bao Li;Liyuan Zhang,PubMed
+Transformer-Based Network with Optimization for Cross-Subject Motor Imagery Identification.,Xiyue Tan;Dan Wang;Jiaming Chen;Meng Xu,PubMed
+Weighted ordinal connection based functional network classification for schizophrenia disease detection using EEG signal.,Mangesh R Kose;Mitul K Ahirwal;Mithilesh Atulkar,PubMed
+Cross-Channel Specific-Mutual Feature Transfer Learning for Motor Imagery EEG Signals Decoding.,Donglin Li;Jianhui Wang;Jiacan Xu;Xiaoke Fang;Ying Ji,PubMed
+Motor imagery electroencephalogram classification algorithm based on joint features in the spatial and frequency domains and instance transfer.,Ximiao Wang;Xisheng Dai;Yu Liu;Xiangmeng Chen;Qinghui Hu;Rongliang Hu;Mingxin Li,PubMed
+Evaluation of EEG Oscillatory Patterns and Classification of Compound Limb Tactile Imagery.,Kishor Lakshminarayanan;Rakshit Shah;Sohail R Daulat;Viashen Moodley;Yifei Yao;Puja Sengupta;Vadivelan Ramu;Deepa Madathil,PubMed
+Motor Imagery EEG Classification Based on a Weighted Multi-Branch Structure Suitable for Multisubject Data.,Huiyang Wang;Jiuchuan Jiang;John Q Gan;Haixian Wang,PubMed
+One-Dimensional Local Binary Pattern and Common Spatial Pattern Feature Fusion Brain Network for Central Neuropathic Pain.,Fangzhou Xu;Chongfeng Wang;Xin Yu;Jinzhao Zhao;Ming Liu;Jiaqi Zhao;Licai Gao;Xiuquan Jiang;Zhaoxin Zhu;Yongjian Wu;Dezheng Wang;Shanxin Feng;Sen Yin;Yang Zhang;Jiancai Leng,PubMed
+"Stability of mental motor-imagery classification in EEG depends on the choice of classifier model and experiment design, but not on signal preprocessing.",Martin Justinus Rosenfelder;Myra Spiliopoulou;Burkhard Hoppenstedt;Rüdiger Pryss;Patrick Fissler;Mario Della Piedra Walter;Iris-Tatjana Kolassa;Andreas Bender,PubMed
+Electroencephalography Signal Analysis for Human Activities Classification: A Solution Based on Machine Learning and Motor Imagery.,Tarciana C de Brito Guerra;Taline Nóbrega;Edgard Morya;Allan de M Martins;Vicente A de Sousa,PubMed
+Motor Imagery and Action Observation Induced Electroencephalographic Activations to Guide Subject-Specific Training Paradigm: A Pilot Study.,Zhongpeng Wang;Lu Yang;Mengya Wang;Yijie Zhou;Long Chen;Bin Gu;Shuang Liu;Minpeng Xu;Feng He;Dong Ming,PubMed
+Design of virtual BCI channels based on informer.,Hang Sun;Changsheng Li;He Zhang,PubMed
+Detection of motor imagery based on short-term entropy of time-frequency representations.,Luka Batistić;Jonatan Lerga;Isidora Stanković,PubMed
+Feature Extraction Method of EEG Signals Evaluating Spatial Cognition of Community Elderly With Permutation Conditional Mutual Information Common Space Model.,Dong Wen;Bingbing Liang;Jingjing Li;Lingyu Wu;Xianglong Wan;Xianling Dong;Xifa Lan;Haiqing Song;Yanhong Zhou,PubMed
+Motor Imagery Multi-Tasks Classification for BCIs Using the NVIDIA Jetson TX2 Board and the EEGNet Network.,Tat'y Mwata-Velu;Edson Niyonsaba-Sebigunda;Juan Gabriel Avina-Cervantes;Jose Ruiz-Pinales;Narcisse Velu-A-Gulenga;Adán Antonio Alonso-Ramírez,PubMed
+EEG Signal Complexity Measurements to Enhance BCI-Based Stroke Patients' Rehabilitation.,Noor Kamal Al-Qazzaz;Alaa A Aldoori;Sawal Hamid Bin Mohd Ali;Siti Anom Ahmad;Ahmed Kazem Mohammed;Mustafa Ibrahim Mohyee,PubMed
+Portable deep-learning decoder for motor imaginary EEG signals based on a novel compact convolutional neural network incorporating spatial-attention mechanism.,Zhanxiong Wu;Xudong Tang;Jinhui Wu;Jiye Huang;Jian Shen;Hui Hong,PubMed
+Joint Filter-Band-Combination and Multi-View CNN for Electroencephalogram Decoding.,Zhuyao Fan;Xugang Xi;Yunyuan Gao;Ting Wang;Feng Fang;Michael Houston;Yingchun Zhang;Lihua Li;Zhong Lu,PubMed
+Speech2EEG: Leveraging Pretrained Speech Model for EEG Signal Recognition.,Jinzhao Zhou;Yiqun Duan;Yingying Zou;Yu-Cheng Chang;Yu-Kai Wang;Chin-Teng Lin,PubMed
+Interpretation of a deep analysis of speech imagery features extracted by a capsule neural network.,José M Macías-Macías;Juan A Ramírez-Quintana;Mario I Chacón-Murguía;Alejandro A Torres-García;Luis F Corral-Martínez,PubMed
+Review of public motor imagery and execution datasets in brain-computer interfaces.,Daeun Gwon;Kyungho Won;Minseok Song;Chang S Nam;Sung Chan Jun;Minkyu Ahn,PubMed
+Low-level language processing in brain-injured patients.,Parul Jain;Mary M Conte;Henning U Voss;Jonathan D Victor;Nicholas D Schiff,PubMed
+Metaheuristic Optimization-Based Feature Selection for Imagery and Arithmetic Tasks: An fNIRS Study.,Amad Zafar;Shaik Javeed Hussain;Muhammad Umair Ali;Seung Won Lee,PubMed
+MDTL: A Novel and Model-Agnostic Transfer Learning Strategy for Cross-Subject Motor Imagery BCI.,Ang Li;Zhenyu Wang;Xi Zhao;Tianheng Xu;Ting Zhou;Honglin Hu,PubMed
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification.,Wei-Yen Hsu;Ya-Wen Cheng,PubMed
+A Cross-Space CNN With Customized Characteristics for Motor Imagery EEG Classification.,Ying Hu;Yan Liu;Siqi Zhang;Ting Zhang;Bin Dai;Bo Peng;Hongbo Yang;Yakang Dai,PubMed
+Less Is More: Brain Functional Connectivity Empowered Generalizable Intention Classification With Task-Relevant Channel Selection.,Haowei Lou;Zesheng Ye;Lina Yao;Yu Zhang,PubMed
+A Spiking Neural Network With Adaptive Graph Convolution and LSTM for EEG-Based Brain-Computer Interfaces.,Peiliang Gong;Pengpai Wang;Yueying Zhou;Daoqiang Zhang,PubMed
+EEG-Based Motor Imagery Recognition Framework via Multisubject Dynamic Transfer and Iterative Self-Training.,He Wang;Peiyin Chen;Meng Zhang;Jianbo Zhang;Xinlin Sun;Mengyu Li;Xiong Yang;Zhongke Gao,PubMed
+IFNet: An Interactive Frequency Convolutional Neural Network for Enhancing Motor Imagery Decoding From EEG.,Jiaheng Wang;Lin Yao;Yueming Wang,PubMed
+Multi-domain feature analysis method of MI-EEG signal based on Sparse Regularity Tensor-Train decomposition.,Yunyuan Gao;Congrui Zhang;Feng Fang;Jared Cammon;Yingchun Zhang,PubMed
+Improving Generalization of CNN-Based Motor-Imagery EEG Decoders via Dynamic Convolutions.,Konstantinos Barmpas;Yannis Panagakis;Stylianos Bakas;Dimitrios A Adamos;Nikolaos Laskaris;Stefanos Zafeiriou,PubMed
+"A Model Combining Multi Branch Spectral-Temporal CNN, Efficient Channel Attention, and LightGBM for MI-BCI Classification.",Hai Jia;Shiqi Yu;Shunjie Yin;Lanxin Liu;Chanlin Yi;Kaiqing Xue;Fali Li;Dezhong Yao;Peng Xu;Tao Zhang,PubMed
+AutoEncoder Filter Bank Common Spatial Patterns to Decode Motor Imagery From EEG.,Nadia Mammone;Cosimo Ieracitano;Hojjat Adeli;Francesco C Morabito,PubMed
+Motor Imagery EEG Decoding Based on Multi-Scale Hybrid Networks and Feature Enhancement.,Xianlun Tang;Caiquan Yang;Xia Sun;Mi Zou;Huiming Wang,PubMed
+Improved Domain Adaptation Network Based on Wasserstein Distance for Motor Imagery EEG Classification.,Qingshan She;Tie Chen;Feng Fang;Jianhai Zhang;Yunyuan Gao;Yingchun Zhang,PubMed
+Classification of Motor-Imagery Tasks Using a Large EEG Dataset by Fusing Classifiers Learning on Wavelet-Scattering Features.,Tuan D Pham,PubMed
+Subject-Invariant Deep Neural Networks Based on Baseline Correction for EEG Motor Imagery BCI.,Youngchul Kwak;Kyeongbo Kong;Woo-Jin Song;Seong-Eun Kim,PubMed
+Improving Performance of Motor Imagery-Based Brain-Computer Interface in Poorly Performing Subjects Using a Hybrid-Imagery Method Utilizing Combined Motor and Somatosensory Activity.,Sangin Park;Jihyeon Ha;Laehyun Kim,PubMed
+Intra- and Inter-Subject Common Spatial Pattern for Reducing Calibration Effort in MI-Based BCI.,Qingguo Wei;Xinjie Ding,PubMed
+Multiscale Convolutional Transformer for EEG Classification of Mental Imagery in Different Modalities.,Hyung-Ju Ahn;Dae-Hyeok Lee;Ji-Hoon Jeong;Seong-Whan Lee,PubMed
+Decoding Articulation Motor Imagery Using Early Connectivity Information in the Motor Cortex: A Functional Near-Infrared Spectroscopy Study.,Zengzhi Guo;Fei Chen,PubMed
+Relation Learning Using Temporal Episodes for Motor Imagery Brain-Computer Interfaces.,Xiuyu Huang;Shuang Liang;Yuanpeng Zhang;Nan Zhou;Witold Pedrycz;Kup-Sze Choi,PubMed
+Robust Bayesian Estimation of EEG-Based Brain Causality Networks.,Ke Liu;Qin Lai;Peiyang Li;Zhuliang Yu;Bin Xiao;Cuntai Guan;Wei Wu,PubMed
+An Integrated Machine Learning-Based Brain Computer Interface to Classify Diverse Limb Motor Tasks: Explainable Model.,Hend A Hashem;Yousry Abdulazeem;Labib M Labib;Mostafa A Elhosseini;Mohamed Shehata,PubMed
+"Mapping and decoding cortical engagement during motor imagery, mental arithmetic, and silent word generation using MEG.",Vahab Youssofzadeh;Sujit Roy;Anirban Chowdhury;Aqil Izadysadr;Lauri Parkkonen;Manoj Raghavan;Girijesh Prasad,PubMed
+A Multi-Scale Temporal Convolutional Network with Attention Mechanism for Force Level Classification during Motor Imagery of Unilateral Upper-Limb Movements.,Junpeng Sheng;Jialin Xu;Han Li;Zhen Liu;Huilin Zhou;Yimeng You;Tao Song;Guokun Zuo,PubMed
+KCS-FCnet: Kernel Cross-Spectral Functional Connectivity Network for EEG-Based Motor Imagery Classification.,Daniel Guillermo García-Murillo;Andrés Marino Álvarez-Meza;Cesar German Castellanos-Dominguez,PubMed
+Exploring the Role of Visual Guidance in Motor Imagery-Based Brain-Computer Interface: An EEG Microstate-Specific Functional Connectivity Study.,Tianjun Wang;Yun-Hsuan Chen;Mohamad Sawan,PubMed
+Motor imagery EEG signal classification with a multivariate time series approach.,I Velasco;A Sipols;C Simon De Blas;L Pastor;S Bayona,PubMed
+Retraction: Multi-class motor imagery EEG classification method with high accuracy and low individual differences based on hybrid neural network (2021,,PubMed
+Recognition of single upper limb motor imagery tasks from EEG using multi-branch fusion convolutional neural network.,Rui Zhang;Yadi Chen;Zongxin Xu;Lipeng Zhang;Yuxia Hu;Mingming Chen,PubMed
+Posthoc Interpretability of Neural Responses by Grouping Subject Motor Imagery Skills Using CNN-Based Connectivity.,Diego Fabian Collazos-Huertas;Andrés Marino Álvarez-Meza;David Augusto Cárdenas-Peña;Germán Albeiro Castaño-Duque;César Germán Castellanos-Domínguez,PubMed
+A multi-feature fusion decoding study for unilateral upper-limb fine motor imagery.,Liangyu Yang;Tianyu Shi;Jidong Lv;Yan Liu;Yakang Dai;Ling Zou,PubMed
+Multi-source online transfer algorithm based on source domain selection for EEG classification.,Zizhuo Wu;Qingshan She;Zhelong Hou;Zhenyu Li;Kun Tian;Yuliang Ma,PubMed
+Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives.,Gan Huang;Zhiheng Zhao;Shaorong Zhang;Zhenxing Hu;Jiaming Fan;Meisong Fu;Jiale Chen;Yaqiong Xiao;Jun Wang;Guo Dan,PubMed
+Multimodal motor imagery decoding method based on temporal spatial feature alignment and fusion.,Yukun Zhang;Shuang Qiu;Huiguang He,PubMed
+Improvement of brain-computer interface in motor imagery training through the designing of a dynamic experiment and FBCSP.,Chun-Ling Lin;Liang-Ting Chen,PubMed
+Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks.,Yu Xie;Stefan Oniga,PubMed
+Raw Electroencephalogram-Based Cognitive Workload Classification Using Directed and Nondirected Functional Connectivity Analysis and Deep Learning.,Anmol Gupta;Ronnie Daniel;Akash Rao;Partha Pratim Roy;Sushil Chandra;Byung-Gyu Kim,PubMed
+A multiwavelet-based sparse time-varying autoregressive modeling for motor imagery EEG classification.,Zhenfei Liu;Lina Wang;Song Xu;Kunfeng Lu,PubMed
+Input Shape Effect on Classification Performance of Raw EEG Motor Imagery Signals with Convolutional Neural Networks for Use in Brain-Computer Interfaces.,Emre Arı;Ertuğrul Taçgın,PubMed
+Subject Separation Network for Reducing Calibration Time of MI-Based BCI.,Haochen Hu;Kang Yue;Mei Guo;Kai Lu;Yue Liu,PubMed
+Continual Learning of a Transformer-Based Deep Learning Classifier Using an Initial Model from Action Observation EEG Data to Online Motor Imagery Classification.,Po-Lei Lee;Sheng-Hao Chen;Tzu-Chien Chang;Wei-Kung Lee;Hao-Teng Hsu;Hsiao-Huang Chang,PubMed
+Motor imagery classification method based on relative wavelet packet entropy brain network and improved lasso.,Manqing Wang;Hui Zhou;Xin Li;Siyu Chen;Dongrui Gao;Yongqing Zhang,PubMed
+Multi-band spatial feature extraction and classification for motor imaging EEG signals based on OSFBCSP-GAO-SVM model : EEG signal processing.,Yong Shang;Xing Gao;Aimin An,PubMed
+The Effects of Subthreshold Vibratory Noise on Cortical Activity During Motor Imagery.,Kishor Lakshminarayanan;Rakshit Shah;Yifei Yao;Deepa Madathil,PubMed
+Recognition of unilateral lower limb movement based on EEG signals with ERP-PCA analysis.,Lingyun Gu;Jiuchuan Jiang;Hongfang Han;John Q Gan;Haixian Wang,PubMed
+Filter bank sinc-convolutional network with channel self-attention for high performance motor imagery decoding.,Jiaming Chen;Dan Wang;Weibo Yi;Meng Xu;Xiyue Tan,PubMed
+Explainable artificial intelligence model to predict brain states from fNIRS signals.,Caleb Jones Shibu;Sujesh Sreedharan;K M Arun;Chandrasekharan Kesavadas;Ranganatha Sitaram,PubMed
+EEG changes during passive movements improve the motor imagery feature extraction in BCIs-based sensory feedback calibration.,Denis Delisle-Rodriguez;Leticia Silva;Teodiano Bastos-Filho,PubMed
+Coherence based graph convolution network for motor imagery-induced EEG after spinal cord injury.,Han Li;Ming Liu;Xin Yu;JianQun Zhu;Chongfeng Wang;Xinyi Chen;Chao Feng;Jiancai Leng;Yang Zhang;Fangzhou Xu,PubMed
+Early-stage fusion of EEG and fNIRS improves classification of motor imagery.,Yang Li;Xin Zhang;Dong Ming,PubMed
+Robust Motor Imagery Tasks Classification Approach Using Bayesian Neural Network.,Daily Milanés-Hermosilla;Rafael Trujillo-Codorniú;Saddid Lamar-Carbonell;Roberto Sagaró-Zamora;Jorge Jadid Tamayo-Pacheco;John Jairo Villarejo-Mayor;Denis Delisle-Rodriguez,PubMed
+An overview of methods of left and right foot motor imagery based on Tikhonov regularisation common spatial pattern.,Jiakai Zhang;Xuemei Wang;Boyang Xu;Yan Wu;Xiongjie Lou;Xiaoyan Shen,PubMed
+A study of action difference on motor imagery based on delayed matching posture task.,Mengfan Li;Haoxin Zuo;Huihui Zhou;Guizhi Xu;Enming Qi,PubMed
+Comparison of subject-independent and subject-specific EEG-based BCI using LDA and SVM classifiers.,Eliana M Dos Santos;Rodrigo San-Martin;Francisco J Fraga,PubMed
+An Adaptive EEG Classification Algorithm Based on CSSD and ELM_Kernel for Small Training Samples.,Li Wang;Zhi Lan;Qiang Wang;Xue Bai;Fengling Ma,PubMed
+Classification of motor imagery electroencephalogram signals by using adaptive cross-subject transfer learning.,Jin Feng;Yunde Li;Chengliang Jiang;Yu Liu;Mingxin Li;Qinghui Hu,PubMed
+Classification of EEG signals related to real and imagery knee movements using deep learning for brain computer interfaces.,Yeji Lee;Hyun Ju Lee;Ki Sik Tae,PubMed
+Enhancement of motor imagery training efficiency by an online adaptive training paradigm integrated with error related potential.,Tangfei Tao;Yagang Jia;Guanghua Xu;Renghao Liang;Qiuxiang Zhang;Longting Chen;Yuxiang Gao;Ruiquan Chen;Xiaowei Zheng;Yunhui Yu,PubMed
+Classification of BCI Multiclass Motor Imagery Task Based on Artificial Neural Network.,Amira Echtioui;Wassim Zouch;Mohamed Ghorbel;Chokri Mhiri;Habib Hamam,PubMed
+Feature optimization based on improved novel global harmony search algorithm for motor imagery electroencephalogram classification.,Bin Shi;Xiaokai Chen;Zan Yue;Feixiang Zeng;Shuai Yin;Benguo Wang;Jing Wang,PubMed
+Motor Imagery Classification for Brain Computer Interface Using Deep Convolutional Neural Networks and Mixup Augmentation.,Haider Alwasiti;Mohd Zuki Yusoff,PubMed
+[Research on the feature representation of motor imagery electroencephalogram signal based on individual adaptation].,Lizheng Pan;Yi Ding;Shunchao Wang;Aiguo Song,PubMed
+Hybrid fuzzy deep neural network toward temporal-spatial-frequency features learning of motor imagery signals.,Maryam Sorkhi;Mohammad Reza Jahed-Motlagh;Behrouz Minaei-Bidgoli;Mohammad Reza Daliri,PubMed
+Driving Fatigue Detection with Three Non-Hair-Bearing EEG Channels and Modified Transformer Model.,Jie Wang;Yanting Xu;Jinghong Tian;Huayun Li;Weidong Jiao;Yu Sun;Gang Li,PubMed
+EEG-Based Mental Tasks Recognition via a Deep Learning-Driven Anomaly Detector.,Abdelkader Dairi;Nabil Zerrouki;Fouzi Harrou;Ying Sun,PubMed
+EEG Channel Selection Techniques in Motor Imagery Applications: A Review and New Perspectives.,Ibrahima Faye;Md Rafiqul Islam,PubMed
+Relevance-based channel selection in motor imagery brain-computer interface.,Aarthy Nagarajan;Neethu Robinson;Cuntai Guan,PubMed
+EEG in Neurorehabilitation: A Bibliometric Analysis and Content Review.,Athanasia Tsiamalou;Efthimios Dardiotis;Konstantinos Paterakis;George Fotakopoulos;Ioannis Liampas;Markos Sgantzos;Vasileios Siokas;Alexandros G Brotis,PubMed
+Noninvasive neuroimaging and spatial filter transform enable ultra low delay motor imagery EEG decoding.,Tao Fang;Junkongshuai Wang;Wei Mu;Zuoting Song;Xueze Zhang;Gege Zhan;Pengchao Wang;Jianxiong Bin;Lan Niu;Lihua Zhang;Xiaoyang Kang,PubMed
+A novel ANN adaptive Riemannian-based kernel classification for motor imagery.,Fodil Yacine;Haddab Salah;Kachenoura Amar;Karfoul Ahmad,PubMed
+MI-DABAN: A dual-attention-based adversarial network for motor imagery classification.,Huiying Li;Dongxue Zhang;Jingmeng Xie,PubMed
+Event-related brain potential markers of visual and auditory perception: A useful tool for brain computer interface systems.,Alice Mado Proverbio;Marta Tacchini;Kaijun Jiang,PubMed
+A comparative analysis of masking empirical mode decomposition and a neural network with feed-forward and back propagation along with masking empirical mode decomposition to improve the classification performance for a reliable brain-computer interface.,D Jaipriya;K C Sriharipriya,PubMed
+Data augmentation for learning predictive models on EEG: a systematic comparison.,Cédric Rommel;Joseph Paillard;Thomas Moreau;Alexandre Gramfort,PubMed
+Learning Optimal Time-Frequency-Spatial Features by the CiSSA-CSP Method for Motor Imagery EEG Classification.,Hai Hu;Zihang Pu;Haohan Li;Zhexian Liu;Peng Wang,PubMed
+An Intelligent Motor Imagery Detection System Using Electroencephalography with Adaptive Wavelets.,Smith K Khare;Nikhil Gaikwad;Neeraj Dhanraj Bokde,PubMed
+Resting-State EEG in Alpha Rhythm May Be Indicative of the Performance of Motor Imagery-Based Brain-Computer Interface.,Kun Wang;Feifan Tian;Minpeng Xu;Shanshan Zhang;Lichao Xu;Dong Ming,PubMed
+Mental Strategies in a P300-BCI: Visuomotor Transformation Is an Option.,Nikolay Syrov;Lev Yakovlev;Varvara Nikolaeva;Alexander Kaplan;Mikhail Lebedev,PubMed
+Segment alignment based cross-subject motor imagery classification under fading data.,Zitong Wan;Rui Yang;Mengjie Huang;Fuad E Alsaadi;Muntasir M Sheikh;Zidong Wang,PubMed
+Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh-Nagumo Neuron System.,Ruiquan Chen;Guanghua Xu;Yaguang Jia;Cheng Zhou;Zhao Wang;Jinju Pei;Chengcheng Han;Yi Wang;Sicong Zhang,PubMed
+A review of critical challenges in MI-BCI: From conventional to deep learning methods.,Zahra Khademi;Farideh Ebrahimi;Hussain Montazery Kordy,PubMed
+Individual finger movement decoding using a novel ultra-high-density electroencephalography-based brain-computer interface system.,Hyemin S Lee;Leonhard Schreiner;Seong-Hyeon Jo;Sebastian Sieghartsleitner;Michael Jordan;Harald Pretl;Christoph Guger;Hyung-Soon Park,PubMed
+EEG channel selection based on sequential backward floating search for motor imagery classification.,Chao Tang;Tianyi Gao;Yuanhao Li;Badong Chen,PubMed
+Improvements in Classification of Left and Right Foot Motor Intention Using Modulated Steady-State Somatosensory Evoked Potential Induced by Electrical Stimulation and Motor Imagery.,Yan Bian;Li Zhao;Jiaying Li;Tong Guo;Xing Fu;Hongzhi Qi,PubMed
+Frontoparietal Dysconnection in Covert Bipedal Activity for Enhancing the Performance of the Motor Preparation-Based Brain-Computer Interface.,Chun-Ren Phang;Chia-Hsin Chen;Yuan-Yang Cheng;Yi-Jen Chen;Li-Wei Ko,PubMed
+Supervised and Semisupervised Manifold Embedded Knowledge Transfer in Motor Imagery-Based BCI.,Yilu Xu;Hua Yin;Wenlong Yi;Xin Huang;Wenjuan Jian;Canhua Wang;Ronghua Hu,PubMed
+Motor Imagery EEG Classification Based on Riemannian Sparse Optimization and Dempster-Shafer Fusion of Multi-Time-Frequency Patterns.,Jing Jin;Tingnan Qu;Ren Xu;Xingyu Wang;Andrzej Cichocki,PubMed
+Subject adaptation convolutional neural network for EEG-based motor imagery classification.,Siwei Liu;Jia Zhang;Andong Wang;Hanrui Wu;Qibin Zhao;Jinyi Long,PubMed
+EEG decoding method based on multi-feature information fusion for spinal cord injury.,Fangzhou Xu;Jincheng Li;Gege Dong;Jianfei Li;Xinyi Chen;Jianqun Zhu;Jinglu Hu;Yang Zhang;Shouwei Yue;Dong Wen;Jiancai Leng,PubMed
+Hybrid mental tasks based human computer interface via integration of pronunciation and motor imagery.,Jigang Tong;Xiaoying Wei;Enzeng Dong;Zhe Sun;Shengzhi Du;Feng Duan,PubMed
+An EEG-based asynchronous MI-BCI system to reduce false positives with a small number of channels for neurorehabilitation: A pilot study.,Minsu Song;Hojun Jeong;Jongbum Kim;Sung-Ho Jang;Jonghyun Kim,PubMed
+Deep Convolutional Neural Network for EEG-Based Motor Decoding.,Jing Zhang;Dong Liu;Weihai Chen;Zhongcai Pei;Jianhua Wang,PubMed
+A Parallel Feature Fusion Network Combining GRU and CNN for Motor Imagery EEG Decoding.,Siheng Gao;Jun Yang;Tao Shen;Wen Jiang,PubMed
+A new attention-based 3D densely connected cross-stage-partial network for motor imagery classification in BCI.,Yintang Wen;Wenjing He;Yuyan Zhang,PubMed
+The Effects of Bilateral Phase-Dependent Closed-Loop Vibration Stimulation With Motor Imagery Paradigm.,Wenbin Zhang;Aiguo Song;Hong Zeng;Baoguo Xu;Minmin Miao,PubMed
+Riemannian distance based channel selection and feature extraction combining discriminative time-frequency bands and Riemannian tangent space for MI-BCIs.,Tingnan Qu;Jing Jin;Ren Xu;Xingyu Wang;Andrzej Cichocki,PubMed
+Decoding EEG rhythms offline and online during motor imagery for standing and sitting based on a brain-computer interface.,Nayid Triana-Guzman;Alvaro D Orjuela-Cañon;Andres L Jutinico;Omar Mendoza-Montoya;Javier M Antelis,PubMed
+Multi-Source Decentralized Transfer for Privacy-Preserving BCIs.,Wen Zhang;Ziwei Wang;Dongrui Wu,PubMed
+GCNs-Net: A Graph Convolutional Neural Network Approach for Decoding Time-Resolved EEG Motor Imagery Signals.,Yimin Hou;Shuyue Jia;Xiangmin Lun;Ziqian Hao;Yan Shi;Yang Li;Rui Zeng;Jinglei Lv,PubMed
+Machine Learning for Motor Imagery Wrist Dorsiflexion Prediction in Brain-Computer Interface Assisted Stroke Rehabilitation.,Cihan Uyanik;M Ahmed Khan;Iris C Brunner;John P Hansen;Sadasivan Puthusserypady,PubMed
+A Subject-Independent Brain-Computer Interface Framework Based on Supervised Autoencoder.,Navid Ayoobi;Elnaz Banan Sadeghian,PubMed
+Does Meta-Learning Improve EEG Motor Imagery Classification?,Xiaoli Wu;Rosa H M Chan,PubMed
+Unsupervised Motor Imagery Saliency Detection Based on Self-Attention Mechanism.,Navid Ayoobi;Elnaz Banan Sadeghian,PubMed
+Subject-Transfer Decoding using the Convolutional Neural Network for Motor Imagery-based Brain-Computer Interface.,Ji-Hyeok Jeong;Keun-Tae Kim;Dong-Joo Kim;Song Joo Lee;Hyungmin Kim,PubMed
+A Deep Learning Framework Based on Dynamic Channel Selection for Early Classification of Left and Right Hand Motor Imagery Tasks.,Jiazhen Hong;Foroogh Shamsi;Laleh Najafizadeh,PubMed
+A Pruned Deep Learning Approach for Classification of Motor Imagery Electroencephalography Signals.,Jiayang Zhang;Kang Li,PubMed
+MCFHNet: Multi-Channel Fusion Hybrid Network for Efficient EEG-fNIRS Multi-modal Motor Imagery Decoding.,Jiaming Chen;Dan Wang;Bo Hu;Weibo Yi;Meng Xu;Dingrui Chen;Qing Zhao,PubMed
+Class-distinctiveness-based frequency band selection on the Riemannian manifold for oscillatory activity-based BCIs: preliminary results.,Maria Sayu Yamamoto;Fabien Lotte;Florian Yger;Sylvain Chevallier,PubMed
+Comparison of MI-EEG Decoding in Source to Sensor Domain.,Tao Fang;Zuoting Song;Wei Mu;Song Le;Yuan Zhang;Xueze Zhang;Gege Zhan;Pengchao Wang;Junkongshuai Wang;Jianxiong Bin;Fan Zhang;Lihua Zhang;Xiaoyang Kang,PubMed
+Distribution Adaptation and Classification Framework Based on Multiple Kernel Learning for Motor Imagery BCI Illiteracy.,Lin Tao;Tianao Cao;Qisong Wang;Dan Liu;Jinwei Sun,PubMed
+Competing at the Cybathlon championship for people with disabilities: long-term motor imagery brain-computer interface training of a cybathlete who has tetraplegia.,Attila Korik;Karl McCreadie;Niall McShane;Naomi Du Bois;Massoud Khodadadzadeh;Jacqui Stow;Jacinta McElligott;Áine Carroll;Damien Coyle,PubMed
+Data augmentation strategies for EEG-based motor imagery decoding.,Olawunmi George;Roger Smith;Praveen Madiraju;Nasim Yahyasoltani;Sheikh Iqbal Ahamed,PubMed
+Clustered event related spectral perturbation (ERSP) feature in right hand motor imagery classification.,Zhongjie Zhang;Yasuharu Koike,PubMed
+A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface.,Jun Ma;Banghua Yang;Wenzheng Qiu;Yunzhe Li;Shouwei Gao;Xinxing Xia,PubMed
+A dual alignment-based multi-source domain adaptation framework for motor imagery EEG classification.,Dong-Qin Xu;Ming-Ai Li,PubMed
+Enhancing Visual-Guided Motor Imagery Performance via Sensory Threshold Somatosensory Electrical Stimulation Training.,Lei Zhang;Long Chen;Zhongpeng Wang;Xin Zhang;Xiuyun Liu;Dong Ming,PubMed
+A Deep Learning Model for Stroke Patients' Motor Function Prediction.,Abeer Abdulaziz AlArfaj;Hanan A Hosni Mahmoud;Alaaeldin M Hafez,PubMed
+Motor Imagery Analysis from Extensive EEG Data Representations Using Convolutional Neural Networks.,Vicente A Lomelin-Ibarra;Andres E Gutierrez-Rodriguez;Jose A Cantoral-Ceballos,PubMed
+Whitening Technique Based on Gram-Schmidt Orthogonalization for Motor Imagery Classification of Brain-Computer Interface Applications.,Hojong Choi;Junghun Park;Yeon-Mo Yang,PubMed
+Improved classification performance of EEG-fNIRS multimodal brain-computer interface based on multi-domain features and multi-level progressive learning.,Lina Qiu;Yongshi Zhong;Zhipeng He;Jiahui Pan,PubMed
+SPD-CNN: A plain CNN-based model using the symmetric positive definite matrices for cross-subject EEG classification with meta-transfer-learning.,Lezhi Chen;Zhuliang Yu;Jian Yang,PubMed
+A Fused Multidimensional EEG Classification Method Based on an Extreme Tree Feature Selection.,Ruijing Lin;Chaoyi Dong;Pengfei Ma;Shuang Ma;Xiaoyan Chen;Huanzi Liu,PubMed
+A Self-Supervised Learning Based Channel Attention MLP-Mixer Network for Motor Imagery Decoding.,Yanbin He;Zhiyang Lu;Jun Wang;Shihui Ying;Jun Shi,PubMed
+A Novel Quick-Response Eigenface Analysis Scheme for Brain-Computer Interfaces.,Hojong Choi;Junghun Park;Yeon-Mo Yang,PubMed
+A Comprehensive Review of Endogenous EEG-Based BCIs for Dynamic Device Control.,Natasha Padfield;Kenneth Camilleri;Tracey Camilleri;Simon Fabri;Marvin Bugeja,PubMed
+Subject-Dependent Artifact Removal for Enhancing Motor Imagery Classifier Performance under Poor Skills.,Mateo Tobón-Henao;Andrés Álvarez-Meza;Germán Castellanos-Domínguez,PubMed
+A Transformer-Based Approach Combining Deep Learning Network and Spatial-Temporal Information for Raw EEG Classification.,Jin Xie;Jie Zhang;Jiayao Sun;Zheng Ma;Liuni Qin;Guanglin Li;Huihui Zhou;Yang Zhan,PubMed
+A Graph-Based Nonlinear Dynamic Characterization of Motor Imagery Toward an Enhanced Hybrid BCI.,Sarah M I Hosni;Seyyed B Borgheai;John McLinden;Shaotong Zhu;Xiaofei Huang;Sarah Ostadabbas;Yalda Shahriari,PubMed
+Direction decoding of imagined hand movements using subject-specific features from parietal EEG.,Gangadharan K Sagila;A P Vinod,PubMed
+Flexible coding scheme for robotic arm control driven by motor imagery decoding.,Qingsong Ai;Mengyuan Zhao;Kun Chen;Xuefei Zhao;Li Ma;Quan Liu,PubMed
+Optimizing Motor Imagery Parameters for Robotic Arm Control by Brain-Computer Interface.,Ünal Hayta;Danut Constantin Irimia;Christoph Guger;İbrahim Erkutlu;İbrahim Halil Güzelbey,PubMed
+Deep Convolution Generative Adversarial Network-Based Electroencephalogram Data Augmentation for Post-Stroke Rehabilitation with Motor Imagery.,Fangzhou Xu;Gege Dong;Jincheng Li;Qingbo Yang;Lei Wang;Yanna Zhao;Yihao Yan;Jinzhao Zhao;Shaopeng Pang;Dongju Guo;Yang Zhang;Jiancai Leng,PubMed
+Electroencephalogram-Based Motor Imagery Signals Classification Using a Multi-Branch Convolutional Neural Network Model with Attention Blocks.,Ghadir Ali Altuwaijri;Ghulam Muhammad,PubMed
+Classification of motor imagery EEG using deep learning increases performance in inefficient BCI users.,Navneet Tibrewal;Nikki Leeuwis;Maryam Alimardani,PubMed
+FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding.,Ke Liu;Mingzhao Yang;Zhuliang Yu;Guoyin Wang;Wei Wu,PubMed
+A Semi-Supervised Progressive Learning Algorithm for Brain-Computer Interface.,Yuxuan Wei;Jie Li;Hongfei Ji;Lingjing Jin;Lingyu Liu;Zhongfei Bai;Chen Ye,PubMed
+Single-Source to Single-Target Cross-Subject Motor Imagery Classification Based on Multisubdomain Adaptation Network.,Yi Chen;Rui Yang;Mengjie Huang;Zidong Wang;Xiaohui Liu,PubMed
+E-Sports Competition Analysis Based on Intelligent Analysis System.,Yao Lu;Hao Chen;Hongqiao Yan,PubMed
+Stockwell transform and semi-supervised feature selection from deep features for classification of BCI signals.,Sahar Salimpour;Hashem Kalbkhani;Saeed Seyyedi;Vahid Solouk,PubMed
+Channel selection from source localization: A review of four EEG-based brain-computer interfaces paradigms.,E Guttmann-Flury;X Sheng;X Zhu,PubMed
+Adaptive binary multi-objective harmony search algorithm for channel selection and cross-subject generalization in motor imagery-based BCI.,Bin Shi;Zan Yue;Shuai Yin;Weizhen Wang;Haoyong Yu;Zhen Huang;Jing Wang,PubMed
+EEGSym: Overcoming Inter-Subject Variability in Motor Imagery Based BCIs With Deep Learning.,Sergio Perez-Velasco;Eduardo Santamaria-Vazquez;Victor Martinez-Cagigal;Diego Marcos-Martinez;Roberto Hornero,PubMed
+Transfer learning for motor imagery based brain-computer interfaces: A tutorial.,Dongrui Wu;Xue Jiang;Ruimin Peng,PubMed
+Tensor-CSPNet: A Novel Geometric Deep Learning Framework for Motor Imagery Classification.,Ce Ju;Cuntai Guan,PubMed
+Motor Imagery EEG Classification Based on Transfer Learning and Multi-Scale Convolution Network.,Zhanyuan Chang;Congcong Zhang;Chuanjiang Li,PubMed
+Sample-Based Data Augmentation Based on Electroencephalogram Intrinsic Characteristics.,Ruilin Li;Lipo Wang;P N Suganthan;Olga Sourina,PubMed
+An improved self-supervised learning for EEG classification.,Yanghan Ou;Siqin Sun;Haitao Gan;Ran Zhou;Zhi Yang,PubMed
+Development of an Adaptive Artifact Subspace Reconstruction Based on Hebbian/Anti-Hebbian Learning Networks for Enhancing BCI Performance.,Bo-Yu Tsai;Sandeep Vara Sankar Diddi;Li-Wei Ko;Shuu-Jiun Wang;Chi-Yuan Chang;Tzyy-Ping Jung,PubMed
+Motor Imagery Decoding in the Presence of Distraction Using Graph Sequence Neural Networks.,Shengyuan Cai;Haoran Li;Qiang Wu;Ju Liu;Yu Zhang,PubMed
+Design-development of an at-home modular brain-computer interface (BCI) platform in a case study of cervical spinal cord injury.,Kevin C Davis;Benyamin Meschede-Krasa;Iahn Cajigas;Noeline W Prins;Charles Alver;Sebastian Gallo;Shovan Bhatia;John H Abel;Jasim A Naeem;Letitia Fisher;Fouzia Raza;Wesley R Rifai;Matthew Morrison;Michael E Ivan;Emery N Brown;Jonathan R Jagid;Abhishek Prasad,PubMed
+A Novel Hybrid Brain-Computer Interface Combining Motor Imagery and Intermodulation Steady-State Visual Evoked Potential.,Xinyi Chi;Chunxiao Wan;Chunyan Wang;Yong Zhang;Xiaogang Chen;Hongyan Cui,PubMed
+How to successfully classify EEG in motor imagery BCI: a metrological analysis of the state of the art.,Pasquale Arpaia;Antonio Esposito;Angela Natalizio;Marco Parvis,PubMed
+Multi-Classifier Fusion Based on MI-SFFS for Cross-Subject Emotion Recognition.,Haihui Yang;Shiguo Huang;Shengwei Guo;Guobing Sun,PubMed
+Reduced Cross-Frequency Coupling and Daytime Sleepiness in Obstructive Sleep Apnea Patients.,Haralampos Gouveris;Nabin Koirala;Abdul Rauf Anwar;Hao Ding;Katharina Ludwig;Tilman Huppertz;Christoph Matthias;Sergiu Groppa;Muthuraman Muthuraman,PubMed
+Motor Imagery Classification via Kernel-Based Domain Adaptation on an SPD Manifold.,Qin Jiang;Yi Zhang;Kai Zheng,PubMed
+A Motor Imagery Signals Classification Method ,Xiangmin Lun;Jianwei Liu;Yifei Zhang;Ziqian Hao;Yimin Hou,PubMed
+EEG-TNet: An End-To-End Brain Computer Interface Framework for Mental Workload Estimation.,Chaojie Fan;Jin Hu;Shufang Huang;Yong Peng;Sam Kwong,PubMed
+Multi-Hierarchical Fusion to Capture the Latent Invariance for Calibration-Free Brain-Computer Interfaces.,Jun Yang;Lintao Liu;Huijuan Yu;Zhengmin Ma;Tao Shen,PubMed
+Wearable Supernumerary Robotic Limb System Using a Hybrid Control Approach Based on Motor Imagery and Object Detection.,Zhichuan Tang;Lingtao Zhang;Xin Chen;Jichen Ying;Xinyang Wang;Hang Wang,PubMed
+Low-quality training data detection method of EEG signals for motor imagery BCI system.,Rui Ouyang;Zihao Jin;Shuhao Tang;Cunhang Fan;Xiaopei Wu,PubMed
+Automatic Muscle Artifacts Identification and Removal from Single-Channel EEG Using Wavelet Transform with Meta-Heuristically Optimized Non-Local Means Filter.,Souvik Phadikar;Nidul Sinha;Rajdeep Ghosh;Ebrahim Ghaderpour,PubMed
+A Multi-Branch Convolutional Neural Network with Squeeze-and-Excitation Attention Blocks for EEG-Based Motor Imagery Signals Classification.,Ghadir Ali Altuwaijri;Ghulam Muhammad;Hamdi Altaheri;Mansour Alsulaiman,PubMed
+A Transfer Learning Algorithm to Reduce Brain-Computer Interface Calibration Time for Long-Term Users.,Joshua Giles;Kai Keng Ang;Kok Soon Phua;Mahnaz Arvaneh,PubMed
+Privacy-Preserving Domain Adaptation for Motor Imagery-Based Brain-Computer Interfaces.,Kun Xia;Lingfei Deng;Wlodzislaw Duch;Dongrui Wu,PubMed
+Hand Motor Imagery Classification Using Effective Connectivity and Hierarchical Machine Learning in EEG Signals.,Arash Maghsoudi;Ahmad Shalbaf,PubMed
+Real-time recognition of different imagined actions on the same side of a single limb based on the fNIRS correlation coefficient.,Yunfa Fu;Fan Wang;Yu Li;Anmin Gong;Qian Qian;Lei Su;Lei Zhao,PubMed
+Emotion Self-Regulation in Neurotic Students: A Pilot Mindfulness-Based Intervention to Assess Its Effectiveness through Brain Signals and Behavioral Data.,Lila Iznita Izhar;Areej Babiker;Edmi Edison Rizki;Cheng-Kai Lu;Mohammad Abdul Rahman,PubMed
+Golden subject is everyone: A subject transfer neural network for motor imagery-based brain computer interfaces.,Biao Sun;Zexu Wu;Yong Hu;Ting Li,PubMed
+A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network.,Senwei Xu;Li Zhu;Wanzeng Kong;Yong Peng;Hua Hu;Jianting Cao,PubMed
+A Noninvasive BCI System for 2D Cursor Control Using a Spectral-Temporal Long Short-Term Memory Network.,Kang Pan;Li Li;Lei Zhang;Simeng Li;Zhuokun Yang;Yuzhu Guo,PubMed
+Bispectrum-based hybrid neural network for motor imagery classification.,Chang Liu;Jing Jin;Ian Daly;Hao Sun;Yitao Huang;Xingyu Wang;Andrzej Cichocki,PubMed
+Arithmetic Optimization with RetinaNet Model for Motor Imagery Classification on Brain Computer Interface.,Areej A Malibari;Fahd N Al-Wesabi;Marwa Obayya;Mimouna Abdullah Alkhonaini;Manar Ahmed Hamza;Abdelwahed Motwakel;Ishfaq Yaseen;Abu Sarwar Zamani,PubMed
+A Two-Branch CNN Fusing Temporal and Frequency Features for Motor Imagery EEG Decoding.,Jun Yang;Siheng Gao;Tao Shen,PubMed
+Semi-supervised generative and discriminative adversarial learning for motor imagery-based brain-computer interface.,Wonjun Ko;Eunjin Jeon;Jee Seok Yoon;Heung-Il Suk,PubMed
+Decoding ECoG signal into 3D hand translation using deep learning.,Maciej Śliwowski;Matthieu Martin;Antoine Souloumiac;Pierre Blanchart;Tetiana Aksenova,PubMed
+Electroencephalography-Based Brain-Computer Interface Motor Imagery Classification.,Ehsan Mohammadi;Parisa Ghaderi Daneshmand;Seyyed Mohammad Sadegh Moosavi Khorzooghi,PubMed
+A Feature Extraction Algorithm of Brain Network of Motor Imagination Based on a Directed Transfer Function.,Shuang Ma;Chaoyi Dong;Tingting Jia;Pengfei Ma;Zhiyun Xiao;Xiaoyan Chen;Lijie Zhang,PubMed
+A framework for motor imagery with LSTM neural network.,Fangzhou Xu;Xiaoyan Xu;Yanan Sun;Jincheng Li;Gege Dong;Yuandong Wang;Han Li;Lei Wang;Yingchun Zhang;Shaopeng Pang;Sen Yin,PubMed
+SincNet-Based Hybrid Neural Network for Motor Imagery EEG Decoding.,Chang Liu;Jing Jin;Ian Daly;Shurui Li;Hao Sun;Yitao Huang;Xingyu Wang;Andrzej Cichocki,PubMed
+L1-norm based time-varying brain neural network and its application to dynamic analysis for motor imagery.,Peiyang Li;Cunbo Li;Joyce Chelangat Bore;Yajing Si;Fali Li;Zehong Cao;Yangsong Zhang;Gang Wang;Zhijun Zhang;Dezhong Yao;Peng Xu,PubMed
+Deep Feature Mining ,Yimin Hou;Shuyue Jia;Xiangmin Lun;Shu Zhang;Tao Chen;Fang Wang;Jinglei Lv,PubMed
+Regularized RKHS-Based Subspace Learning for Motor Imagery Classification.,Linzhi Jiang;Shuyu Liu;Zhengming Ma;Wenjie Lei;Cheng Chen,PubMed
+Time-Distributed Attention Network for EEG-Based Motor Imagery Decoding From the Same Limb.,Xuelin Ma;Shuang Qiu;Huiguang He,PubMed
+A transfer learning-based CNN and LSTM hybrid deep learning model to classify motor imagery EEG signals.,Zahra Khademi;Farideh Ebrahimi;Hussain Montazery Kordy,PubMed
+Computerized Multidomain EEG Classification System: A New Paradigm.,Xiaojun Yu;Muhammad Zulkifal Aziz;Muhammad Tariq Sadiq;Ke Jia;Zeming Fan;Gaoxi Xiao,PubMed
+Comparative analysis of spectral and temporal combinations in CSP-based methods for decoding hand motor imagery tasks.,Cristian Felipe Blanco-Diaz;Javier M Antelis;Andrés Felipe Ruiz-Olaya,PubMed
+Identification of Visual Imagery by Electroencephalography Based on Empirical Mode Decomposition and an Autoregressive Model.,Yunfa Fu;Zhaoyang Li;Anmin Gong;Qian Qian;Lei Su;Lei Zhao,PubMed
+The brain state of motor imagery is reflected in the causal information of functional near-infrared spectroscopy.,Qiang Du;Jingjing Luo;Chenxi Chu;Youhao Wang;Qiying Cheng;Shijie Guo,PubMed
+Reducing calibration time in motor imagery-based BCIs by data alignment and empirical mode decomposition.,Wei Xiong;Qingguo Wei,PubMed
+FGANet: fNIRS-Guided Attention Network for Hybrid EEG-fNIRS Brain-Computer Interfaces.,Youngchul Kwak;Woo-Jin Song;Seong-Eun Kim,PubMed
+EEGG: An Analytic Brain-Computer Interface Algorithm.,Gang Liu;Jing Wang,PubMed
+Hybrid classification model for eye state detection using electroencephalogram signals.,Shwet Ketu;Pramod Kumar Mishra,PubMed
+MCGNet,Yan Li;Ning Zhong;David Taniar;Haolan Zhang,PubMed
+Cortical and Subcortical Dysmetabolism Are Dynamic Markers of Clinical Disability and Course in Anti-LGI1 Encephalitis.,Eero Rissanen;Kelsey Carter;Steven Cicero;John Ficke;Marie Kijewski;Mi-Ae Park;Joseph Kijewski;Emily Stern;Tanuja Chitnis;David Silbersweig;Howard L Weiner;Chun K Kim;Jennifer Lyons;Joshua P Klein;Shamik Bhattacharyya;Tarun Singhal,PubMed
+Motor imagery EEG decoding using manifold embedded transfer learning.,Yinhao Cai;Qingshan She;Jiyue Ji;Yuliang Ma;Jianhai Zhang;Yingchun Zhang,PubMed
+Feature Extraction Method Based on Filter Banks and Riemannian Tangent Space in Motor-Imagery BCI.,Hua Fang;Jing Jin;Ian Daly;Xingyu Wang,PubMed
+Decoding motor imagery tasks using ESI and hybrid feature CNN.,Tao Fang;Zuoting Song;Gege Zhan;Xueze Zhang;Wei Mu;Pengchao Wang;Lihua Zhang;Xiaoyang Kang,PubMed
+EEG Channel Selection Using Multiobjective Cuckoo Search for Person Identification as Protection System in Healthcare Applications.,Zaid Abdi Alkareem Alyasseri;Osama Ahmad Alomari;Mohammed Azmi Al-Betar;Mohammed A Awadallah;Karrar Hameed Abdulkareem;Mazin Abed Mohammed;Seifedine Kadry;V Rajinikanth;Seungmin Rho,PubMed
+"Comparing between Different Sets of Preprocessing, Classifiers, and Channels Selection Techniques to Optimise Motor Imagery Pattern Classification System from EEG Pattern Recognition.",Francesco Ferracuti;Sabrina Iarlori;Zahra Mansour;Andrea Monteriù;Camillo Porcaro,PubMed
+A Multibranch of Convolutional Neural Network Models for Electroencephalogram-Based Motor Imagery Classification.,Ghadir Ali Altuwaijri;Ghulam Muhammad,PubMed
+Automatic Selection of Control Features for Electroencephalography-Based Brain-Computer Interface Assisted Motor Rehabilitation: The GUIDER Algorithm.,Emma Colamarino;Floriana Pichiorri;Jlenia Toppi;Donatella Mattia;Febo Cincotti,PubMed
+Motor Imagery Classification Using Inter-Task Transfer Learning via a Channel-Wise Variational Autoencoder-Based Convolutional Neural Network.,Do-Yeun Lee;Ji-Hoon Jeong;Byeong-Hoo Lee;Seong-Whan Lee,PubMed
+EEG characteristic investigation of the sixth-finger motor imagery and optimal channel selection for classification.,Yuan Liu;Zhuang Wang;Shuaifei Huang;Wenjie Wang;Dong Ming,PubMed
+FB-CGANet: filter bank channel group attention network for multi-class motor imagery classification.,Jiaming Chen;Weibo Yi;Dan Wang;Jinlian Du;Lihua Fu;Tong Li,PubMed
+A Novel Classification Framework Using the Graph Representations of Electroencephalogram for Motor Imagery Based Brain-Computer Interface.,Jing Jin;Hao Sun;Ian Daly;Shurui Li;Chang Liu;Xingyu Wang;Andrzej Cichocki,PubMed
+Investigating the effects of stimulus duration and inter-stimulus interval parameters on P300 based BCI application performance.,Onder Aydemir;Kubra Saka;Mehmet Ozturk,PubMed
+Multilayer Network Approach in EEG Motor Imagery with an Adaptive Threshold.,César Covantes-Osuna;Jhonatan B López;Omar Paredes;Hugo Vélez-Pérez;Rebeca Romo-Vázquez,PubMed
+Evaluation of classification approaches for distinguishing brain states predictive of episodic memory performance from electroencephalography: Abbreviated Title: Evaluating methods of classifying memory states from EEG.,Soroush Mirjalili;Patrick Powell;Jonathan Strunk;Taylor James;Audrey Duarte,PubMed
+Knowledge-driven feature component interpretable network for motor imagery classification.,Xu Niu;Na Lu;Jianghong Kang;Zhiyan Cui,PubMed
+Sub-100 μW Multispectral Riemannian Classification for EEG-Based Brain-Machine Interfaces.,Xiaying Wang;Lukas Cavigelli;Tibor Schneider;Luca Benini,PubMed
+Neural Decoding of Chinese Sign Language With Machine Learning for Brain-Computer Interfaces.,Pengpai Wang;Yueying Zhou;Zhongnian Li;Shuo Huang;Daoqiang Zhang,PubMed
+MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification.,Phairot Autthasan;Rattanaphon Chaisaen;Thapanun Sudhawiyangkul;Phurin Rangpong;Suktipol Kiatthaveephong;Nat Dilokthanakul;Gun Bhakdisongkhram;Huy Phan;Cuntai Guan;Theerawit Wilaiprasitporn,PubMed
+Sevoflurane-based enhancement of phase-amplitude coupling and localization of the epileptogenic zone.,Keiko Wada;Masaki Sonoda;Ethan Firestone;Kazuki Sakakura;Naoto Kuroda;Yutaro Takayama;Keiya Iijima;Masaki Iwasaki;Takahiro Mihara;Takahisa Goto;Eishi Asano;Tomoyuki Miyazaki,PubMed
+A 1D CNN for high accuracy classification and transfer learning in motor imagery EEG-based brain-computer interface.,F Mattioli;C Porcaro;G Baldassarre,PubMed
+A multiscale siamese convolutional neural network with cross-channel fusion for motor imagery decoding.,Lili Shen;Yu Xia;Yueping Li;Mingyang Sun,PubMed
+A novel strategy for driving car brain-computer interfaces: Discrimination of EEG-based visual-motor imagery.,Zhouzhou Zhou;Anmin Gong;Qian Qian;Lei Su;Lei Zhao;Yunfa Fu,PubMed
+EEG Electrode Selection for a Two-Class Motor Imagery Task in a BCI Using fNIRS Prior Data.,Amir H Moslehi;T Claire Davies,PubMed
+Graph-based Recurrence Quantification Analysis of EEG Spectral Dynamics for Motor Imagery-based BCIs.,Sarah M Ismail Hosni;Seyyed Bahram Borgheai;John McLinden;Shaotong Zhu;Xiaofei Huang;Sarah Ostadabbas;Yalda Shahriari,PubMed
+Investigation on Robustness of EEG-based Brain-Computer Interfaces.,Aarthy Nagarajan;Neethu Robinson;Cuntai Guan,PubMed
+5 Hz rTMS improves motor-imagery based BCI classification performance.,Tianyu Jia;Linhong Mo;Chong Li;Aixian Liu;Zhibin Li;Linhong Ji,PubMed
+Demonstrating the Viability of Mapping Deep Learning Based EEG Decoders to Spiking Networks on Low-powered Neuromorphic Chips.,Matthijs Pals;Rafael J Perez Belizon;Nicolas Berberich;Stefan K Ehrlich;John Nassour;Gordon Cheng,PubMed
+Recognizing motor imagery tasks from EEG oscillations through a novel ensemble-based neural network architecture.,Antonio L Alfeo;Vincenzo Catrambone;Mario G C A Cimino;Gigliola Vaglini;Gaetano Valenza,PubMed
+Filter Bank Sinc-ShallowNet with EMD-based Mixed Noise Adding Data Augmentation for Motor Imagery Classification.,Jiaming Chen;Weibo Yi;Dan Wang,PubMed
+Multi-subject classification of Motor Imagery EEG signals using transfer learning in neural networks.,Carlos Emiliano Solorzano-Espindola;Erik Zamora;Humberto Sossa,PubMed
+EEG representation approach based on Kernel Canonical Correlation Analysis highlighting discriminative patterns for BCI applications.,Viviana Gomez-Orozco;Cristian Blanco Martinez;David Augusto Cardenas-Pena;Paula Marcela Herrera;Alvaro Angel Orozco-Guitierrez,PubMed
+Is Riemannian Geometry Better than Euclidean in Averaging Covariance Matrices for CSP-based Subject-Independent Classification of Motor Imagery?,Yassawe Kainolda;Berdakh Abibullaev;Reza Sameni;Amin Zollanvari,PubMed
+A Graph-Based Feature Extraction Algorithm Towards a Robust Data Fusion Framework for Brain-Computer Interfaces.,Shaotong Zhu;Sarah Ismail Hosni;Xiaofei Huang;Seyyed Bahram Borgheai;John McLinden;Yalda Shahriari;Sarah Ostadabbas,PubMed
+Performance Evaluation of Compressed Deep CNN for Motor Imagery Classification using EEG.,Vishnupriya R;Neethu Robinson;Ramasubba Reddy M;Cuntai Guan,PubMed
+A Low-rank Spatiotemporal based EEG Multi-Artifacts Cancellation Method for Enhanced ConvNet-DL's Motor Imagery Characterization.,Oluwarotimi Williams Samuel;Mojisola Grace Asogbon;Esugbe Ejay;Yanjuan Geng;Alberto Lopez-Delis;Yazan Ali Jarrah;Oluwagbenga Paul Idowu;Shixiong Chen;Peng Fang;Guanglin Li,PubMed
+"Motor Imagery, Execution, and Observation Classification using Small Amount of EEG Data with Multiple Two-Class CNNs.",Tomohiko Igasaki;Yugo Kuramura;Junya Takemoto,PubMed
+An Ensemble CNN for Subject-Independent Classification of Motor Imagery-based EEG.,Irina Dolzhikova;Berdakh Abibullaev;Reza Sameni;Amin Zollanvari,PubMed
+Development of Machine-Learning Algorithms for Recognition of Subjects' Upper Limb Movement Intention Using Electroencephalogram Signals.,Fatima Al-Khuzaei;Leen Al Homoud;Dana Alyafei;Reza Tafreshi;Md Ferdous Wahid,PubMed
+The Paradigm Design of a Novel 2-class Unilateral Upper Limb Motor Imagery Tasks and its EEG Signal Classification.,Wenzheng Qiu;Banghua Yang;Jun Ma;Shouwei Gao;Yan Zhu;Wen Wang,PubMed
+Gated Transformer for Decoding Human Brain EEG Signals.,Yunzhe Tao;Tao Sun;Aashiq Muhamed;Sahika Genc;Dylan Jackson;Ali Arsanjani;Suri Yaddanapudi;Liang Li;Prachi Kumar,PubMed
+A Novel Online Action Observation-Based Brain-Computer Interface That Enhances Event-Related Desynchronization.,Xin Zhang;Wensheng Hou;Xiaoying Wu;Shuai Feng;Lin Chen,PubMed
+Electroencephalogram-Based Motor Imagery Classification Using Deep Residual Convolutional Networks.,Jing-Shan Huang;Wan-Shan Liu;Bin Yao;Zhan-Xiang Wang;Si-Fang Chen;Wei-Fang Sun,PubMed
+Feature Selection Using Extreme Gradient Boosting Bayesian Optimization to upgrade the Classification Performance of Motor Imagery signals for BCI.,T Thenmozhi;R Helen,PubMed
+Automated preprocessing and phase-amplitude coupling analysis of scalp EEG discriminates infantile spasms from controls during wakefulness.,Makoto Miyakoshi;Hiroki Nariai;Rajsekar R Rajaraman;Danilo Bernardo;Daniel W Shrey;Beth A Lopour;Myung Shin Sim;Richard J Staba;Shaun A Hussain,PubMed
+Detection of Movement Intention in EEG-Based Brain-Computer Interfaces Using Fourier-Based Synchrosqueezing Transform.,Nedime Karakullukcu;Bülent Yilmaz,PubMed
+Improving Motor Imagery-Based Brain-Computer Interface Performance Based on Sensory Stimulation Training: An Approach Focused on Poorly Performing Users.,Sangin Park;Jihyeon Ha;Da-Hye Kim;Laehyun Kim,PubMed
+The Ensemble Machine Learning-Based Classification of Motor Imagery Tasks in Brain-Computer Interface.,Abdulhamit Subasi;Saeed Mian Qaisar,PubMed
+Monte Carlo Dropout for Uncertainty Estimation and Motor Imagery Classification.,Daily Milanés-Hermosilla;Rafael Trujillo Codorniú;René López-Baracaldo;Roberto Sagaró-Zamora;Denis Delisle-Rodriguez;John Jairo Villarejo-Mayor;José Ricardo Núñez-Álvarez,PubMed
+NeuroGrasp: Real-Time EEG Classification of High-Level Motor Imagery Tasks Using a Dual-Stage Deep Learning Framework.,Jeong-Hyun Cho;Ji-Hoon Jeong;Seong-Whan Lee,PubMed
+A Generalizable and Discriminative Learning Method for Deep EEG-Based Motor Imagery Classification.,Xiuyu Huang;Nan Zhou;Kup-Sze Choi,PubMed
+A Tensor-Based Frequency Features Combination Method for Brain-Computer Interfaces.,Yu Pei;Zhiguo Luo;Hongyu Zhao;Dengke Xu;Weiguo Li;Ye Yan;Huijiong Yan;Liang Xie;Minpeng Xu;Erwei Yin,PubMed
+[Research Progress on the Application of Artificial Intelligence in Rehabilitation Medicine in China].,Ke-Yu Chen;Shu-Yu Liu;Xiang Ji;Hua Zhang;Ting Li,PubMed
+Functional Connectivity Analysis in Motor-Imagery Brain Computer Interfaces.,Nikki Leeuwis;Sue Yoon;Maryam Alimardani,PubMed
+Single-Trial EEG Classification via Orthogonal Wavelet Decomposition-Based Feature Extraction.,Feifei Qi;Wenlong Wang;Xiaofeng Xie;Zhenghui Gu;Zhu Liang Yu;Fei Wang;Yuanqing Li;Wei Wu,PubMed
+Brain Networks With Modified Connectivity in Patients With Neuropathic Pain and Spinal Cord Injury.,Muhammad A Hasan;Parisa Sattar;Saad A Qazi;Matthew Fraser;Aleksandra Vuckovic,PubMed
+Classification of Left-Versus Right-Hand Motor Imagery in Stroke Patients Using Supplementary Data Generated by CycleGAN.,Fangzhou Xu;Fenqi Rong;Jiancai Leng;Tao Sun;Yang Zhang;Siddharth Siddharth;Tzyy-Ping Jung,PubMed
+Subject-Specific Cognitive Workload Classification Using EEG-Based Functional Connectivity and Deep Learning.,Anmol Gupta;Gourav Siddhad;Vishal Pandey;Partha Pratim Roy;Byung-Gyu Kim,PubMed
+Motor Intention Decoding from the Upper Limb by Graph Convolutional Network Based on Functional Connectivity.,Naishi Feng;Fo Hu;Hong Wang;Bin Zhou,PubMed
+A novel method to reduce the motor imagery BCI illiteracy.,Tingting Wang;Shengzhi Du;Enzeng Dong,PubMed
+Multi-Domain Convolutional Neural Networks for Lower-Limb Motor Imagery Using Dry vs. Wet Electrodes.,Ji-Hyeok Jeong;Jun-Hyuk Choi;Keun-Tae Kim;Song-Joo Lee;Dong-Joo Kim;Hyung-Min Kim,PubMed
+Effective Connectivity for Decoding Electroencephalographic Motor Imagery Using a Probabilistic Neural Network.,Muhammad Ahsan Awais;Mohd Zuki Yusoff;Danish M Khan;Norashikin Yahya;Nidal Kamel;Mansoor Ebrahim,PubMed
+Directional Decoding From EEG in a Center-Out Motor Imagery Task With Visual and Vibrotactile Guidance.,Lea Hehenberger;Luka Batistic;Andreea I Sburlea;Gernot R Müller-Putz,PubMed
+Multi-view optimization of time-frequency common spatial patterns for brain-computer interfaces.,Yitao Huang;Jing Jin;Ren Xu;Yangyang Miao;Chang Liu;Andrzej Cichocki,PubMed
+Investigating Feature Ranking Methods for Sub-Band and Relative Power Features in Motor Imagery Task Classification.,Samrudhi Mohdiwale;Mridu Sahu;G R Sinha;Humaira Nisar,PubMed
+CluSem: Accurate clustering-based ensemble method to predict motor imagery tasks from multi-channel EEG data.,Md Ochiuddin Miah;Rafsanjani Muhammod;Khondaker Abdullah Al Mamun;Dewan Md Farid;Shiu Kumar;Alok Sharma;Abdollah Dehzangi,PubMed
+Classification of motor imagery using multisource joint transfer learning.,Fei Wang;Jingyu Ping;Zongfeng Xu;Jinying Bi,PubMed
+Design a Novel BCI for Neurorehabilitation Using Concurrent LFP and EEG Features: A Case Study.,Zhao Feng;Yi Sun;Linze Qian;Yu Qi;Yueming Wang;Cuntai Guan;Yu Sun,PubMed
+Motor-Imagery EEG-Based BCIs in Wheelchair Movement and Control: A Systematic Literature Review.,Arrigo Palumbo;Vera Gramigna;Barbara Calabrese;Nicola Ielpo,PubMed
+Does Real-Time Feedback Affect Sensorimotor EEG Patterns in Routine Motor Imagery Practice?,Anatoly N Vasilyev;Yury O Nuzhdin;Alexander Y Kaplan,PubMed
+Enhancement of capability for motor imagery using vestibular imbalance stimulation during brain computer interface.,Kai Zhang;Guanghua Xu;Chenghang Du;Renghao Liang;Chenchen Han;Xiaowei Zheng;Sicong Zhang;Jiahuan Wang;Peiyuan Tian;Yaguang Jia,PubMed
+A deep neural network with subdomain adaptation for motor imagery brain-computer interface.,Minmin Zheng;Banghua Yang,PubMed
+A Novel Two-Stage Refine Filtering Method for EEG-Based Motor Imagery Classification.,Yuxin Yan;Haifeng Zhou;Lixin Huang;Xiao Cheng;Shaolong Kuang,PubMed
+Prosthetic control system based on motor imagery.,Xuemei Wang;Huiqin Lu;Xiaoyan Shen;Lei Ma;Yan Wang,PubMed
+Discriminating three motor imagery states of the same joint for brain-computer interface.,Shan Guan;Jixian Li;Fuwang Wang;Zhen Yuan;Xiaogang Kang;Bin Lu,PubMed
+Markers of Central Neuropathic Pain in Higuchi Fractal Analysis of EEG Signals From People With Spinal Cord Injury.,Keri Anderson;Cristian Chirion;Matthew Fraser;Mariel Purcell;Sebastian Stein;Aleksandra Vuckovic,PubMed
+A novel method for classification of multi-class motor imagery tasks based on feature fusion.,Yimin Hou;Tao Chen;Xiangmin Lun;Fang Wang,PubMed
+Relative Power Correlates With the Decoding Performance of Motor Imagery Both Across Time and Subjects.,Qing Zhou;Jiafan Lin;Lin Yao;Yueming Wang;Yan Han;Kedi Xu,PubMed
+Effects of Frontal Theta Rhythms in a Prior Resting State on the Subsequent Motor Imagery Brain-Computer Interface Performance.,Jae-Hwan Kang;Joosang Youn;Sung-Hee Kim;Junsuk Kim,PubMed
+EEG feature fusion for motor imagery: A new robust framework towards stroke patients rehabilitation.,Noor Kamal Al-Qazzaz;Zaid Abdi Alkareem Alyasseri;Karrar Hameed Abdulkareem;Nabeel Salih Ali;Mohammed Nasser Al-Mhiqani;Christoph Guger,PubMed
+fMRI-Informed EEG for brain mapping of imagined lower limb movement: Feasibility of a brain computer interface.,Adrienne Kline;Nils D Forkert;Banafshe Felfeliyan;Daniel Pittman;Bradley Goodyear;Janet Ronsky,PubMed
+Selective Subject Pooling Strategy to Improve Model Generalization for a Motor Imagery BCI.,Kyungho Won;Moonyoung Kwon;Minkyu Ahn;Sung Chan Jun,PubMed
+Automatic feature extraction and fusion recognition of motor imagery EEG using multilevel multiscale CNN.,Ming-Ai Li;Jian-Fu Han;Jin-Fu Yang,PubMed
+Multi-class motor imagery EEG classification method with high accuracy and low individual differences based on hybrid neural network.,Jinzhen Liu;Fangfang Ye;Hui Xiong,PubMed
+Transfer Learning Based on Optimal Transport for Motor Imagery Brain-Computer Interfaces.,Victoria Peterson;Nicolas Nieto;Dominik Wyser;Olivier Lambercy;Roger Gassert;Diego H Milone;Ruben D Spies,PubMed
+Distinguishable spatial-spectral feature learning neural network framework for motor imagery-based brain-computer interface.,Chang Liu;Jing Jin;Ren Xu;Shurui Li;Cili Zuo;Hao Sun;Xingyu Wang;Andrzej Cichocki,PubMed
+Feature Selection Combining Filter and Wrapper Methods for Motor-Imagery Based Brain-Computer Interfaces.,Hao Sun;Jing Jin;Ren Xu;Andrzej Cichocki,PubMed
+Deep and Wide Transfer Learning with Kernel Matching for Pooling Data from Electroencephalography and Psychological Questionnaires.,Diego Fabian Collazos-Huertas;Luisa Fernanda Velasquez-Martinez;Hernan Dario Perez-Nastar;Andres Marino Alvarez-Meza;German Castellanos-Dominguez,PubMed
+An end-to-end CNN with attentional mechanism applied to raw EEG in a BCI classification task.,Elnaz Lashgari;Jordan Ott;Akima Connelly;Pierre Baldi;Uri Maoz,PubMed
+Variable length particle swarm optimization and multi-feature deep fusion for motor imagery EEG classification.,Hongli Li;Wei Guo;Ronghua Zhang;Chunbo Xiu,PubMed
+Two-branch 3D convolutional neural network for motor imagery EEG decoding.,Lie Yang;Yonghao Song;Xueyu Jia;Ke Ma;Longhan Xie,PubMed
+A Temporal-Spectral-Based Squeeze-and- Excitation Feature Fusion Network for Motor Imagery EEG Decoding.,Yang Li;Lianghui Guo;Yu Liu;Jingyu Liu;Fangang Meng,PubMed
+Recognition of Flexion and Extension Imagery Involving the Right and Left Arms Based on Deep Belief Network and Functional Near-Infrared Spectroscopy.,Yunfa Fu;Rui Chen;Anmin Gong;Qian Qian;Ning Ding;Wei Zhang;Lei Su;Lei Zhao,PubMed
+Classification of Motor Imagery Electroencephalography Signals Based on Image Processing Method.,Zhongye Chen;Yijun Wang;Zhongyan Song,PubMed
+Optimization of Task Allocation for Collaborative Brain-Computer Interface Based on Motor Imagery.,Bin Gu;Minpeng Xu;Lichao Xu;Long Chen;Yufeng Ke;Kun Wang;Jiabei Tang;Dong Ming,PubMed
+Wireless Soft Scalp Electronics and Virtual Reality System for Motor Imagery-Based Brain-Machine Interfaces.,Musa Mahmood;Shinjae Kwon;Hojoong Kim;Yun-Soung Kim;Panote Siriaraya;Jeongmoon Choi;Boris Otkhmezuri;Kyowon Kang;Ki Jun Yu;Young C Jang;Chee Siang Ang;Woon-Hong Yeo,PubMed
+A Long Short-Term Memory Network for Sparse Spatiotemporal EEG Source Imaging.,Joyce Chelangat Bore;Peiyang Li;Lin Jiang;Walid M A Ayedh;Chunli Chen;Dennis Joe Harmah;Dezhong Yao;Zehong Cao;Peng Xu,PubMed
+Exploring differences for motor imagery using Teager energy operator-based EEG microstate analyses.,Yabing Li;Mo Chen;Shujun Sun;Zipeng Huang,PubMed
+Decoding of Motor Coordination Imagery Involving the Lower Limbs by the EEG-Based Brain Network.,Yunfa Fu;Zhouzhou Zhou;Anmin Gong;Qian Qian;Lei Su;Lei Zhao,PubMed
+Development of a Low-Cost EEG-Controlled Hand Exoskeleton 3D Printed on Textiles.,Rommel S Araujo;Camille R Silva;Severino P N Netto;Edgard Morya;Fabricio L Brasil,PubMed
+Improving motor imagery classification during induced motor perturbations.,C Vidaurre;T Jorajuría;A Ramos-Murguialday;K-R Müller;M Gómez;V V Nikulin,PubMed
+Sparse representation-based classification with two-dimensional dictionary optimization for motor imagery EEG pattern recognition.,Ming Meng;Xu Yin;Qingshan She;Yunyuan Gao;Wanzeng Kong;Zhizeng Luo,PubMed
+Optimal channel-based sparse time-frequency blocks common spatial pattern feature extraction method for motor imagery classification.,Xu Yin;Ming Meng;Qingshan She;Yunyuan Gao;Zhizeng Luo,PubMed
+[Research on feature classification of lower limb motion imagination based on electrical stimulation to enhance rehabilitation].,Jiaying Li;Li Zhao;Yan Bian;Min Li;Zhichao Jia,PubMed
+[Research progress and prospect of collaborative brain-computer interface for group brain collaboration].,Lixin Zhang;Xiaocui Chen;Long Chen;Bin Gu;Zhongpeng Wang;Dong Ming,PubMed
+Analysis of Prognostic Risk Factors Determining Poor Functional Recovery After Comprehensive Rehabilitation Including Motor-Imagery Brain-Computer Interface Training in Stroke Patients: A Prospective Study.,Qiong Wu;Yunxiang Ge;Di Ma;Xue Pang;Yingyu Cao;Xiaofei Zhang;Yu Pan;Tong Zhang;Weibei Dou,PubMed
+Optimization of Model Training Based on Iterative Minimum Covariance Determinant In Motor-Imagery BCI.,Jing Jin;Hua Fang;Ian Daly;Ruocheng Xiao;Yangyang Miao;Xingyu Wang;Andrzej Cichocki,PubMed
+What Internal Variables Affect Sensorimotor Rhythm Brain-Computer Interface (SMR-BCI) Performance?,Alex J Horowitz;Christoph Guger;Milena Korostenskaja,PubMed
+What External Variables Affect Sensorimotor Rhythm Brain-Computer Interface (SMR-BCI) Performance?,Alex J Horowitz;Christoph Guger;Milena Korostenskaja,PubMed
+An Online Data Visualization Feedback Protocol for Motor Imagery-Based BCI Training.,Xu Duan;Songyun Xie;Xinzhou Xie;Klaus Obermayer;Yujie Cui;Zhenzhen Wang,PubMed
+CutCat: An augmentation method for EEG classification.,Ali Al-Saegh;Shefa A Dawwd;Jassim M Abdul-Jabbar,PubMed
+Ensemble Regularized Common Spatio-Spectral Pattern (ensemble RCSSP) model for motor imagery-based EEG signal classification.,Mohammad Norizadeh Cherloo;Homa Kashefi Amiri;Mohammad Reza Daliri,PubMed
+Probability mapping based artifact detection and removal from single-channel EEG signals for brain-computer interface applications.,Md Kafiul Islam;Parviz Ghorbanzadeh;Amir Rastegarnia,PubMed
+Dynamics of Long-Range Temporal Correlations in Broadband EEG During Different Motor Execution and Imagery Tasks.,Maitreyee Wairagkar;Yoshikatsu Hayashi;Slawomir J Nasuto,PubMed
+Phase/Amplitude Synchronization of Brain Signals During Motor Imagery BCI Tasks.,Tiziana Cattai;Stefania Colonnese;Marie-Constance Corsi;Danielle S Bassett;Gaetano Scarano;Fabrizio De Vico Fallani,PubMed
+Decoding Finger Tapping With the Affected Hand in Chronic Stroke Patients During Motor Imagery and Execution.,Minji Lee;Ji-Hoon Jeong;Yun-Hee Kim;Seong-Whan Lee,PubMed
+Neural decoding of gait phases during motor imagery and improvement of the decoding accuracy by concurrent action observation.,Hikaru Yokoyama;Naotsugu Kaneko;Katsumi Watanabe;Kimitaka Nakazawa,PubMed
+SPECTRA: a tool for enhanced brain wave signal recognition.,Shiu Kumar;Tatsuhiko Tsunoda;Alok Sharma,PubMed
+Benefits of deep learning classification of continuous noninvasive brain-computer interface control.,James R Stieger;Stephen A Engel;Daniel Suma;Bin He,PubMed
+Cross-correlation based discriminant criterion for channel selection in motor imagery BCI systems.,Jianli Yu;Zhu Liang Yu,PubMed
+Sub-band target alignment common spatial pattern in brain-computer interface.,Xianxiong Zhang;Qingshan She;Yun Chen;Wanzeng Kong;Congli Mei,PubMed
+Motor-Imagery-Based Brain-Computer Interface Using Signal Derivation and Aggregation Functions.,Javier Fumanal-Idocin;Yu-Kai Wang;Chin-Teng Lin;Javier Fernandez;Jose Antonio Sanz;Humberto Bustince,PubMed
+A three-branch 3D convolutional neural network for EEG-based different hand movement stages classification.,Tianjun Liu;Deling Yang,PubMed
+A Novel Smart Motor Imagery Intention Human-Computer Interaction Model Using Extreme Learning Machine and EEG Signals.,Yi Gu;Lei Hua,PubMed
+Probabilistic learning vector quantization on manifold of symmetric positive definite matrices.,Fengzhen Tang;Haifeng Feng;Peter Tino;Bailu Si;Daxiong Ji,PubMed
+Objective interictal electrophysiology biomarkers optimize prediction of epilepsy surgery outcome.,Naoto Kuroda;Masaki Sonoda;Makoto Miyakoshi;Hiroki Nariai;Jeong-Won Jeong;Hirotaka Motoi;Aimee F Luat;Sandeep Sood;Eishi Asano,PubMed
+An integrated deep learning model for motor intention recognition of multi-class EEG Signals in upper limb amputees.,Oluwagbenga Paul Idowu;Ademola Enitan Ilesanmi;Xiangxin Li;Oluwarotimi Williams Samuel;Peng Fang;Guanglin Li,PubMed
+Imagined character recognition through EEG signals using deep convolutional neural network.,Sadiq Ullah;Zahid Halim,PubMed
+Single-Trial Kernel-Based Functional Connectivity for Enhanced Feature Extraction in Motor-Related Tasks.,Daniel Guillermo García-Murillo;Andres Alvarez-Meza;German Castellanos-Dominguez,PubMed
+Adding Tactile Feedback and Changing ISI to Improve BCI Systems' Robustness: An Error-Related Potential Study.,Bahareh Ahkami;Farnaz Ghassemi,PubMed
+[Convolutional neural network based on temporal-spatial feature learning for motor imagery electroencephalogram signal decoding].,Yaqi Chu;Bo Zhu;Xingang Zhao;Yiwen Zhao,PubMed
+Vividness of Visual Imagery and Personality Impact Motor-Imagery Brain Computer Interfaces.,Nikki Leeuwis;Alissa Paas;Maryam Alimardani,PubMed
+Spiking Neural Network for Augmenting Electroencephalographic Data for Brain Computer Interfaces.,Sai Kalyan Ranga Singanamalla;Chin-Teng Lin,PubMed
+Classification of motor imagery using a time-localised approach.,M K M Rahman;Tohfa Haque,PubMed
+Motor Imagery EEG Signal Recognition Using Deep Convolution Neural Network.,Xiongliang Xiao;Yuee Fang,PubMed
+A novel decoding method for motor imagery tasks with 4D data representation and 3D convolutional neural networks.,Ming-Ai Li;Zi-Wei Ruan,PubMed
+Online detection of class-imbalanced error-related potentials evoked by motor imagery.,Quan Liu;Wenhao Zheng;Kun Chen;Li Ma;Qingsong Ai,PubMed
+Combining generative adversarial networks and multi-output CNN for motor imagery classification.,Jiaxin Xie;Siyu Chen;Yongqing Zhang;Dongrui Gao;Tiejun Liu,PubMed
+Enhancement of Event-Related Desynchronization in Motor Imagery Based on Transcranial Electrical Stimulation.,Jiaxin Xie;Maoqin Peng;Jingqing Lu;Chao Xiao;Xin Zong;Manqing Wang;Dongrui Gao;Yun Qin;Tiejun Liu,PubMed
+A Comprehensive Review on Critical Issues and Possible Solutions of Motor Imagery Based Electroencephalography Brain-Computer Interface.,Amardeep Singh;Ali Abdul Hussain;Sunil Lal;Hans W Guesgen,PubMed
+Deep Neural Regression Prediction of Motor Imagery Skills Using EEG Functional Connectivity Indicators.,Julian Caicedo-Acosta;German A Castaño;Carlos Acosta-Medina;Andres Alvarez-Meza;German Castellanos-Dominguez,PubMed
+Correlation-based common spatial pattern (CCSP): A novel extension of CSP for classification of motor imagery signal.,Khatereh Darvish Ghanbar;Tohid Yousefi Rezaii;Ali Farzamnia;Ismail Saad,PubMed
+Exploration of illusory visual motion stimuli: An EEG-based brain-computer interface for practical assistive communication systems.,Yunyong Punsawad;Nannaphat Siribunyaphat;Yodchanan Wongsawat,PubMed
+Crosstalk disrupts the production of motor imagery brain signals in brain-computer interfaces.,Phoebe S-H Neo;Terence Mayne;Xiping Fu;Zhiyi Huang;Elizabeth A Franz,PubMed
+Bilinear neural network with 3-D attention for brain decoding of motor imagery movements from the human EEG.,Chen-Chen Fan;Hongjun Yang;Zeng-Guang Hou;Zhen-Liang Ni;Sheng Chen;Zhijie Fang,PubMed
+Data Augmentation: Using Channel-Level Recombination to Improve Classification Performance for Motor Imagery EEG.,Yu Pei;Zhiguo Luo;Ye Yan;Huijiong Yan;Jing Jiang;Weiguo Li;Liang Xie;Erwei Yin,PubMed
+The Riemannian spatial pattern method: mapping and clustering movement imagery using Riemannian geometry.,Christelle Larzabal;Vincent Auboiroux;Serpil Karakas;Guillaume Charvet;Alim-Louis Benabid;Stephan Chabardes;Thomas Costecalde;Stéphane Bonnet,PubMed
+CNN-based classification of fNIRS signals in motor imagery BCI system.,Tengfei Ma;Shasha Wang;Yuting Xia;Xinhua Zhu;Julian Evans;Yaoran Sun;Sailing He,PubMed
+Massage Therapy's Effectiveness on the Decoding EEG Rhythms of Left/Right Motor Imagery and Motion Execution in Patients With Skeletal Muscle Pain.,Huihui Li;Kai Fan;Junsong Ma;Bo Wang;Xiaohao Qiao;Yan Yan;Wenjing Du;Lei Wang,PubMed
+A multi-modal modified feedback self-paced BCI to control the gait of an avatar.,Bilal Alchalabi;Jocelyn Faubert;David R Labbé,PubMed
+Optimizing Motor Intention Detection With Deep Learning: Towards Management of Intraoperative Awareness.,Oleksii Avilov;Sebastien Rimbert;Anton Popov;Laurent Bougrain,PubMed
+A Novel Time-Incremental End-to-End Shared Neural Network with Attention-Based Feature Fusion for Multiclass Motor Imagery Recognition.,Shidong Lian;Jialin Xu;Guokun Zuo;Xia Wei;Huilin Zhou,PubMed
+Phase-amplitude coupling of interictal fast activities modulated by slow waves on scalp EEG and its correlation with seizure outcomes of disconnection surgery in children with intractable nonlesional epileptic spasms.,Takehiro Uda;Ichiro Kuki;Takeshi Inoue;Noritsugu Kunihiro;Hiroharu Suzuki;Hiroshi Uda;Toshiyuki Kawashima;Kosuke Nakajo;Yoko Nakanishi;Shinsuke Maruyama;Takashi Shibata;Hiroshi Ogawa;Shin Okazaki;Hisashi Kawawaki;Kenji Ohata;Takeo Goto;Hiroshi Otsubo,PubMed
+Deep-Learning-Based Automatic Selection of Fewest Channels for Brain-Machine Interfaces.,Hyun-Seok Kim;Min-Hee Ahn;Byoung-Kyong Min,PubMed
+Research on Recognition of Motor Imagination Based on Connectivity Features of Brain Functional Network.,Zhizeng Luo;Ronghang Jin;Hongfei Shi;Xianju Lu,PubMed
+Dynamic Joint Domain Adaptation Network for Motor Imagery Classification.,Xiaolin Hong;Qingqing Zheng;Luyan Liu;Peiyin Chen;Kai Ma;Zhongke Gao;Yefeng Zheng,PubMed
+Characterization of kinesthetic motor imagery compared with visual motor imageries.,Yu Jin Yang;Eun Jeong Jeon;June Sic Kim;Chun Kee Chung,PubMed
+A Densely Connected Multi-Branch 3D Convolutional Neural Network for Motor Imagery EEG Decoding.,Tianjun Liu;Deling Yang,PubMed
+Improving the performance of multisubject motor imagery-based BCIs using twin cascaded softmax CNNs.,Jing Luo;Weiwei Shi;Na Lu;Jie Wang;Hao Chen;Yaojie Wang;Xiaofeng Lu;Xiaofan Wang;Xinhong Hei,PubMed
+Decoding and interpreting cortical signals with a compact convolutional neural network.,Artur Petrosyan;Mikhail Sinkin;Mikhail Lebedev;Alexei Ossadtchi,PubMed
+Cluster decomposing and multi-objective optimization based-ensemble learning framework for motor imagery-based brain-computer interfaces.,Cili Zuo;Jing Jin;Ren Xu;Lianghong Wu;Chang Liu;Yangyang Miao;Xingyu Wang,PubMed
+A Multifrequency Brain Network-Based Deep Learning Framework for Motor Imagery Decoding.,Juntao Xue;Feiyue Ren;Xinlin Sun;Miaomiao Yin;Jialing Wu;Chao Ma;Zhongke Gao,PubMed
+Motor Imagery EEG Decoding Method Based on a Discriminative Feature Learning Strategy.,Lie Yang;Yonghao Song;Ke Ma;Longhan Xie,PubMed
+Fuzzy support vector machine with joint optimization of genetic algorithm and fuzzy c-means.,Ming-Ai Li;Ruo-Tu Wang;Li-Na Wei,PubMed
+Spatio-Spectral Feature Representation for Motor Imagery Classification Using Convolutional Neural Networks.,Ji-Seon Bang;Min-Ho Lee;Siamac Fazli;Cuntai Guan;Seong-Whan Lee,PubMed
+On the (in)efficacy of motor imagery training without feedback and event-related desynchronizations considerations.,C A Stefano Filho;T B S Costa;L F S Uribe;P G Rodrigues;D C Soriano;R Attux;G Castellano,PubMed
+Calibration time reduction through local activities estimation in motor imagery-based brain-computer interfaces.,Mohammad Mahdi Togha;Mohammad Reza Salehi;Ebrahim Abiri,PubMed
+BCI-Based Rehabilitation on the Stroke in Sequela Stage.,Yangyang Miao;Shugeng Chen;Xinru Zhang;Jing Jin;Ren Xu;Ian Daly;Jie Jia;Xingyu Wang;Andrzej Cichocki;Tzyy-Ping Jung,PubMed
+Adaptive transfer learning for EEG motor imagery classification with deep Convolutional Neural Network.,Kaishuo Zhang;Neethu Robinson;Seong-Whan Lee;Cuntai Guan,PubMed
+Multiscale space-time-frequency feature-guided multitask learning CNN for motor imagery EEG classification.,Xiuling Liu;Linyang Lv;Yonglong Shen;Peng Xiong;Jianli Yang;Jing Liu,PubMed
+Motion Imagery-BCI Based on EEG and Eye Movement Data Fusion.,Shiwei Cheng;Jialing Wang;Lekai Zhang;Qianjing Wei,PubMed
+Task Transfer Learning for EEG Classification in Motor Imagery-Based BCI System.,Xuanci Zheng;Jie Li;Hongfei Ji;Lili Duan;Maozhen Li;Zilong Pang;Jie Zhuang;Lu Rongrong;Gao Tianhao,PubMed
+Channel Selection for Optimal EEG Measurement in Motor Imagery-Based Brain-Computer Interfaces.,Pasquale Arpaia;Francesco Donnarumma;Antonio Esposito;Marco Parvis,PubMed
+Developing a Motor Imagery-Based Real-Time Asynchronous Hybrid BCI Controller for a Lower-Limb Exoskeleton.,Junhyuk Choi;Keun Tae Kim;Ji Hyeok Jeong;Laehyun Kim;Song Joo Lee;Hyungmin Kim,PubMed
+A neurophysiological approach to spatial filter selection for adaptive brain-computer interfaces.,James D Bennett;Sam E John;David B Grayden;Anthony N Burkitt,PubMed
+MI-EEGNET: A novel convolutional neural network for motor imagery classification.,Mouad Riyad;Mohammed Khalil;Abdellah Adib,PubMed
+A Novel Transfer Support Matrix Machine for Motor Imagery-Based Brain Computer Interface.,Yan Chen;Wenlong Hang;Shuang Liang;Xuejun Liu;Guanglin Li;Qiong Wang;Jing Qin;Kup-Sze Choi,PubMed
+Multiclass Classification Based on Combined Motor Imageries.,Cecilia Lindig-León;Sébastien Rimbert;Laurent Bougrain,PubMed
+Enhancing Classification Performance of fNIRS-BCI by Identifying Cortically Active Channels Using the z-Score Method.,Hammad Nazeer;Noman Naseer;Aakif Mehboob;Muhammad Jawad Khan;Rayyan Azam Khan;Umar Shahbaz Khan;Yasar Ayaz,PubMed
+Conditional Adversarial Domain Adaptation Neural Network for Motor Imagery EEG Decoding.,Xingliang Tang;Xianrui Zhang,PubMed
+An Improved Composite Multiscale Fuzzy Entropy for Feature Extraction of MI-EEG.,Mingai Li;Ruotu Wang;Dongqin Xu,PubMed
+Reducing Response Time in Motor Imagery Using A Headband and Deep Learning.,Francisco M Garcia-Moreno;Maria Bermudez-Edo;José Luis Garrido;María José Rodríguez-Fórtiz,PubMed
+Multi-View Multi-Scale Optimization of Feature Representation for EEG Classification Improvement.,Yong Jiao;Tao Zhou;Lina Yao;Guoxu Zhou;Xingyu Wang;Yu Zhang,PubMed
+An EEG channel selection method for motor imagery based brain-computer interface and neurofeedback using Granger causality.,Hesam Varsehi;S Mohammad P Firoozabadi,PubMed
+A BCI System Based on Motor Imagery for Assisting People with Motor Deficiencies in the Limbs.,Omneya Attallah;Jaidaa Abougharbia;Mohamed Tamazin;Abdelmonem A Nasser,PubMed
+Motor Imagery Hand Movement Direction Decoding Using Brain Computer Interface to Aid Stroke Recovery and Rehabilitation.,V K Benzy;A P Vinod;R Subasree;Suvarna Alladi;K Raghavendra,PubMed
+An fNIRS-Based Motor Imagery BCI for ALS: A Subject-Specific Data-Driven Approach.,S M Hosni;S B Borgheai;J McLinden;Y Shahriari,PubMed
+Intralobular and Interlobular Parietal Functional Network Correlated to MI-BCI Performance.,Chun-Ren Phang;Li-Wei Ko,PubMed
+A Multi-Scale Fusion Convolutional Neural Network Based on Attention Mechanism for the Visualization Analysis of EEG Signals Decoding.,Donglin Li;Jiacan Xu;Jianhui Wang;Xiaoke Fang;Ying Ji,PubMed
+Improving performance in motor imagery BCI-based control applications via virtually embodied feedback.,Jin Woo Choi;Sejoon Huh;Sungho Jo,PubMed
+A Simplified CNN Classification Method for MI-EEG via the Electrode Pairs Signals.,Xiangmin Lun;Zhenglin Yu;Tao Chen;Fang Wang;Yimin Hou,PubMed
+Towards New Diagnostic Approaches in Disorders of Consciousness: A Proof of Concept Study on the Promising Use of Imagery Visuomotor Task.,Antonino Naro;Rocco Salvatore Calabrò,PubMed
+The 2017 and 2018 Iranian Brain-Computer Interface Competitions.,Nasser Samadzadeh Aghdam;Mohammad Hassan Moradi;Mohammad Bagher Shamsollahi;Ali Motie Nasrabadi;Seyed Kamaledin Setarehdan;Vahid Shalchyan;Farhad Faradji;Bahador Makkiabadi,PubMed
+Decoding of voluntary and involuntary upper-limb motor imagery based on graph fourier transform and cross-frequency coupling coefficients.,Naishi Feng;Fo Hu;Hong Wang;Mohamed Amin Gouda,PubMed
+Multimodal signal dataset for 11 intuitive movement tasks from single upper extremity during multiple recording sessions.,Ji-Hoon Jeong;Jeong-Hyun Cho;Kyung-Hwan Shim;Byoung-Hee Kwon;Byeong-Hoo Lee;Do-Yeun Lee;Dae-Hyeok Lee;Seong-Whan Lee,PubMed
+Discrimination of Two-Class Motor Imagery in a fNIRS Based Brain Computer Interface.,Amir H Moslehi;Mina Bagheri;Anne-Marie Ludwig;T Claire Davies,PubMed
+Prediction of Motor Imagery Performance based on Pre-Trial Spatio-Spectral Alertness Features.,Mastaneh Torkamani-Azar;Aysa Jafarifarmand;Mujdat Cetin,PubMed
+Evaluation of Motor Imagery-Based BCI methods in neurorehabilitation of Parkinson's Disease patients.,A Miladinovic;M Ajcevic;P Busan;J Jarmolowska;G Silveri;M Deodato;S Mezzarobba;P P Battaglini;A Accardo,PubMed
+Federated Transfer Learning for EEG Signal Classification.,Ce Ju;Dashan Gao;Ravikiran Mane;Ben Tan;Yang Liu;Cuntai Guan,PubMed
+Decoding of Grasp Motions from EEG Signals Based on a Novel Data Augmentation Strategy.,Jeong-Hyun Cho;Ji-Hoon Jeong;Seong-Whan Lee,PubMed
+Motor Imagery Classification of Finger Motions Using Multiclass CSP.,Masaki Kato;Suguru Kanoga;Takayuki Hoshino;Tadanori Fukami,PubMed
+A Multi-view CNN with Novel Variance Layer for Motor Imagery Brain Computer Interface.,Ravikiran Mane;Neethu Robinson;A P Vinod;Seong-Whan Lee;Cuntai Guan,PubMed
+Recognizing Pain in Motor Imagery EEG Recordings Using Dynamic Functional Connectivity Graphs.,Foroogh Shamsi;Ali Haddad;Laleh Naja Zadeh,PubMed
+Classification of EEG Data Based on the Spatio-Temporo-Rhythmic Characteristics of the Task-Discriminating Functional Sub-networks.,Ali Haddad;Laleh Najafizadeh,PubMed
+Bio-Inspired Algorithms for Optimal Feature Selection in Motor Imagery-Based Brain-Computer Interface,Oluwagbenga Paul Idowu;Peng Fang;Guanglin Li,PubMed
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery.,Ce Zhang;Azim Eskandarian,PubMed
+MI3DNet: A Compact CNN for Motor Imagery EEG Classification with Visualizable Dense Layer Parameters.,Qihang Yang;Xuan Zhang;Badong Chen,PubMed
+Random matrix theory for analysing the brain functional network in lower limb motor imagery.,Lingyun Gu;Zhenhua Yu;Tian Ma;Haixian Wang;Zhanli Li;Hui Fan,PubMed
+Neural component analysis: source localisation for motor imagery classification.,Ian Daly;Milan Rybar,PubMed
+Siamese Neural Networks for EEG-based Brain-computer Interfaces.,Soroosh Shahtalebi;Amir Asif;Arash Mohammadi,PubMed
+Potential pitfalls of widely used implementations of common spatial patterns.,Milan Rybar;Ian Daly;Riccardo Poli,PubMed
+Classify Motor Imagery by a Novel CNN with Data Augmentation.,Weijian Huang;Li Wang;Zhenxiong Yan;Yanjun Liu,PubMed
+Deep Learning Techniques to Improve Intraoperative Awareness Detection from Electroencephalographic Signals.,Oleksii Avilov;Sebastien Rimbert;Anton Popov;Laurent Bougrain,PubMed
+Spatio-temporal deep learning for EEG-fNIRS brain computer interface.,Hamidreza Ghonchi;Mansoor Fateh;Vahid Abolghasemi;Saideh Ferdowsi;Mohsen Rezvani,PubMed
+Assessing impact of channel selection on decoding of motor and cognitive imagery from MEG data.,Sujit Roy;Dheeraj Rathee;Anirban Chowdhury;Karl McCreadie;Girijesh Prasad,PubMed
+Zero-Shot Learning for EEG Classification in Motor Imagery-Based BCI System.,Lili Duan;Jie Li;Hongfei Ji;Zilong Pang;Xuanci Zheng;Rongrong Lu;Maozhen Li;Jie Zhuang,PubMed
+Effects of Gamification in BCI Functional Rehabilitation.,Martí de Castro-Cros;Marc Sebastian-Romagosa;Javier Rodríguez-Serrano;Eloy Opisso;Manel Ochoa;Rupert Ortner;Christoph Guger;Dani Tost,PubMed
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain-Computer Interfaces.,Junjian Chen;Zhuliang Yu;Zhenghui Gu;Yuanqing Li,PubMed
+Identification of Motor and Mental Imagery EEG in Two and Multiclass Subject-Dependent Tasks Using Successive Decomposition Index.,Muhammad Tariq Sadiq;Xiaojun Yu;Zhaohui Yuan;Muhammad Zulkifal Aziz,PubMed
+Seizure-onset regions demonstrate high inward directed connectivity during resting-state: An SEEG study in focal epilepsy.,Saramati Narasimhan;Keshav B Kundassery;Kanupriya Gupta;Graham W Johnson;Kristin E Wills;Sarah E Goodale;Kevin Haas;John D Rolston;Robert P Naftel;Victoria L Morgan;Benoit M Dawant;Hernán F J González;Dario J Englot,PubMed
+Utility of hybrid PET/MRI multiparametric imaging in navigating SEEG placement in refractory epilepsy.,Miao Zhang;Wei Liu;Peng Huang;Xiaozhu Lin;Xinyun Huang;Hongping Meng;Jin Wang;Kejia Hu;Jian Li;Mu Lin;Bomin Sun;Shikun Zhan;Biao Li,PubMed
+A Computationally Efficient Method for Hybrid EEG-fNIRS BCI Based on the Pearson Correlation.,Mustafa A H Hasan;Muhammad U Khan;Deepti Mishra,PubMed
+Thinker invariance: enabling deep neural networks for BCI across more people.,Demetres Kostas;Frank Rudzicz,PubMed
+Instance Transfer Subject-Dependent Strategy for Motor Imagery Signal Classification Using Deep Convolutional Neural Networks.,Kai Zhang;Guanghua Xu;Longtin Chen;Peiyuan Tian;ChengCheng Han;Sicong Zhang;Nan Duan,PubMed
+CNN-based framework using spatial dropping for enhanced interpretation of neural activity in motor imagery classification.,D F Collazos-Huertas;A M Álvarez-Meza;C D Acosta-Medina;G A Castaño-Duque;G Castellanos-Dominguez,PubMed
+Bispectrum-Based Channel Selection for Motor Imagery Based Brain-Computer Interfacing.,Jing Jin;Chang Liu;Ian Daly;Yangyang Miao;Shurui Li;Xingyu Wang;Andrzej Cichocki,PubMed
+Classification of error-related potentials from single-trial EEG in association with executed and imagined movements: a feature and classifier investigation.,Nayab Usama;Kasper Kunz Leerskov;Imran Khan Niazi;Kim Dremstrup;Mads Jochumsen,PubMed
+A facile and flexible motor imagery classification using electroencephalogram signals.,Smith K Khare;Varun Bajaj,PubMed
+The CSP-Based New Features Plus Non-Convex Log Sparse Feature Selection for Motor Imagery EEG Classification.,Shaorong Zhang;Zhibin Zhu;Benxin Zhang;Bao Feng;Tianyou Yu;Zhi Li,PubMed
+Generative Adversarial Networks-Based Data Augmentation for Brain-Computer Interface.,Fatemeh Fahimi;Strahinja Dosen;Kai Keng Ang;Natalie Mrachacz-Kersting;Cuntai Guan,PubMed
+Internal Feature Selection Method of CSP Based on L1-Norm and Dempster-Shafer Theory.,Jing Jin;Ruocheng Xiao;Ian Daly;Yangyang Miao;Xingyu Wang;Andrzej Cichocki,PubMed
+Channel and Feature Selection for a Motor Imagery-Based BCI System Using Multilevel Particle Swarm Optimization.,Yingji Qi;Feng Ding;Fangzhou Xu;Jimin Yang,PubMed
+Data Augmentation for Motor Imagery Signal Classification Based on a Hybrid Neural Network.,Kai Zhang;Guanghua Xu;Zezhen Han;Kaiquan Ma;Xiaowei Zheng;Longting Chen;Nan Duan;Sicong Zhang,PubMed
+On the Better Performance of Pianists with Motor Imagery-Based Brain-Computer Interface Systems.,José-Vicente Riquelme-Ros;Germán Rodríguez-Bermúdez;Ignacio Rodríguez-Rodríguez;José-Víctor Rodríguez;José-María Molina-García-Pardo,PubMed
+Decoding multiclass motor imagery EEG from the same upper limb by combining Riemannian geometry features and partial least squares regression.,Yaqi Chu;Xingang Zhao;Yijun Zou;Weiliang Xu;Guoli Song;Jianda Han;Yiwen Zhao,PubMed
+Functional Electrical Stimulation Controlled by Motor Imagery Brain-Computer Interface for Rehabilitation.,Inchul Choi;Gyu Hyun Kwon;Sangwon Lee;Chang S Nam,PubMed
+Enhanced Motor Imagery Based Brain- Computer Interface via FES and VR for Lower Limbs.,Shixin Ren;Weiqun Wang;Zeng-Guang Hou;Xu Liang;Jiaxing Wang;Weiguo Shi,PubMed
+Data augmentation for deep-learning-based electroencephalography.,Elnaz Lashgari;Dehua Liang;Uri Maoz,PubMed
+Brain-Machine Neurofeedback: Robotics or Electrical Stimulation?,Robert Guggenberger;Monika Heringhaus;Alireza Gharabaghi,PubMed
+CWT Based Transfer Learning for Motor Imagery Classification for Brain computer Interfaces.,Piyush Kant;Shahedul Haque Laskar;Jupitara Hazarika;Rupesh Mahamune,PubMed
+Hybrid brain-computer interface with motor imagery and error-related brain activity.,Mahta Mousavi;Laurens R Krol;Virginia R de Sa,PubMed
+Temporal Combination Pattern Optimization Based on Feature Selection Method for Motor Imagery BCIs.,Jing Jiang;Chunhui Wang;Jinghan Wu;Wei Qin;Minpeng Xu;Erwei Yin,PubMed
+Decoding spectro-temporal representation for motor imagery recognition using ECoG-based brain-computer interfaces.,Fang Zhou Xu;Wen Feng Zheng;Dong Ri Shan;Qi Yuan;Wei Dong Zhou,PubMed
+Multi-class motor imagery EEG classification using collaborative representation-based semi-supervised extreme learning machine.,Qingshan She;Jie Zou;Zhizeng Luo;Thinh Nguyen;Rihui Li;Yingchun Zhang,PubMed
+Convolutional neural networks and genetic algorithm for visual imagery classification.,Fabio R Llorella;Gustavo Patow;José M Azorín,PubMed
+Chaotic behaviour of EEG responses with an identical grasp posture.,Rinku Roy;Debdeep Sikdar;Manjunatha Mahadevappa,PubMed
+Improvement motor imagery EEG classification based on sparse common spatial pattern and regularized discriminant analysis.,Rongrong Fu;Mengmeng Han;Yongsheng Tian;Peiming Shi,PubMed
+Electroencephalogram classification in motor-imagery brain-computer interface applications based on double-constraint nonnegative matrix factorization.,Jing Su;Zuyuan Yang;Wei Yan;Weijun Sun,PubMed
+Study of the Functional Brain Connectivity and Lower-Limb Motor Imagery Performance After Transcranial Direct Current Stimulation.,Mario Ortiz;Eduardo Iáñez;Jorge A Gaxiola-Tirado;David Gutiérrez;José M Azorín,PubMed
+Recognition of EEG Signal Motor Imagery Intention Based on Deep Multi-View Feature Learning.,Jiacan Xu;Hao Zheng;Jianhui Wang;Donglin Li;Xiaoke Fang,PubMed
+Multi-channel EEG recording during motor imagery of different joints from the same limb.,Xuelin Ma;Shuang Qiu;Huiguang He,PubMed
+Combining brain-computer interface and virtual reality for rehabilitation in neurological diseases: A narrative review.,Dong Wen;Yali Fan;Sheng-Hsiou Hsu;Jian Xu;Yanhong Zhou;Jianxin Tao;Xifa Lan;Fengnian Li,PubMed
+Multiclass EEG signal classification utilizing Rényi min-entropy-based feature selection from wavelet packet transformation.,Md Asadur Rahman;Farzana Khanam;Mohiuddin Ahmad;Mohammad Shorif Uddin,PubMed
+Subject-Specific feature selection for near infrared spectroscopy based brain-computer interfaces.,Eda Akman Aydin,PubMed
+Deep learning for EEG-based Motor Imagery classification: Accuracy-cost trade-off.,Javier León;Juan José Escobar;Andrés Ortiz;Julio Ortega;Jesús González;Pedro Martín-Smith;John Q Gan;Miguel Damas,PubMed
+Interpretable and lightweight convolutional neural network for EEG decoding: Application to movement execution and imagination.,Davide Borra;Silvia Fantozzi;Elisa Magosso,PubMed
+A natural evolution optimization based deep learning algorithm for neurological disorder classification.,Maha Shams;Alaa Sagheer,PubMed
+EEG classification across sessions and across subjects through transfer learning in motor imagery-based brain-machine interface system.,Minmin Zheng;Banghua Yang;Yunlong Xie,PubMed
+Reduce brain computer interface inefficiency by combining sensory motor rhythm and movement-related cortical potential features.,Tengjun Liu;Gan Huang;Ning Jiang;Lin Yao;Zhiguo Zhang,PubMed
+[Recognition of three different imagined movement of the right foot based on functional near-infrared spectroscopy].,Yu Li;Xin Xiong;Zhaoyang Li;Yunfa Fu,PubMed
+Temporal frequency joint sparse optimization and fuzzy fusion for motor imagery-based brain-computer interfaces.,Cili Zuo;Yangyang Miao;Xingyu Wang;Lianghong Wu;Jing Jin,PubMed
+Robust Sparse Representation and Multiclass Support Matrix Machines for the Classification of Motor Imagery EEG Signals.,Imran Razzak;Ibrahim A Hameed;Guandong Xu,PubMed
+Alpha Frequency Intervention by Electrical Stimulation to Improve Performance in Mu-Based BCI.,Xiangzi Zhang;Yaqiu Guo;Boyu Gao;Jinyi Long,PubMed
+Deep stacked support matrix machine based representation learning for motor imagery EEG classification.,Wenlong Hang;Wei Feng;Shuang Liang;Qiong Wang;Xuejun Liu;Kup-Sze Choi,PubMed
+Motor imagery EEG classification based on ensemble support vector learning.,Jing Luo;Xing Gao;Xiaobei Zhu;Bin Wang;Na Lu;Jie Wang,PubMed
+EEG-based Classification of Lower Limb Motor Imagery with Brain Network Analysis.,Lingyun Gu;Zhenhua Yu;Tian Ma;Haixian Wang;Zhanli Li;Hui Fan,PubMed
+Motor imagery classification using geodesic filtering common spatial pattern and filter-bank feature weighted support vector machine.,Fei Wang;Zongfeng Xu;Weiwei Zhang;Shichao Wu;Yahui Zhang;Jingyu Ping;Chengdong Wu,PubMed
+A space-frequency localized approach of spatial filtering for motor imagery classification.,M K M Rahman;M A M Joadder,PubMed
+Double-Criteria Active Learning for Multiclass Brain-Computer Interfaces.,Qingshan She;Kang Chen;Zhizeng Luo;Thinh Nguyen;Thomas Potter;Yingchun Zhang,PubMed
+Novel hybrid brain-computer interface system based on motor imagery and P300.,Cili Zuo;Jing Jin;Erwei Yin;Rami Saab;Yangyang Miao;Xingyu Wang;Dewen Hu;Andrzej Cichocki,PubMed
+Covariate shift estimation based adaptive ensemble learning for handling non-stationarity in motor imagery related EEG-based brain-computer interface.,Haider Raza;Dheeraj Rathee;Shang-Ming Zhou;Hubert Cecotti;Girijesh Prasad,PubMed
+Generalized Learning Riemannian Space Quantization: A Case Study on Riemannian Manifold of SPD Matrices.,Fengzhen Tang;Mengling Fan;Peter Tino,PubMed
+Toward a compact hybrid brain-computer interface (BCI): Performance evaluation of multi-class hybrid EEG-fNIRS BCIs with limited number of channels.,Jinuk Kwon;Jaeyoung Shin;Chang-Hwan Im,PubMed
+Deep Neural Network with Joint Distribution Matching for Cross-Subject Motor Imagery Brain-Computer Interfaces.,Xianghong Zhao;Jieyu Zhao;Cong Liu;Weiming Cai,PubMed
+A self-paced BCI prototype system based on the incorporation of an intelligent environment-understanding approach for rehabilitation hospital environmental control.,Yaru Liu;Yadong Liu;Jingsheng Tang;Erwei Yin;Dewen Hu;Zongtan Zhou,PubMed
+Different Set Domain Adaptation for Brain-Computer Interfaces: A Label Alignment Approach.,He He;Dongrui Wu,PubMed
+A feasibility study of a complete low-cost consumer-grade brain-computer interface system.,Victoria Peterson;Catalina Galván;Hugo Hernández;Ruben Spies,PubMed
+Efficient CSP Algorithm With Spatio-Temporal Filtering for Motor Imagery Classification.,Aimin Jiang;Jing Shang;Xiaofeng Liu;Yibin Tang;Hon Keung Kwan;Yanping Zhu,PubMed
+Emotion-Inducing Imagery Versus Motor Imagery for a Brain-Computer Interface.,A D Bigirimana;N Siddique;D Coyle,PubMed
+A novel method of motor imagery classification using eeg signal.,Venkatachalam K;Devipriya A;Maniraj J;Sivaram M;Ambikapathy A;S Amiri Iraj,PubMed
+Assessing Time-Resolved fNIRS for Brain-Computer Interface Applications of Mental Communication.,Androu Abdalmalak;Daniel Milej;Lawrence C M Yip;Ali R Khan;Mamadou Diop;Adrian M Owen;Keith St Lawrence,PubMed
+High Motor Cortex Excitability in Highly Hypnotizable Individuals: A Favourable Factor for Neuroplasticity?,Vincenzo Spina;Carmelo Chisari;Enrica L Santarcangelo,PubMed
+Directed EEG neural network analysis by LAPPS (p≤1) Penalized sparse Granger approach.,Joyce Chelangat Bore;Peiyang Li;Dennis Joe Harmah;Fali Li;Dezhong Yao;Peng Xu,PubMed
+Spatiotemporal-Filtering-Based Channel Selection for Single-Trial EEG Classification.,Feifei Qi;Wei Wu;Zhu Liang Yu;Zhenghui Gu;Zhenfu Wen;Tianyou Yu;Yuanqing Li,PubMed
+Motor Imagery Classification via Temporal Attention Cues of Graph Embedded EEG Signals.,Dalin Zhang;Kaixuan Chen;Debao Jian;Lina Yao,PubMed
+A flexible analytic wavelet transform based approach for motor-imagery tasks classification in BCI applications.,Shalu Chaudhary;Sachin Taran;Varun Bajaj;Siuly Siuly,PubMed
+Cortical Activations and BCI Performances at Different Speeds of Visual and Proprioceptive Stimulation.,Mengya Wang;Long Chen;Zhongpeng Wang;Lei Zhang;Xiaosong Gu;Dong Ming,PubMed
+A Novel Feature Extraction Framework for Four Class Motor Imagery Classification using Log Determinant Regularized Riemannian Manifold.,B Jagadish;P Rajalakshmi,PubMed
+The Effect of Vibrotactile Feedback on ErrP-based Adaptive Classification of Motor Imagery.,L Schiatti;G Barresi;J Tessadori;L C King;L S Mattos,PubMed
+A visual-haptic neurofeedback training improves sensorimotor cortical activations and BCI performance.,Zhongpeng Wang;Yijie Zhou;Long Chen;Bin Gu;Shuang Liu;Minpeng Xu;Hongzhi Qi;Feng He;Dong Ming,PubMed
+Weighted sparse representation for classification of motor imagery EEG signals.,S R Sreeja;Debasis Samanta;Monalisa Sarma,PubMed
+Using Discriminative Lasso to Detect a Graph Fourier Transform (GFT) Subspace for robust decoding in Motor Imagery BCI.,Kostas Georgiadis;Nikos Laskaris;Spiros Nikolopoulos;Dimitrios A Adamos;Ioannis Kompatsiaris,PubMed
+Tensor Discriminant Analysis for MI-EEG Signal Classification Using Convolutional Neural Network.,Shoulin Huang;Hao Peng;Yang Chen;Kai Sun;Fang Shen;Tong Wang;Ting Ma,PubMed
+Trajectory Decoding of Arm Reaching Movement Imageries for Brain-Controlled Robot Arm System.,Ji-Hoon Jeong;Kyung-Hwan Shim;Dong-Joo Kim;Seong-Whan Lee,PubMed
+Enhancing Mu-based BCI Performance with Rhythmic Electrical Stimulation at Alpha Frequency.,Xiangzi Zhang;Yaqiu Guo;Boyu Gao;Jinyi Long,PubMed
+The EEG Analysis of Actual Left/Right Lateral Bending Movements in Patient of Lumbar Disc Herniation.,Huihui Li;Wenjing Du;Kamen Ivanov;Yuchao Yang;Yang Zhan;Lei Wang,PubMed
+Analysis and Classification for Single-Trial EEG Induced by Sequential Finger Movements.,Shanshan Zhang;Kun Wang;Minpeng Xu;Zhongpeng Wang;Long Chen;Faqi Wang;Lixin Zhang;Dong Ming,PubMed
+Temporally Adaptive Common Spatial Patterns with Deep Convolutional Neural Networks.,Mahta Mousavi;Virginia R de Sa,PubMed
+Motor Imagery Classification with Covariance Matrices and Non-Negative Matrix Factorization.,Dharmendra Gurve;Denis Delisle-Rodriguez;Teodiano Bastos;Sridhar Krishnan,PubMed
+Improving The Performance of Motor Imagery Based Brain-Computer Interface Using Phase Space Reconstruction.,Niraj Bagh;M Ramasubba Reddy,PubMed
+Classification and Transfer Learning of EEG during a Kinesthetic Motor Imagery Task using Deep Convolutional Neural Networks.,Alexander Craik;Atilla Kilicarslan;Jose L Contreras-Vidal,PubMed
+Study on brain computer interface combined tactile enhancement and time-varying features,Lei Zhang;Long Chen;Zhongpeng Wang;Shuang Liu;Mengya Wang;Shanguang Chen;Dong Ming,PubMed
+A Framework on Optimization Strategy for EEG Motor Imagery Recognition.,Banghua Yang;Chengcheng Fan;Cuntai Guan;Xuelin Gu;Minmin Zheng,PubMed
+Classification of EEG Motor Imagery Tasks Using Convolution Neural Networks.,Sai Ho Ling;Henry Makgawinata;Fernando Huerta Monsivais;Andre Dos Santos Goncalves Lourenco;Juan Lyu;Rifai Chai,PubMed
+CANet: A Channel Attention Network to Determine Informative Multi-channel for Image Classification from Brain Signals.,Yangwoo Kim;Sehyeon Jang;Kyungho Won;Sung Chan Jun,PubMed
+Learning Invariant Representations from EEG via Adversarial Inference.,Ozan Özdenizci;Y E Wang;Toshiaki Koike-Akino;Deniz ErdoĞmuŞ,PubMed
+Motor imagery based brain-computer interface control of continuous passive motion for wrist extension recovery in chronic stroke patients.,Rong-Rong Lu;Mou-Xiong Zheng;Jie Li;Tian-Hao Gao;Xu-Yun Hua;Gang Liu;Song-Hua Huang;Jian-Guang Xu;Yi Wu,PubMed
+Improved Transductive Support Vector Machine for a Small Labelled Set in Motor Imagery-Based Brain-Computer Interface.,Yilu Xu;Jing Hua;Hua Zhang;Ronghua Hu;Xin Huang;Jizhong Liu;Fumin Guo,PubMed
+[Recognition method of single trial motor imagery electroencephalogram signal based on sparse common spatial pattern and Fisher discriminant analysis].,Rongrong Fu;Yongsheng Tian;Tiantian Bao,PubMed
+Diversity in a signal-to-image transformation approach for EEG-based motor imagery task classification.,Bahar Hatipoglu Yilmaz;Cagatay Murat Yilmaz;Cemal Kose,PubMed
+Dynamic time warping-based transfer learning for improving common spatial patterns in brain-computer interface.,Ahmed M Azab;Hamed Ahmadi;Lyudmila Mihaylova;Mahnaz Arvaneh,PubMed
+A Data-Driven Measure of Effective Connectivity Based on Renyi's α-Entropy.,Ivan De La Pava Panche;Andres M Alvarez-Meza;Alvaro Orozco-Gutierrez,PubMed
+A Parallel Multiscale Filter Bank Convolutional Neural Networks for Motor Imagery EEG Classification.,Hao Wu;Yi Niu;Fu Li;Yuchen Li;Boxun Fu;Guangming Shi;Minghao Dong,PubMed
+A Comprehensive sLORETA Study on the Contribution of Cortical Somatomotor Regions to Motor Imagery.,Mustafa Yazici;Mustafa Ulutas;Mukadder Okuyan,PubMed
+Motor imagery EEG recognition with KNN-based smooth auto-encoder.,Xianlun Tang;Ting Wang;Yiming Du;Yuyan Dai,PubMed
+Decoding Imagined 3D Arm Movement Trajectories From EEG to Control Two Virtual Arms-A Pilot Study.,Attila Korik;Ronen Sosnik;Nazmul Siddique;Damien Coyle,PubMed
+Classification of left and right foot kinaesthetic motor imagery using common spatial pattern.,Madiha Tariq;Pavel M Trivailo;Milan Simic,PubMed
+Quantitative analysis of intracranial electrocorticography signals using the concept of statistical parametric mapping.,Hirotaka Motoi;Jeong-Won Jeong;Csaba Juhász;Makoto Miyakoshi;Yasuo Nakai;Ayaka Sugiura;Aimee F Luat;Sandeep Sood;Eishi Asano,PubMed
+Deep Channel-Correlation Network for Motor Imagery Decoding From the Same Limb.,Xuelin Ma;Shuang Qiu;Wei Wei;Shengpei Wang;Huiguang He,PubMed
+Tangent Space Features-Based Transfer Learning Classification Model for Two-Class Motor Imagery Brain-Computer Interface.,Pramod Gaur;Karl McCreadie;Ram Bilas Pachori;Hui Wang;Girijesh Prasad,PubMed
+A Comparison between BCI Simulation and Neurofeedback for Forward/Backward Navigation in Virtual Reality.,Bilal Alchalabi;Jocelyn Faubert,PubMed
+Spiking Neural Networks applied to the classification of motor tasks in EEG signals.,Carlos D Virgilio G;Juan H Sossa A;Javier M Antelis;Luis E Falcón,PubMed
+"A New Approach for Motor Imagery Classification Based on Sorted Blind Source Separation, Continuous Wavelet Transform, and Convolutional Neural Network.",César J Ortiz-Echeverri;Sebastián Salazar-Colores;Juvenal Rodríguez-Reséndiz;Roberto A Gómez-Loenzo,PubMed
+Subject-specific EEG channel selection using non-negative matrix factorization for lower-limb motor imagery recognition.,Dharmendra Gurve;Denis Delisle-Rodriguez;Maria Romero-Laiseca;Vivianne Cardoso;Flavia Loterio;Teodiano Bastos;Sri Krishnan,PubMed
+The effects of visual distractors on cognitive load in a motor imagery brain-computer interface.,Zahra Emami;Tom Chau,PubMed
+Development of a robust asynchronous brain-switch using ErrP-based error correction.,Rozhin Yousefi;Alborz Rezazadeh Sereshkeh;Tom Chau,PubMed
+A Lasso quantile periodogram based feature extraction for EEG-based motor imagery.,Aymen Meziani;Karim Djouani;Tarek Medkour;Abdelghani Chibani,PubMed
+Multi optimized SVM classifiers for motor imagery left and right hand movement identification.,Kamel Mebarkia;Aicha Reffad,PubMed
+HS-CNN: a CNN with hybrid convolution scale for EEG motor imagery classification.,Guanghai Dai;Jun Zhou;Jiahui Huang;Ning Wang,PubMed
+Effects of Task Complexity on Motor Imagery-Based Brain-Computer Interface.,M Ebrahim M Mashat;Chin-Teng Lin;Dingguo Zhang,PubMed
+A performance based feature selection technique for subject independent MI based BCI.,Md A Mannan Joadder;Joshua J Myszewski;Mohammad H Rahman;Inga Wang,PubMed
+A dynamic and self-adaptive classification algorithm for motor imagery EEG signals.,Kais Belwafi;Sofien Gannouni;Hatim Aboalsamh;Hassan Mathkour;Abdelfattah Belghith,PubMed
+EEG Signals Feature Extraction Based on DWT and EMD Combined with Approximate Entropy.,Na Ji;Liang Ma;Hui Dong;Xuejun Zhang,PubMed
+A Real-Time Health 4.0 Framework with Novel Feature Extraction and Classification for Brain-Controlled IoT-Enabled Environments.,B Jagadish;P K Mishra;M P R S Kiran;P Rajalakshmi,PubMed
+Decoding covert speech for intuitive control of brain-computer interfaces based on single-trial EEG: a feasibility study.,L Tottrup;K Leerskov;J T Hadsund;E N Kamavuako;R L Kaseler;M Jochumsen,PubMed
+A BCI based visual-haptic neurofeedback training improves cortical activations and classification performance during motor imagery.,Zhongpeng Wang;Yijie Zhou;Long Chen;Bin Gu;Shuang Liu;Minpeng Xu;Hongzhi Qi;Feng He;Dong Ming,PubMed
+Correlation-based channel selection and regularized feature optimization for MI-based BCI.,Jing Jin;Yangyang Miao;Ian Daly;Cili Zuo;Dewen Hu;Andrzej Cichocki,PubMed
+Channel selection in motor imaginary-based brain-computer interfaces: a particle swarm optimization algorithm.,Lei Zhang;Qingguo Wei,PubMed
+Median Nerve Stimulation Based BCI: A New Approach to Detect Intraoperative Awareness During General Anesthesia.,Sébastien Rimbert;Pierre Riff;Nathalie Gayraud;Denis Schmartz;Laurent Bougrain,PubMed
+Motor Imagery EEG Classification Using Capsule Networks.,Kwon-Woo Ha;Jin-Woo Jeong,PubMed
+"EEG data collection using visual evoked, steady state visual evoked and motor image task, designed to brain computer interfaces (BCI) development.",S M Fernandez-Fraga;M A Aceves-Fernandez;J C Pedraza-Ortega,PubMed
+Brain wave classification using long short-term memory network based OPTICAL predictor.,Shiu Kumar;Alok Sharma;Tatsuhiko Tsunoda,PubMed
+Decoding electroencephalographic signals for direction in brain-computer interface using echo state network and Gaussian readouts.,Hoon-Hee Kim;Jaeseung Jeong,PubMed
+To Explore the Potentials of Independent Component Analysis in Brain-Computer Interface of Motor Imagery.,Xiaopei Wu;Bangyan Zhou;Zhao Lv;Chao Zhang,PubMed
+An Optimized Channel Selection Method Based on Multifrequency CSP-Rank for Motor Imagery-Based BCI System.,Jian Kui Feng;Jing Jin;Ian Daly;Jiale Zhou;Yugang Niu;Xingyu Wang;Andrzej Cichocki,PubMed
+A hierarchical architecture for recognising intentionality in mental tasks on a brain-computer interface.,Asier Salazar-Ramirez;Jose I Martin;Raquel Martinez;Andoni Arruti;Javier Muguerza;Basilio Sierra,PubMed
+Frequency-Optimized Local Region Common Spatial Pattern Approach for Motor Imagery Classification.,Yongkoo Park;Wonzoo Chung,PubMed
+An Incremental Version of L-MVU for the Feature Extraction of MI-EEG.,Mingai Li;Hongwei Xi;Xiaoqing Zhu,PubMed
+Enhancing the Hybrid BCI Performance With the Common Frequency Pattern in Dual-Channel EEG.,Li-Wei Ko;Oleksii Komarov;Shih-Chuan Lin,PubMed
+Enhancing sensorimotor BCI performance with assistive afferent activity: An online evaluation.,C Vidaurre;A Ramos Murguialday;S Haufe;M Gómez;K-R Müller;V V Nikulin,PubMed
+Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification.,Jing Luo;Jie Wang;Rong Xu;Kailiang Xu,PubMed
+Space-time recurrences for functional connectivity evaluation and feature extraction in motor imagery brain-computer interfaces.,Paula G Rodrigues;Carlos A Stefano Filho;Romis Attux;Gabriela Castellano;Diogo C Soriano,PubMed
+Improvement Motor Imagery EEG Classification Based on Regularized Linear Discriminant Analysis.,Rongrong Fu;Yongsheng Tian;Tiantian Bao;Zong Meng;Peiming Shi,PubMed
+An Improved Refined Composite Multivariate Multiscale Fuzzy Entropy Method for MI-EEG Feature Extraction.,Mingai Li;Ruotu Wang;Jinfu Yang;Lijuan Duan,PubMed
+Multiclass Support Matrix Machines by Maximizing the Inter-Class Margin for Single Trial EEG Classification.,Imran Razzak;Michael Blumenstein;Guandong Xu,PubMed
+EEG Signal Processing in MI-BCI Applications With Improved Covariance Matrix Estimators.,Javier Olias;Ruben Martin-Clemente;M Auxiliadora Sarmiento-Vega;Sergio Cruces,PubMed
+Dynamic visual guidance with complex task improves intracortical source activities during motor imagery.,Yan Bian;Hongzhi Qi;Li Zhao;Dong Ming;Tong Guo;Xing Fu,PubMed
+An EEG/EMG/EOG-Based Multimodal Human-Machine Interface to Real-Time Control of a Soft Robot Hand.,Jinhua Zhang;Baozeng Wang;Cheng Zhang;Yanqing Xiao;Michael Yu Wang,PubMed
+EEG-Based Brain-Computer Interfaces Using Motor-Imagery: Techniques and Challenges.,Natasha Padfield;Jaime Zabalza;Huimin Zhao;Valentin Masero;Jinchang Ren,PubMed
+Semisupervised Deep Stacking Network with Adaptive Learning Rate Strategy for Motor Imagery EEG Recognition.,Xian-Lun Tang;Wei-Chang Ma;De-Song Kong;Wei Li,PubMed
+Portable brain-computer interface based on novel convolutional neural network.,Yu Zhang;Xiong Zhang;Han Sun;Zhaowen Fan;Xuefei Zhong,PubMed
+EEG representation using multi-instance framework on the manifold of symmetric positive definite matrices.,Khadijeh Sadatnejad;Mohammad Rahmati;Reza Rostami;Reza Kazemi;Saeed S Ghidary;Andreas Müller;Fatemeh Alimardani,PubMed
+Investigation of Theta Rhythm Effect in Detection of Finger Movement.,Seniha Ketenci;Temel Kayikcioglu,PubMed
+Motor Imagery EEG Classification Based on Decision Tree Framework and Riemannian Geometry.,Shan Guan;Kai Zhao;Shuning Yang,PubMed
+Feature selection using regularized neighbourhood component analysis to enhance the classification performance of motor imagery signals.,Nitesh Singh Malan;Shiru Sharma,PubMed
+Quantifying mode mixing and leakage in multivariate empirical mode decomposition and application in motor imagery-based brain-computer interface system.,Yang Zheng;Guanghua Xu,PubMed
+Can a Subjective Questionnaire Be Used as Brain-Computer Interface Performance Predictor?,Sébastien Rimbert;Nathalie Gayraud;Laurent Bougrain;Maureen Clerc;Stéphanie Fleck,PubMed
+Walking Imagery Evaluation in Brain Computer Interfaces via a Multi-View Multi-Level Deep Polynomial Network.,Baiying Lei;Xiaolu Liu;Shuang Liang;Wenlong Hang;Qiong Wang;Kup-Sze Choi;Jing Qin,PubMed
+Feature extraction of four-class motor imagery EEG signals based on functional brain network.,Qingsong Ai;Anqi Chen;Kun Chen;Quan Liu;Tichao Zhou;Sijin Xin;Ze Ji,PubMed
+WaveCSP: a robust motor imagery classifier for consumer EEG devices.,Mohamed Athif;Hongliang Ren,PubMed
+Reduce Calibration Time in Motor Imagery Using Spatially Regularized Symmetric Positives-Definite Matrices Based Classification.,Amardeep Singh;Sunil Lal;Hans W Guesgen,PubMed
+"Hand (Motor) Movement Imagery Classification of EEG Using
+                                Takagi-Sugeno-Kang Fuzzy-Inference Neural Network",Rory Larson Donovan,CrossRef
+Object Movement Motor Imagery for EEG based BCI System using Convolutional Neural Networks,Eneo Petoku;Genci Capi,CrossRef
+Classification of EEG Signal by STFT-CNN Framework: Identification of Right-/left-hand Motor Imagination in BCI Systems,Yao Lu;Huiping Jiang;Wenqiang Liu,CrossRef
+Classification of Motor Imagery Right and Left Hand Movement EEG Signals for BCI Application Based on Statistical Analysis,Htin Lin Kyaw;La Pyae Lynn;HninThidar Aye,CrossRef
+Multi-Class Classification of Motor Imagery EEG Signals Using Image-Based Deep Recurrent Convolutional Neural Network,Ward Fadel;Csaba Kollod;Moutz Wahdow;Yahya Ibrahim;Istvan Ulbert,CrossRef
+Eeg Right &amp; Left Voluntary Hand Movement-Based Virtual Brain-Computer Interfacing Keyboard with Machine Learning and a Hybrid Bi-Directional Lstm-Gru Model,Biplov Paneru;Bishwash Paneru;Sanjog Sapkota,CrossRef
+"Convolutional neural network for high-accuracy functional near-infrared spectroscopy in a brain–computer interface: three-class classification of rest, right-, and left-hand motor execution",Thanawin Trakoolwilaiwan;Bahareh Behboodi;Jaeseok Lee;Kyungsoo Kim;Ji-Woong Choi,CrossRef
+EEG Right &amp; Left Voluntary Hand Movement-based Virtual Brain-Computer Interfacing Keyboard Using Hybrid Deep Learning Approach   ,Biplov Paneru;Bipul Thapa;Bishwash Paneru;Sanjog Chhetri Sapkota,CrossRef
+EEG Right &amp; Left Voluntary Hand Movement-based Virtual Brain-Computer Interfacing Keyboard Using Hybrid Deep Learning Approach,Biplov Paneru;Bipul Thapa;Bishwash Paneru;Sanjog Chhetri Sapkota,CrossRef
+Classification of EEG Motor Imagery Using Deep Learning for Brain-Computer Interface Systems,Alessandro Gallo;Manh Duong Phung,CrossRef
+EEG-based left-hand/right-hand/rest motor imagery task classification,Stanislaw Zakrzewski;Bartlomiej Stasiak;Adam Wojciechowski,CrossRef
+"Classifying EEG signals preceding right hand, left hand, tongue, and right foot movements and motor imageries",Valerie Morash;Ou Bai;Stephen Furlani;Peter Lin;Mark Hallett,CrossRef
+Classification of left and right hand motor imagery EEG signals by using deep neural networks,Nuri Korhan;Leyla Abilzade;Taner Ölmez;Zümray Dokur Ölmez,CrossRef
+Classification of motor imagery for Ear-EEG based brain-computer interface,Yong-Jeong Kim;No-Sang Kwak;Seong-Whan Lee,CrossRef
+Classification of Visual Imagery and Imagined Speech EEG based Brain Computer Interfaces using 1D Convolutional Neural Network,Diane Le,CrossRef
+Development of a CNN-LSTM Deep Learning Model for Motor Imagery EEG Classification for BCI Applications,Aaqib Raza;Mohd Zuki Yusoff,CrossRef
+Deep Learning Solutions for Motor Imagery Classification: A Comparison Study,Na Lu;Tao Yin;Xue Jing,CrossRef
+Rank-based Discriminative Feature Learning for Motor Imagery Classification in EEG signals,Byung Hyung Kim;Jin Woo Choi;Sungho Jo,CrossRef
+Adaboost for improving classification of left and right hand motor imagery tasks,Pei Xiaomei;Meng Chongxun;Xu Jin;Bin Guangyu,CrossRef
+Classification of Motor Imagery Hand Movement Directions from EEG extracted Phase Locking Value features for Brain Computer Interfaces,VK Benzy;A. P. Vinod,CrossRef
+EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech,Young-Eun Lee;Seo-Hyun Lee,CrossRef
+Bi-Directional Imagined Hand Movement Classification Using Low Cost EEG-Based BCI,Neethu Robinson;A.P. Vinod,CrossRef
+A Genetic-Based Feature Selection Approach in the Identification of Left/Right Hand Motor Imagery for a Brain-Computer Interface,Charles Yaacoub;Georges Mhanna;Sandy Rihana,CrossRef
+Deep recurrent spatio-temporal neural network for motor imagery based BCI,Wonjun Ko;Jeeseok Yoon;Eunsong Kang;Eunji Jun;Jun-Sik Choi;Heung-Il Suk,CrossRef
+Generic BCI Classifiers for Discrimination of Motor Imagery of Left/Right Steps and Forward Walking,Bilal Alchalabi;Jocelyn Faubert;David Labbe,CrossRef
+Deep learning for hybrid EEG-fNIRS brain–computer interface: application to motor imagery classification,Antonio Maria Chiarelli;Pierpaolo Croce;Arcangelo Merla;Filippo Zappasodi,CrossRef
+Pioneering EEG Motor Imagery Classification Through Counterfactual Analysis,Kang Yin;Hye-Bin Shin;Hee-Dong Kim,CrossRef
+EEG right &amp; left voluntary hand movement-based virtual brain-computer interfacing keyboard using hybrid deep learning approach,Biplov Paneru;Bipul Thapa;Bishwash Paneru;Sanjog Chhetri Sapkota,CrossRef
+Classification of EEG Signals from Motor Imagery of Hand Grasp Movement Based on Neural Network Approach,Muhammad Mahdi Ramadhan;Sastra Kusuma Wijaya;Prawito Prajitno,CrossRef
+Decoding trajectories of imagined hand movement using electrocorticograms for brain-machine interface,Sang Jin Jang;Jaeseung Jeong;Yu Jin Yang;June Sic Kim;Chun Kee Chung,CrossRef
+EEG Signal Processing For Motor Imagery Direction of Hand Movement Using the Brain Computer Interface,Yolanda Sari Silaen;Inung Wijayanto;Hilman Fauzi,CrossRef
+Towards sign language recognition using EEG-based motor imagery brain computer interface,Duaa AlQattan;Francisco Sepulveda,CrossRef
+An Unsupervised Deep-Transfer-Learning-Based Motor Imagery EEG Classification Scheme for Brain–Computer Interface,Xuying Wang;Rui Yang;Mengjie Huang,CrossRef
+Closed Loop Feedback fNIRS Brain Computer Interface for Increasing Classification Accuracy in a Left Versus Right Hand Movement Task,Antonio Ortega-Martinez;Alexander von Lühmann;David A. Boas;Meryem A. Yücel,CrossRef
+Classification of left and right foot movement intention based on steady-state somatosensory evoked potentials,Young-Jin Kee;Dong-Ok Won;Seong-Whan Lee,CrossRef
+Motor Imagery Classification based on Multi-Kernel CNN with the amalgamated Cross Entropy Loss,Jinhyo Shin;Wonzoo Chung,CrossRef
+Classification of Left and Right Hand Motor Imagery Tasks Based on EEG Frequency Component Selection,Xiaomei Pei;Chongxun Zheng,CrossRef
+Generalized Sequential Forward Selection Method for Channel Selection in EEG Signals for Classification of Left or Right Hand Movement in BCI,Moein Radman;Ali Chaibakhsh;Nader Nariman-zadeh;Huiguang He,CrossRef
+Deep learning classification features visualization for arm movement brain-computer interface,Seokbeen Lim;Dong Pyo Jang;Hoseok Choi,CrossRef
+Electroencephalography (EEG) brain computer interface (BCI) for mental states detection,;Aung Phyo Wai Aung,CrossRef
+Mu-Beta event-related (de)synchronization and EEG classification of left-right foot dorsiflexion kinaesthetic motor imagery for BCI,Madiha Tariq;Pavel M. Trivailo;Milan Simic,CrossRef
+Data augmentation and feature extraction using deep learning for motor imagery EEG-based brain–computer interface classification,Marzieh Anjerani;Mir Mohsen Pedram;Mitra Mirzarezaee,CrossRef
+Comparison of Using Mono-Polar and Bipolar Electroencephalogram (EEG) Electrodes for Detection of Right and Left Hand Movements in a Self-Paced Brain Computer Interface (BCI),Ali Bashashati;Rabab K. Ward;Gary E. Birch,CrossRef
+Motor Imagery Classification Emphasizing Corresponding Frequency Domain Method based on Deep Learning Framework,Byoung-Hee Kwon;Byeong-Hoo Lee;Ji-Hoon Jeong,CrossRef
+EEG function network analysis of left and right hand motor imagery,Rui Zhang;Yamin Yan;Yuxia Hu;Li Shi;Hong Wan;Li Shi,CrossRef
+Recognition of motor imagery left and right hand movement using EEG,Atanu Dey;Sourav Bhattacharjee;Debasis Samanta,CrossRef
+Proposal of a Deep Learning Method for the Classification of EEG Motor Imagery Signals: Applications to Brain-Computer Interfaces,,CrossRef
+Optimized Time Window Segmentation for Motor Imagery EEG Classification: An Ant Colony Optimization-Based Approach,Rosi Indah Agustin;Pisut Raphisak,CrossRef
+Classification of EEG signals recorded during right/left hand movement imagery using Fourier Transform based features,Onder Aydemir;Temel Kayikcioglu,CrossRef
+Decoding EEG-Based Motor Imagery of Hand Grasp Types for an Amputee Due to Birth Trauma,Seong-Ho Ahn;Zion Kim;Jun Ha Jung;Hyeon-Jun Lee;Heejin Kim;Jungu Cho;Jaeseung Jeong,CrossRef
+Exploring a Deeper Convolutional Neural Network Architecture with high dropout for Motor Imagery BCI Decoding,Ramtin Alami;Andi Partovi;Farhad Goodarzy,CrossRef
+Interpretable Convolutional Neural Networks for Subject-Independent Motor Imagery Classification,Ji-Seon Bang;Seong-Whan Lee,CrossRef
+The Promise of Deep Learning for BCIs: Classification of Motor Imagery EEG using Convolutional Neural Network,Navneet Tibrewal;Nikki Leeuwis;Maryam Alimardani,CrossRef
+Transformed wavelets for motor imagery EEG classification using hybrid CNN-modified vision transformer: an exploratory study of MI EEG,Balendra;Neeraj Sharma;Shiru Sharma,CrossRef
+Hybrid Zero-Training BCI based on Convolutional Neural Network for Lower-limb Motor-Imagery,Ji Hyeok Jeong;Dong-Joo Kim;Hyungmin Kim,CrossRef
+Effects of Input Neuron Mapping Coordinates in Spiking Neural Network on the Motor Imagery EEG Signals Classification,Gege Zhan;Haolong Su;Pengchao Wang;Lan Niu;Jianxiong Bin;Wei Mu;Xueze Zhang;Haifeng Jiang;Lihua Zhang;Xiaoyang Kang,CrossRef
+Hybrid MI-SSSEP Paradigm for classifying left and right movement toward BCI for exoskeleton control,Jaehyung Lee;Kabmun Cha;Hyungmin Kim;Junhyuk Choi;Choonghyun Kim;Songjoo Lee,CrossRef
+Motor Imagery EEG Signal Classification for Stroke Survivors Rehabilitation,Alex Efstathios Voinas;Rig Das;Muhammad Ahmed Khan;Iris Brunner;Sadasivan Puthusserypady,CrossRef
+Identification of Imagined Bengali Vowels from EEG Signals Using Activity Map and Convolutional Neural Network,Rajdeep Ghosh;Nidul Sinha;Souvik Phadikar,CrossRef
+Exploring differences between left and right hand motor imagery via spatio-temporal EEG microstate,Weifeng Liu;Xiaoming Liu;Ruomeng Dai;Xiaoying Tang,CrossRef
+Deep Neural Network for Drowsiness Detection from EEG,Chungho Lee;Rock-Hyun Choi;Jinung An,CrossRef
+Subject-Independent Object Classification Based on Convolutional Neural Network from EEG Signals,Jenifer Kalafatovich;Minji Lee,CrossRef
+Data Augmentation and Feature Extraction Using Deep Learning for Motor Imagery Eeg-Based Brain-Computer Interface Classification,Marzieh Anjerani;Mir Mohsen Pedram;Mitra Mirzarezaee;Ehsan Malekian,CrossRef
+Artificial Neural Network Based Classification Of Motor Imagery EEG Signals For Efficient Brain Computer Interface System,Shobana. G;Senthil Kumar. J,CrossRef
+A novel hybrid CNN-Transformer model for EEG Motor Imagery classification,Yaxin Ma;Yonghao Song;Fei Gao,CrossRef
+Towards User-Centered Design for Motor Imagery Brain-Computer Interface: From MI-BCI Illiteracy to MI-BCI Unfamiliarity,Zaid Shuqfa;Abderrahmane Lakas,CrossRef
+EEG-based discrimination between imagination of right and left hand movement,G. Pfurtscheller;Ch. Neuper;D. Flotzinger;M. Pregenzer,CrossRef
+Electroencephalography-based a Motor Hotspot Identification Approach Using Deep-Learning,Ga-Young Choi;Won-Seok Kim;Han-Jeong Hwang,CrossRef
+Mixing hand-crafted and learned features for EEG-based motor imagery classification,Paul Augusto Bustios Belizario,CrossRef
+Motor Imagery Classification of Single-Arm Tasks Using Convolutional Neural Network based on Feature Refining,Byeong-Hoo Lee;Ji-Hoon Jeong;Kyung-Hwan Shim;Dong-Joo Kim,CrossRef
+A CNN-LSTM Deep Learning Classifier for Motor Imagery EEG Detection Using a Low-invasive and Low-Cost BCI Headband,Francisco M. Garcia-Moreno;Maria Bermudez-Edo;Maria Jose Rodriguez-Fortiz;Jose Luis Garrido,CrossRef
+Classification of EEG signals recorded during right/left hand movement imagery using Fast Walsh Hadamard Transform based features,Kubra Saka;Onder Aydemir;Mehmet Ozturk,CrossRef
+Classification of Left/Right Hand and Foot Movements from EEG using Machine Learning Algorithms,Dalila Cherifi;Baha Eddine Berghouti;Larbi Boubchir,CrossRef
+Classification of Visual Perception and Imagery based EEG Signals Using Convolutional Neural Networks,Ji-Seon Bang;Ji-Hoon Jeong;Dong-Ok Won,CrossRef
+MI-BMInet: An Efficient Convolutional Neural Network for Motor Imagery Brain&amp;#x2013;Machine Interfaces with EEG Channel Selection_supp1-3353146.pdf,Xiaying Wang,CrossRef
+Convolutional neural network based features for motor imagery EEG signals classification in brain–computer interface system,Samaneh Taheri;Mehdi Ezoji;Sayed Mahmoud Sakhaei,CrossRef
+100 Years of EEG: Unleashing the Brain's Secrets and Motor of Brain-Computer Interface (BCI) Research,Andrea Kübler,CrossRef
+Decoding 3D Representation of Visual Imagery EEG using Attention-based Dual-Stream Convolutional Neural Network,Hyung-Ju Ahn;Dae-Hyeok Lee,CrossRef
+Learning suite of kernel feature spaces enhances SMR-based EEG-BCI classification,Berdakh Abibullaev,CrossRef
+Calibration-free online test-time adaptation for electroencephalography motor imagery decoding,Martin Wimpff;Mario Döbler;Bin Yang,CrossRef
+EEG Motor Imagery Classification using Fusion Convolutional Neural Network,Wassim Zouch;Amira Echtioui,CrossRef
+Development of a brain computer interface based on EEG pattern recognition method during right and left motor imagery,K. Inoue;S. Matsuoka,CrossRef
+Incorporating hand-crafted features into deep learning models for motor imagery EEG-based classification,Paul Bustios;João Luís Garcia Rosa,CrossRef
+A Robust EEG Brain-Computer Interface Approach for Decoding Hand and Foot Motor Imagery,Mohamed A. Hanafy;Saykhun Yusufjonov;Djaykhun Yusufjonov;Payman Sharafianardakani;Madan M. Rayguru;Dan O. Popa,CrossRef
+Motor imagery classification in Brain computer interface (BCI) based on EEG signal by using machine learning technique,N. E. Md Isa;A. Amir;M. Z. Ilyas;M. S. Razalli,CrossRef
+Simple Convolutional Neural Network for Left-Right Hands Motor Imagery EEG Signals Classification,Geliang Tian;Yue Liu,CrossRef
+Classification of Working Memory Performance from EEG with Deep Artificial Neural Networks,Youngchul Kwak;Woo-Jin Song;Seong-Eun Kim,CrossRef
+Motor Imagery Hand Movement Classification Using Attention Network Integrated Inception Model,Mohammad Rakin Uddin;Atik Jawad;Talha Ibn Mahmud,CrossRef
+VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation,Wonjun Ko;Kwanseok Oh;Eunjin Jeon;Heung-Il Suk,CrossRef
+Classification of EEG based BCI signals imagined hand closing and opening,Ebru Yavuz;Önder Aydemir,CrossRef
+Towards accurate BCI-based classification via deep learning: a study of hand movement application,Bowen Tan,CrossRef
+A combined feature extraction method for left-right hand motor imagery in BCI,Jie Hong;Xiansheng Qin;Jing Bai;Peipei Zhang;Yan Cheng,CrossRef
+Classification and recognition of left and right hand motion imagination based on CNN-LSTM,Chen Fan;Yuanyuan Yan;Ming Jing;Xiaodong Zhang;Ye Liu;Junzi Zhang;Xiaoqi Zhang;Fuhua Huang,CrossRef
+Importance of Reliable EEG Data in Motor Imagery Classification: Attention Level-based Approach,Seho Lee;Young-Tak Kim;Seung-Ouk Hwang;Hakseung Kim;Dong-Joo Kim,CrossRef
+EEG Signal Classification of Motor Imagery Right and Left Hand using Common Spatial Pattern and Multilayer Perceptron Back Propagation,Synatria Subekti;Rahmat Widadi;Dodi Zulherman,CrossRef
+Hybrid CNN-RNN in Motor Imagery Identification of Brain-Computer Interface,Affifah Jayanthi;Esmeralda Contessa Djamal,CrossRef
+Sparse Multitask Learning for Efficient Neural Representation of Motor Imagery and Execution,Hye-Bin Shin;Kang Yin;Seong-Whan Lee,CrossRef

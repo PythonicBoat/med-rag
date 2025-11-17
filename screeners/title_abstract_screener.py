@@ -6,6 +6,7 @@ from utils.bias import assess_bias
 DL_KEYWORDS = ['deep learning','neural network','cnn','conv','rnn','lstm','transformer','deep network']
 EEG_KEYWORDS = ['eeg','electroencephalography','brain-computer interface','bci']
 CLASSIFICATION_KEYWORDS = ['classif', 'classifier', 'accuracy', 'f1', 'roc', 'auc', 'sensitivity', 'specificity']
+MI_KEYWORDS = ['motor imagery','mi','imagined movement','left hand','right hand','foot','tongue','bci competition','dataset 2a','dataset 2b']
 REVIEW_KEYWORDS = ['review','survey','systematic review','meta-analysis']
 
 
@@ -46,6 +47,11 @@ def title_abstract_screen(record, cfg):
     if not contains_any(text, EEG_KEYWORDS):
         bias_info = assess_bias(record)
         return {'decision':'Exclude','stage':'title_abstract','exclusion_label':'Not EEG-BCI focused','evidence_snippet':title or abstract,'confidence':0.9,'bias':bias_info}
+
+    # require Motor Imagery focus
+    if not contains_any(text, MI_KEYWORDS):
+        bias_info = assess_bias(record)
+        return {'decision':'Exclude','stage':'title_abstract','exclusion_label':'Not Motor Imagery focused','evidence_snippet':title or abstract,'confidence':0.9,'bias':bias_info}
 
     # require classification-related term to focus the search
     if not contains_any(text, CLASSIFICATION_KEYWORDS):

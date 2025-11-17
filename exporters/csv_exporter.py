@@ -32,3 +32,14 @@ def write_csv(records, path):
         rows.append(row)
     df = pd.DataFrame(rows)
     df.to_csv(path, index=False)
+
+
+def write_minimal_csv(records, path):
+    rows = []
+    for r in records:
+        rows.append({
+            'name': r.get('title'),
+            'author': ' and '.join(r.get('authors') or []),
+            'source': r.get('source')
+        })
+    pd.DataFrame(rows).to_csv(path, index=False)

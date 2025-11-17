@@ -3,12 +3,12 @@
 import argparse
 import yaml
 import os
-from connectors import pubmed_connector, ieee_connector, crossref_connector, scholar_connector, repo_connector
+from connectors import pubmed_connector, ieee_connector, scholar_connector, crossref_connector, repo_connector
 from utils.dedupe import dedupe_records
 from screeners.title_abstract_screener import title_abstract_screen
 from screeners.full_text_screener import full_text_screen
 from exporters.csv_exporter import write_csv
-from exporters.json_exporter import write_prisma_json
+from exporters.json_exporter import write_prisma_json, write_prisma_mermaid
 from exporters.bibtex_exporter import write_bibtex
 from utils.logger import get_logger
 
@@ -43,23 +43,16 @@ def main(config_path, dry_run=False):
     records_by_source['IEEE Xplore'] = ieee_records
     total_identified += len(ieee_records)
 
-    # CrossRef (to catch DOIs and more)
-    logger.info('Searching CrossRef...')
-    crossref_records = crossref_connector.search_crossref(cfg, query=cfg['search']['queries'].get('ieee'))
-    records_by_source['CrossRef'] = crossref_records
-    total_identified += len(crossref_records)
-
-    # Google Scholar fallback (optional)
+    # Google Scholar
     logger.info('Searching Google Scholar (fallback)...')
     gs_records = scholar_connector.search_scholar(cfg['search']['queries']['google_scholar'], cfg)
     records_by_source['Google Scholar'] = gs_records
     total_identified += len(gs_records)
-
-    # Repositories (GitHub, Zenodo)
-    logger.info('Searching Repositories...')
-    repo_records = repo_connector.search_repos(cfg)
-    records_by_source['Repositories'] = repo_records
-    total_identified += len(repo_records)
+    
+    # Optional: CrossRef enrichment (not counted as a primary source)
+    logger.info('Enriching records via CrossRef (optional)...')
+    crossref_records = crossref_connector.search_crossref(cfg, query=cfg['search']['queries'].get('ieee'))
+    records_by_source['CrossRef'] = crossref_records
 
     # Summary counts
     logger.info(f'Total records identified (raw): {total_identified}')
@@ -77,6 +70,18 @@ def main(config_path, dry_run=False):
 
     # Save intermediate artifacts
     write_prisma_json({'records_identified': {k: len(v) for k, v in records_by_source.items()}, 'total_identified': total_identified}, cfg['output']['prisma_json'])
+    try:
+        write_prisma_mermaid({
+            'records_identified': {k: len(v) for k, v in records_by_source.items()},
+            'total_identified': total_identified,
+            'de_dup_count': 0,
+            'excluded_title_abstract': 0,
+            'fulltext_assessed': 0,
+            'fulltext_excluded_detail': {},
+            'included': 0
+        }, os.path.join(artifacts_dir, 'prisma_diagram.md'))
+    except Exception as e:
+        logger.warning('PRISMA diagram generation (pre-screen) failed: %s', e)
 
     # 3. Title/abstract screening
     logger.info('Title/Abstract screening...')
@@ -89,6 +94,12 @@ def main(config_path, dry_run=False):
     # 4. Determine which to fetch full text
     to_fulltext = [r for r in screened if r['ta_decision']['decision'] == 'Include']
     logger.info(f'Full-text to assess: {len(to_fulltext)}')
+
+    try:
+        from exporters.csv_exporter import write_minimal_csv
+        write_minimal_csv(canonical_records, os.path.join(artifacts_dir, 'records_minimal.csv'))
+    except Exception as e:
+        logger.warning('Minimal CSV export failed: %s', e)
 
     if not dry_run:
         # 5. Fetch full text + run full text screen
@@ -111,6 +122,24 @@ def main(config_path, dry_run=False):
             'total_identified': total_identified,
             'de_dup_count': len(canonical_records),
         }, cfg['output']['prisma_json'])
+        try:
+            ft_excl_counts = {}
+            for rec in to_fulltext:
+                lbl = (rec.get('ft_decision') or {}).get('exclusion_label')
+                if lbl:
+                    ft_excl_counts[lbl] = ft_excl_counts.get(lbl, 0) + 1
+            included_count = sum(1 for r in to_fulltext if (r.get('ft_decision') or {}).get('decision') == 'Include')
+            write_prisma_mermaid({
+                'records_by_source': {k: len(v) for k, v in records_by_source.items()},
+                'total_identified': total_identified,
+                'de_dup_count': len(canonical_records),
+                'excluded_title_abstract': sum(1 for r in screened if (r.get('ta_decision') or {}).get('decision') == 'Exclude'),
+                'fulltext_assessed': len(to_fulltext),
+                'fulltext_excluded_detail': ft_excl_counts,
+                'included': included_count
+            }, os.path.join(artifacts_dir, 'prisma_diagram.md'))
+        except Exception as e:
+            logger.warning('PRISMA diagram generation failed: %s', e)
         write_bibtex(final_included, cfg['output']['bib'])
         logger.info('Pipeline finished.')
     else:
